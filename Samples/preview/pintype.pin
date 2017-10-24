@@ -1,0 +1,8 @@
+[PINCOMPONENTS]
+IO_PINS=common:in.1
+IO_PINS=common:out.1
+IO_PINS=common:bi.1
+ONSHEET_PINS=common:onsheet.1
+OFFSHEET_PINS=common:offsheet.1
+POWER_PINS=common:pwr.1
+GROUND_PINS=common:gnd.1

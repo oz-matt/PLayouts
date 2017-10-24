@@ -1,0 +1,174 @@
+| Wirelist created using version 5.4.
+V 5.4
+K 368090423500 preview
+DW preview
+Q Case
+|Q preview:cap1206 1
+AS preview:cap1206 PINOFF
+AS preview:cap1206 PINSWAP=(1,2)
+AS preview:cap1206 REFDES=C?
+AS preview:cap1206 DEVICE=CAP1206
+AS preview:cap1206 VALUE=.1UF
+AS preview:cap1206 P/D_NUM
+AS preview:cap1206 DESCRIPTION=SURFACE MOUNT CAPACITOR 0.062 X 0.126 INCHES
+AS preview:cap1206 MANUFACTURER_#1=IPC SM-782 STD.
+AS preview:cap1206 TOLERANCE
+AS preview:cap1206 SPICE_MODEL
+AS preview:cap1206 SPICE_PAR1
+AS preview:cap1206 SPICE_PAR2=(C)
+AS preview:cap1206 PKG_TYPE=1206
+AS preview:cap1206 VOLTAGE_RATING
+AS preview:cap1206 PINORDER=1 2
+AS preview:cap1206 INOV_VER_REC=23:24_3-7-03
+AP preview:cap1206 1 #=1
+AP preview:cap1206 1 PINTYPE=ANALOG
+AP preview:cap1206 2 #=2
+AP preview:cap1206 2 PINTYPE=ANALOG
+|Q preview:_5vreg 1
+AS preview:_5vreg REFDES=U?
+AS preview:_5vreg DEVICE=+5VREG
+AS preview:_5vreg DESCRIPTION=+5V LINEAR REGULATOR
+AS preview:_5vreg COST
+AS preview:_5vreg P/D_NUM
+AS preview:_5vreg MANUFACTURER_#1
+AS preview:_5vreg VOLTAGE_RATING
+AS preview:_5vreg PKG_TYPE=TO-213AA
+AS preview:_5vreg PINORDER=1 2 3
+AS preview:_5vreg INOV_VER_REC=23:24_3-7-03
+AP preview:_5vreg 1 #=1
+AP preview:_5vreg 1 PINTYPE=ANALOG
+AP preview:_5vreg 2 #=2
+AP preview:_5vreg 2 PINTYPE=ANALOG
+AP preview:_5vreg 3 #=3
+AP preview:_5vreg 3 PINTYPE=ANALOG
+|Q preview:led 1
+AS preview:led PKGORDER=K,A
+AS preview:led REFDES=D?
+AS preview:led DEVICE=LED
+AS preview:led COLOR=?
+AS preview:led P/D_NUM=???
+AS preview:led DESCRIPTION=LIGHT EMITTING DIODE
+AS preview:led MANUFACTURER_#1
+AS preview:led PKG_TYPE=LED/RA
+AS preview:led PINORDER=A K
+AS preview:led INOV_VER_REC=17:48_9-11-06
+AP preview:led 1 #=A
+AP preview:led 1 PINTYPE=ANALOG
+AP preview:led 2 #=K
+AP preview:led 2 PINTYPE=ANALOG
+|Q preview:cap_electaa 1
+AS preview:cap_electaa PINOFF
+AS preview:cap_electaa REFDES=C?
+AS preview:cap_electaa DEVICE=CAP-ELECTAA
+AS preview:cap_electaa VALUE=10
+AS preview:cap_electaa P/D_NUM
+AS preview:cap_electaa MANUFACTURER_#1=IPC SM-782 STD.
+AS preview:cap_electaa DESCRIPTION=ELECTROLYTIC CAP., CASE SIZ "AA"
+AS preview:cap_electaa TOLERANCE
+AS preview:cap_electaa VOLTAGE_RATING
+AS preview:cap_electaa PKG_TYPE=6032
+AS preview:cap_electaa PINORDER=1 2
+AS preview:cap_electaa INOV_VER_REC=23:24_3-7-03
+AP preview:cap_electaa 1 #=1
+AP preview:cap_electaa 1 PINTYPE=ANALOG
+AP preview:cap_electaa 2 #=2
+AP preview:cap_electaa 2 PINTYPE=ANALOG
+|Q preview:r1_8w 1
+AS preview:r1_8w PINSWAP=(1,2)
+AS preview:r1_8w REFDES=R?
+AS preview:r1_8w DEVICE=R1/8W
+AS preview:r1_8w VALUE=10K
+AS preview:r1_8w P/D_NUM
+AS preview:r1_8w DESCRIPTION=RES BODY:060 CENTERS:400
+AS preview:r1_8w MANUFACTURER_#1
+AS preview:r1_8w TOLERANCE
+AS preview:r1_8w SPICE_MODEL
+AS preview:r1_8w SPICE_PAR1
+AS preview:r1_8w SPICE_PAR2=(R)
+AS preview:r1_8w PKG_TYPE=1206
+AS preview:r1_8w PINORDER=1 2
+AS preview:r1_8w INOV_VER_REC=23:24_3-7-03
+AP preview:r1_8w 1 #=1
+AP preview:r1_8w 1 PINTYPE=ANALOG
+AP preview:r1_8w 2 #=2
+AP preview:r1_8w 2 PINTYPE=ANALOG
+G +12V
+G +5V
+G GND
+M preview:cap1206 $2I24
+I $2I24 preview:cap1206 +5V GND REFDES=C2`DEVICE=CAP1206`VALUE=.1UF`
+|R 23:24_3-7-03
+API $2I24 preview:cap1206 1 #=1
+API $2I24 preview:cap1206 2 #=2
+M preview:cap1206 $2I23
+I $2I23 preview:cap1206 +5V GND REFDES=C3`DEVICE=CAP1206`VALUE=.1UF`
+|R 23:24_3-7-03
+API $2I23 preview:cap1206 1 #=1
+API $2I23 preview:cap1206 2 #=2
+M preview:cap1206 $2I22
+I $2I22 preview:cap1206 +5V GND REFDES=C4`DEVICE=CAP1206`VALUE=.1UF`
+|R 23:24_3-7-03
+API $2I22 preview:cap1206 1 #=1
+API $2I22 preview:cap1206 2 #=2
+M preview:cap1206 $2I21
+I $2I21 preview:cap1206 +5V GND REFDES=C5`DEVICE=CAP1206`VALUE=.1UF`
+|R 23:24_3-7-03
+API $2I21 preview:cap1206 1 #=1
+API $2I21 preview:cap1206 2 #=2
+M preview:cap1206 $2I20
+I $2I20 preview:cap1206 +5V GND REFDES=C7`DEVICE=CAP1206`VALUE=.1UF`
+|R 23:24_3-7-03
+API $2I20 preview:cap1206 1 #=1
+API $2I20 preview:cap1206 2 #=2
+M preview:cap1206 $2I19
+I $2I19 preview:cap1206 +5V GND REFDES=C1`DEVICE=CAP1206`VALUE=.1UF`
+|R 23:24_3-7-03
+API $2I19 preview:cap1206 1 #=1
+API $2I19 preview:cap1206 2 #=2
+M preview:cap1206 $2I18
+I $2I18 preview:cap1206 +5V GND REFDES=C6`DEVICE=CAP1206`VALUE=.1UF`
+|R 23:24_3-7-03
+API $2I18 preview:cap1206 1 #=1
+API $2I18 preview:cap1206 2 #=2
+M preview:_5vreg $2I17
+I $2I17 preview:_5vreg +12V +5V GND REFDES=Q1`DEVICE=+5VREG`
+|R 23:24_3-7-03
+API $2I17 preview:_5vreg 1 #=1
+API $2I17 preview:_5vreg 2 #=2
+API $2I17 preview:_5vreg 3 #=3
+M preview:led $2I16
+I $2I16 preview:led $2N34 GND REFDES=D1`DEVICE=LED`COLOR=GREEN`
+|R 23:24_3-7-03
+API $2I16 preview:led 1 #=A
+API $2I16 preview:led 2 #=K
+M preview:cap_electaa $2I15
+I $2I15 preview:cap_electaa +12V GND REFDES=C8`DEVICE=CAP-ELECTAA`VALUE=10`
+|R 23:24_3-7-03
+API $2I15 preview:cap_electaa 1 #=1
+API $2I15 preview:cap_electaa 2 #=2
+M preview:cap_electaa $2I14
+I $2I14 preview:cap_electaa +5V GND REFDES=C9`DEVICE=CAP-ELECTAA`VALUE=10`SPICE_MODEL`SPICE_PAR1`SPICE_PAR2=(C)`COST`50V`
+|R 23:24_3-7-03
+API $2I14 preview:cap_electaa 1 #=1
+API $2I14 preview:cap_electaa 2 #=2
+M preview:r1_8w $2I13
+I $2I13 preview:r1_8w +12V $2N35 REFDES=R6`DEVICE=R1/8W`VALUE=10K`
+|R 23:24_3-7-03
+API $2I13 preview:r1_8w 1 #=1
+API $2I13 preview:r1_8w 2 #=2
+M preview:r1_8w $2I12
+I $2I12 preview:r1_8w +5V $2N34 REFDES=R7`DEVICE=R1/8W`VALUE=10K`
+|R 23:24_3-7-03
+API $2I12 preview:r1_8w 1 #=1
+API $2I12 preview:r1_8w 2 #=2
+M preview:led $2I11
+I $2I11 preview:led $2N35 GND REFDES=D2`DEVICE=LED`COLOR=RED`
+|R 23:24_3-7-03
+API $2I11 preview:led 1 #=A
+API $2I11 preview:led 2 #=K
+M preview:cap1206 $2I10
+I $2I10 preview:cap1206 +5V GND REFDES=C10`DEVICE=CAP1206`VALUE=.1UF`
+|R 23:24_3-7-03
+API $2I10 preview:cap1206 1 #=1
+API $2I10 preview:cap1206 2 #=2
+EW

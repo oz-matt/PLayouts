@@ -1,0 +1,730 @@
+
+Components/elements on layers report
+	design name: C:\PADS Projects\DevDev3.pcb
+	generate on: 10/16/2013 22:01:17
+
+	 Checking layer no. 1!
+ Component found, name = H9, position: x=8050, y=5200
+ Component found, name = BTN1, position: x=7550, y=6380
+ Component found, name = IC1, position: x=2400, y=2250
+ Component found, name = FB1, position: x=10200, y=5830
+ Component found, name = LED4, position: x=8450, y=1400
+ Component found, name = LED5, position: x=9550, y=4190
+ Component found, name = LED6, position: x=10100, y=4190
+ Component found, name = IC2, position: x=810, y=950
+ Component found, name = IC4, position: x=10030, y=1237
+ Component found, name = R1, position: x=1600, y=3000
+ Component found, name = R11, position: x=7450, y=4800
+ Component found, name = R12, position: x=7450, y=4600
+ Component found, name = R14, position: x=8050, y=4150
+ Component found, name = R15, position: x=8050, y=3950
+ Component found, name = R17, position: x=6000, y=5950
+ Component found, name = R18, position: x=5250, y=5950
+ Component found, name = R19, position: x=6640, y=5600
+ Component found, name = R2, position: x=1600, y=2650
+ Component found, name = R20, position: x=6640, y=5360
+ Component found, name = R21, position: x=6640, y=5860
+ Component found, name = R22, position: x=7750, y=4950
+ Component found, name = R3, position: x=1600, y=2300
+ Component found, name = R4, position: x=2200, y=2150
+ Component found, name = R6, position: x=700, y=650
+ Component found, name = R7, position: x=1600, y=1600
+ Component found, name = R8, position: x=5150, y=1300
+ Component found, name = IC5, position: x=9350, y=5540
+ Component IC5 text found
+ Component found, name = SOC1, position: x=6570, y=4550
+ Component found, name = SW1, position: x=2640, y=120
+ Component found, name = C11, position: x=5350, y=5110
+ Component found, name = C6, position: x=8400, y=5300
+ Component found, name = C7, position: x=8400, y=5000
+ Component found, name = USB1, position: x=60, y=2570
+ Component USB1 text found
+ Component found, name = Z1, position: x=8120, y=5580
+ Component found, name = Q3, position: x=4564, y=1501
+ Component found, name = Q4, position: x=3880, y=1532
+ Component found, name = R23, position: x=3584, y=1900
+ Component found, name = R24, position: x=4172, y=1266
+ Component found, name = R25, position: x=3242, y=1809
+ Component found, name = R26, position: x=3416, y=2798
+ Component found, name = R27, position: x=3408, y=2548
+ Component found, name = RGB1, position: x=3143, y=2827
+ Component found, name = C3, position: x=900, y=300
+ Component found, name = H2, position: x=350, y=850
+ Component found, name = C2, position: x=2450, y=1150
+ Component found, name = SW2, position: x=3513, y=412
+ Component found, name = H5, position: x=5050, y=750
+ Component H5 text found
+ Component found, name = H3, position: x=5700, y=2150
+ Component found, name = R9, position: x=8450, y=900
+ Component found, name = POT1, position: x=1200, y=1750
+ Component found, name = T1, position: x=2050, y=1850
+ Component found, name = C4, position: x=2550, y=1650
+ Component found, name = IC3, position: x=6400, y=250
+ Component found, name = H4, position: x=7700, y=250
+ Component found, name = C1, position: x=640, y=2850
+ Component found, name = R5, position: x=2200, y=2000
+ Component found, name = H1, position: x=2450, y=2550
+ Component found, name = H10, position: x=3970, y=2206
+ Component found, name = Q5, position: x=3758, y=3126
+ Component found, name = C8, position: x=7050, y=4240
+ Component found, name = R16, position: x=8050, y=3750
+ Component found, name = Q2, position: x=8450, y=3900
+ Component found, name = R13, position: x=8050, y=4400
+ Component found, name = Q1, position: x=8450, y=4450
+ Component found, name = C13, position: x=5000, y=5850
+ Component found, name = C12, position: x=5000, y=5450
+ Component found, name = C9, position: x=5750, y=5450
+ Component found, name = C10, position: x=5750, y=5850
+ Component found, name = C14, position: x=6250, y=6050
+ Component found, name = BAT, position: x=2880, y=3530
+ Component BAT text found
+ Component found, name = AJ2, position: x=5430, y=6850
+ Component found, name = AJ1, position: x=6230, y=6850
+ Component found, name = SMA2, position: x=8400, y=6810
+ Component found, name = SMA1, position: x=9615, y=213
+ Component found, name = H6, position: x=9050, y=1400
+ Component found, name = C5, position: x=10280, y=1537
+ Component found, name = H7, position: x=8850, y=5790
+ Component found, name = H8, position: x=10800, y=4190
+ Component found, name = C17, position: x=10210, y=6020
+ Component found, name = C16, position: x=10520, y=6020
+ Component found, name = C15, position: x=10830, y=6020
+ Via found, position: x=825, y=825
+ Via found, position: x=875, y=1175
+ Via found, position: x=1310, y=1050
+ Via found, position: x=10782, y=887
+ Via found, position: x=10781, y=791
+ Via found, position: x=700, y=1250
+ Via found, position: x=800, y=1250
+ Via found, position: x=2200, y=2400
+ Via found, position: x=2500, y=2200
+ Via found, position: x=2825, y=2450
+ Via found, position: x=7216, y=2305
+ Via found, position: x=7475, y=2275
+ Via found, position: x=9150, y=3900
+ Via found, position: x=9107, y=4250
+ Via found, position: x=9300, y=4250
+ Via found, position: x=9400, y=4250
+ Via found, position: x=9200, y=4250
+ Via found, position: x=6150, y=5100
+ Via found, position: x=6325, y=5025
+ Via found, position: x=7075, y=5025
+ Via found, position: x=9500, y=4900
+ Via found, position: x=9900, y=4900
+ Via found, position: x=9990, y=4680
+ Via found, position: x=9484, y=4401
+ Via found, position: x=9575, y=4400
+ Via found, position: x=9600, y=4950
+ Via found, position: x=9825, y=4425
+ Via found, position: x=9675, y=4400
+ Via found, position: x=10100, y=4550
+ Via found, position: x=10050, y=4450
+ Via found, position: x=10050, y=4625
+ Via found, position: x=8200, y=5700
+ Via found, position: x=8550, y=5550
+ Via found, position: x=8475, y=5750
+ Via found, position: x=8475, y=5625
+ Via found, position: x=8575, y=5825
+ Via found, position: x=8550, y=5975
+ Via found, position: x=9575, y=5800
+ Via found, position: x=9375, y=5700
+ Via found, position: x=9475, y=5825
+ Via found, position: x=10525, y=5525
+ Via found, position: x=10550, y=5375
+ Via found, position: x=1100, y=1275
+ Via found, position: x=8050, y=5650
+ Via found, position: x=9825, y=900
+ Via found, position: x=9850, y=1125
+ Via found, position: x=9350, y=4750
+ Via found, position: x=10175, y=5125
+ Trace found, name = C1.1-USB1.1, position: x=165.3, y=2474.2
+ Trace found, name = C1.2-USB1.5, position: x=180, y=2357.1
+ Trace found, name = C1.2-USB1.5, position: x=180, y=2357.1
+ Trace found, name = C1.1-H1.1, position: x=2450, y=2950
+ Trace found, name = H1.2-H1.1, position: x=2450, y=2850
+ Trace found, name = H1.1-IC1.1, position: x=2400, y=2328.74
+ Trace found, name = IC1.2-IC1.1, position: x=2400, y=2309.06
+ Trace found, name = H1.3-R1.2, position: x=2450, y=2750
+ Trace found, name = H1.4-R2.2, position: x=2200, y=2650
+ Trace found, name = C1.1-USB1.1, position: x=181.1, y=2490
+ Trace found, name = C1.1-USB1.1, position: x=640, y=2850
+ Trace found, name = C1.1-H1.1, position: x=925, y=2995
+ Trace found, name = C1.1-H1.1, position: x=640, y=2850
+ Trace found, name = IC1.9-IC1.10, position: x=2560.43, y=2309.06
+ Trace found, name = H1.9-IC1.10, position: x=2560.43, y=2328.74
+ Trace found, name = IC1.8-H1.8, position: x=2560.43, y=2289.37
+ Trace found, name = IC1.8-H1.8, position: x=2649.69, y=2289.37
+ Trace found, name = IC1.8-H1.8, position: x=2825, y=2450
+ Trace found, name = R3.2-IC1.7, position: x=2420, y=2189.69
+ Trace found, name = R3.2-IC1.7, position: x=2420, y=2189.69
+ Trace found, name = H1.4-IC1.4, position: x=2400, y=2269.69
+ Trace found, name = IC1.3-H1.3, position: x=2400, y=2289.37
+ Trace found, name = R4.1-IC1.8, position: x=2200, y=2150
+ Trace found, name = IC1.6-H1.6, position: x=2500, y=2200
+ Trace found, name = R5.2-T1.2, position: x=1750, y=1850
+ Trace found, name = R4.2-R5.2, position: x=1600, y=2000
+ Trace found, name = R7.2-J5.2, position: x=1830, y=1230
+ Trace found, name = R7.2-C4.1, position: x=2200, y=1600
+ Trace found, name = R6.1-IC2.2, position: x=710, y=649.37
+ Trace found, name = R6.1-IC2.2, position: x=710, y=649.37
+ Trace found, name = H2.2-R6.1, position: x=220, y=850
+ Trace found, name = H2.9-IC2.7, position: x=770.63, y=1064.17
+ Trace found, name = J6.2-H2.1, position: x=350, y=1250
+ Trace found, name = IC2.6-H2.8, position: x=790.31, y=1064.17
+ Trace found, name = IC2.5-H2.7, position: x=810, y=1064.17
+ Trace found, name = IC2.1-H2.1, position: x=750.94, y=950
+ Trace found, name = IC2.5-H2.7, position: x=875, y=1175
+ Trace found, name = H2.3-IC2.3, position: x=825, y=825
+ Trace found, name = IC2.8-H2.10, position: x=750.94, y=1064.17
+ Trace found, name = C3.1-R6.1, position: x=900, y=300
+ Trace found, name = R6.2-J4.1, position: x=1310, y=1050
+ Trace found, name = H3.1-IC3.1, position: x=5700, y=2150
+ Trace found, name = H3.2-IC3.2, position: x=5700, y=2050
+ Trace found, name = H3.3-IC3.3, position: x=5700, y=1950
+ Trace found, name = H3.4-IC3.4, position: x=5700, y=1850
+ Trace found, name = H3.5-IC3.5, position: x=5700, y=1750
+ Trace found, name = H3.6-IC3.6, position: x=5700, y=1650
+ Trace found, name = H3.7-IC3.7, position: x=5700, y=1550
+ Trace found, name = H3.8-IC3.8, position: x=5700, y=1450
+ Trace found, name = IC3.9-H3.9, position: x=5700, y=1350
+ Trace found, name = H3.11-IC3.11, position: x=5700, y=1150
+ Trace found, name = H3.12-IC3.12, position: x=5700, y=1050
+ Trace found, name = H3.13-IC3.13, position: x=5700, y=950
+ Trace found, name = IC3.14-H3.14, position: x=5700, y=850
+ Trace found, name = IC3.15-H3.15, position: x=5700, y=750
+ Trace found, name = H3.16-IC3.16, position: x=5700, y=650
+ Trace found, name = H3.17-IC3.17, position: x=5700, y=550
+ Trace found, name = H3.18-IC3.18, position: x=5700, y=450
+ Trace found, name = H3.19-IC3.19, position: x=5700, y=350
+ Trace found, name = H3.20-IC3.20, position: x=5700, y=250
+ Trace found, name = H4.20-IC3.40, position: x=7000, y=2150
+ Trace found, name = H4.19-IC3.39, position: x=7000, y=2050
+ Trace found, name = H4.18-IC3.38, position: x=7000, y=1950
+ Trace found, name = H4.17-IC3.37, position: x=7000, y=1850
+ Trace found, name = H4.16-IC3.36, position: x=7000, y=1750
+ Trace found, name = H4.15-IC3.35, position: x=7000, y=1650
+ Trace found, name = H4.14-IC3.34, position: x=7000, y=1550
+ Trace found, name = H4.13-IC3.33, position: x=7000, y=1450
+ Trace found, name = H4.12-IC3.32, position: x=7000, y=1350
+ Trace found, name = IC3.31-H4.11, position: x=7000, y=1250
+ Trace found, name = IC3.29-H4.9, position: x=7000, y=1050
+ Trace found, name = IC3.28-H4.8, position: x=7000, y=950
+ Trace found, name = IC3.27-H4.7, position: x=7000, y=850
+ Trace found, name = IC3.26-H4.6, position: x=7000, y=750
+ Trace found, name = IC3.25-H4.5, position: x=7000, y=650
+ Trace found, name = IC3.24-H4.4, position: x=7000, y=550
+ Trace found, name = IC3.23-H4.3, position: x=7000, y=450
+ Trace found, name = IC3.22-H4.2, position: x=7000, y=350
+ Trace found, name = H4.1-IC3.21, position: x=7000, y=250
+ Trace found, name = H5.6-R8.1, position: x=5150, y=950
+ Trace found, name = H5.3-R6.2, position: x=4593, y=292
+ Trace found, name = H5.3-R8.2, position: x=5050, y=750
+ Trace found, name = IC3.10-IC3.30, position: x=7000, y=1150
+ Trace found, name = IC3.10-H3.10, position: x=5700, y=1250
+ Trace found, name = H3.10-R8.2, position: x=5700, y=1250
+ Trace found, name = H4.10-IC3.30, position: x=7000, y=1150
+ Trace found, name = H6.1-H4.10, position: x=7700, y=1150
+ Trace found, name = C5.1-H6.1, position: x=9050, y=1400
+ Trace found, name = C5.1-H6.1, position: x=10280, y=1537
+ Trace found, name = H2.3-IC2.3, position: x=830, y=830
+ Trace found, name = J5.1-IC2.3, position: x=830, y=830
+ Trace found, name = H1.4-IC1.4, position: x=2490, y=2400
+ Trace found, name = H1.4-IC1.4, position: x=2360, y=2560
+ Trace found, name = C2.1-H1.9, position: x=2741.69, y=2690
+ Trace found, name = H1.10-H1.9, position: x=2550, y=2850
+ Trace found, name = BAT.1-H1.10, position: x=2550, y=2950
+ Trace found, name = H2.2-R6.1, position: x=700, y=650
+ Trace found, name = C5.1-LED5.1, position: x=9880, y=4230
+ Trace found, name = C5.1-LED6.1, position: x=9880, y=4230
+ Trace found, name = LED6.1-FB1.2, position: x=10850, y=4030
+ Trace found, name = C5.1-LED6.1, position: x=10100, y=4290
+ Trace found, name = IC5.56-FB1.1, position: x=9979.92, y=5697.48
+ Trace found, name = C17.1-FB1.1, position: x=10155, y=5830
+ Trace found, name = C16.1-C17.1, position: x=10210, y=6020
+ Trace found, name = C15.1-C16.1, position: x=10520, y=6020
+ Trace found, name = IC5.57-IC5.56, position: x=9940.55, y=5697.48
+ Trace found, name = IC5.55-IC5.56, position: x=9979.92, y=5697.48
+ Trace found, name = IC4.4-H6.4, position: x=9050, y=1100
+ Trace found, name = IC4.4-H6.4, position: x=10030, y=1059.83
+ Trace found, name = IC4.5-H6.5, position: x=9050, y=1000
+ Trace found, name = IC4.5-H6.5, position: x=10030, y=1000.78
+ Trace found, name = H8.22-H8.21, position: x=10700, y=5490
+ Trace found, name = H8.21-FB1.1, position: x=10260, y=5750
+ Trace found, name = H8.21-FB1.1, position: x=10157.5, y=5827.5
+ Trace found, name = H8.21-FB1.1, position: x=10260, y=5750
+ Trace found, name = H8.18-IC5.52, position: x=10137.4, y=5697.48
+ Trace found, name = H8.17-IC5.51, position: x=10294.88, y=5540
+ Trace found, name = H8.16-IC5.50, position: x=10294.88, y=5500.63
+ Trace found, name = H8.15-IC5.49, position: x=10294.88, y=5461.26
+ Trace found, name = H8.15-IC5.49, position: x=10525, y=5525
+ Trace found, name = H8.14-IC5.48, position: x=10294.88, y=5421.89
+ Trace found, name = H8.22-H8.21, position: x=10840, y=5340
+ Trace found, name = H8.22-H8.21, position: x=10840, y=5340
+ Trace found, name = H8.13-IC5.47, position: x=10550, y=5375
+ Trace found, name = IC5.43-H8.9, position: x=10800, y=4990
+ Trace found, name = IC5.42-H8.8, position: x=10800, y=4890
+ Trace found, name = IC5.41-H8.7, position: x=10800, y=4790
+ Trace found, name = IC5.40-H8.6, position: x=10800, y=4690
+ Trace found, name = IC5.38-H8.4, position: x=10800, y=4490
+ Trace found, name = H8.3-IC5.37, position: x=10800, y=4390
+ Trace found, name = H8.2-IC5.36, position: x=10800, y=4290
+ Trace found, name = H8.1-IC5.35, position: x=10800, y=4190
+ Trace found, name = IC5.1-H7.1, position: x=9350, y=5540
+ Trace found, name = H7.3-IC5.3, position: x=9350, y=5461.26
+ Trace found, name = H7.4-IC5.4, position: x=9350, y=5421.89
+ Trace found, name = H7.5-IC5.5, position: x=9017.48, y=5340
+ Trace found, name = H7.5-IC5.5, position: x=9017.48, y=5340
+ Trace found, name = H7.6-IC5.6, position: x=9036.85, y=5240
+ Trace found, name = H7.6-IC5.6, position: x=9036.85, y=5240
+ Trace found, name = H7.7-IC5.7, position: x=9016.22, y=5140
+ Trace found, name = H7.7-IC5.7, position: x=9016.22, y=5140
+ Trace found, name = H7.8-IC5.8, position: x=9005.59, y=5040
+ Trace found, name = H7.8-IC5.8, position: x=9005.59, y=5040
+ Trace found, name = H7.11-IC5.11, position: x=9020, y=4740
+ Trace found, name = H7.11-IC5.11, position: x=9020, y=4740
+ Trace found, name = H7.12-IC5.12, position: x=9010, y=4640
+ Trace found, name = H7.12-IC5.12, position: x=9010, y=4640
+ Trace found, name = H7.13-IC5.13, position: x=9030, y=4540
+ Trace found, name = H7.13-IC5.13, position: x=9030, y=4540
+ Trace found, name = H7.14-IC5.14, position: x=9010, y=4440
+ Trace found, name = H7.14-IC5.14, position: x=9010, y=4440
+ Trace found, name = H7.15-IC5.15, position: x=8991.18, y=4340
+ Trace found, name = H7.15-IC5.15, position: x=8991.18, y=4340
+ Trace found, name = H7.16-IC5.16, position: x=9020, y=4240
+ Trace found, name = H7.16-IC5.16, position: x=9020, y=4240
+ Trace found, name = H7.20-IC5.20, position: x=9200, y=4250
+ Trace found, name = H7.21-IC5.21, position: x=9300, y=4250
+ Trace found, name = H7.22-IC5.22, position: x=9400, y=4250
+ Trace found, name = IC5.24-H7.24, position: x=9575, y=4400
+ Trace found, name = H7.25-IC5.25, position: x=9675, y=4400
+ Trace found, name = H7.26-IC5.26, position: x=9822.44, y=4752.6
+ Trace found, name = H7.27-IC5.27, position: x=9861.81, y=4752.6
+ Trace found, name = H7.28-IC5.28, position: x=9825, y=4425
+ Trace found, name = H7.34-IC5.30, position: x=9979.92, y=4752.6
+ Trace found, name = IC5.31-H7.33, position: x=9990, y=4680
+ Trace found, name = IC5.32-H7.32, position: x=10050, y=4625
+ Trace found, name = H7.31-IC5.33, position: x=10100, y=4550
+ Trace found, name = H7.30-IC5.34, position: x=10050, y=4450
+ Trace found, name = H8.34-IC5.68, position: x=9507.48, y=5697.48
+ Trace found, name = H8.33-IC5.67, position: x=9546.85, y=5697.48
+ Trace found, name = H8.32-IC5.66, position: x=9586.22, y=5697.48
+ Trace found, name = R16.2-R15.1, position: x=7450, y=3750
+ Trace found, name = R15.1-Q2.2, position: x=8050, y=3950
+ Trace found, name = R14.1-Q2.3, position: x=8450, y=4100
+ Trace found, name = R13.2-R12.1, position: x=7450, y=4400
+ Trace found, name = Q1.2-R12.1, position: x=8310, y=4510
+ Trace found, name = Q1.2-R12.1, position: x=8310, y=4510
+ Trace found, name = R11.1-Q1.3, position: x=8450, y=4650
+ Trace found, name = H9.2-C7.2, position: x=8300, y=5000
+ Trace found, name = H9.1-C6.2, position: x=8050, y=5200
+ Trace found, name = H7.34-Z1.6, position: x=8194.8, y=5580
+ Trace found, name = H7.34-Z1.6, position: x=8950, y=5790
+ Trace found, name = Z1.5-H7.33, position: x=8194.8, y=5555
+ Trace found, name = Z1.4-H7.32, position: x=8194.8, y=5530
+ Trace found, name = Z1.4-H7.32, position: x=8475, y=5625
+ Trace found, name = Z1.1-H7.30, position: x=8120, y=5580
+ Trace found, name = H7.31-Z1.3, position: x=8440, y=5460
+ Trace found, name = H7.31-Z1.3, position: x=8440, y=5460
+ Trace found, name = Z1.3-R21.2, position: x=8120, y=5530
+ Trace found, name = H7.1-BTN1.1, position: x=8550, y=5975
+ Trace found, name = IC5.2-H7.2, position: x=9350, y=5500.63
+ Trace found, name = BTN1.4-H7.2, position: x=8850, y=5690
+ Trace found, name = H8.10-IC5.44, position: x=10800, y=5090
+ Trace found, name = R22.2-SOC1.4, position: x=6570, y=4250
+ Trace found, name = R20.1-SOC1.3, position: x=6570, y=4350
+ Trace found, name = R21.1-SOC1.2, position: x=6570, y=4450
+ Trace found, name = C14.1-SOC1.1, position: x=6570, y=4550
+ Trace found, name = R19.1-SOC1.7, position: x=5416.46, y=4350
+ Trace found, name = R17.2-J8.1, position: x=6000, y=5350
+ Trace found, name = R17.1-C10.1, position: x=6000, y=5944.44
+ Trace found, name = R17.1-AJ1.3, position: x=6000, y=5950
+ Trace found, name = R17.2-C9.1, position: x=6000, y=5350
+ Trace found, name = C12.1-R18.2, position: x=5250, y=5350
+ Trace found, name = R18.2-C11.2, position: x=5250, y=5110
+ Trace found, name = R18.2-J11.1, position: x=5250, y=5350
+ Trace found, name = R18.1-C13.1, position: x=5000, y=5850
+ Trace found, name = R17.1-C10.1, position: x=5750, y=5850
+ Trace found, name = AJ2.3-AJ2.2, position: x=5430, y=6310.63
+ Trace found, name = AJ2.3-AJ2.2, position: x=5225, y=6409
+ Trace found, name = R18.1-AJ2.2, position: x=5250, y=5950
+ Trace found, name = AJ1.3-AJ1.2, position: x=6230, y=6310.63
+ Trace found, name = J14.2-IC5.60, position: x=9822.44, y=5697.48
+ Trace found, name = ANT2.8-IC5.60, position: x=9822.44, y=6079
+ Trace found, name = J14.1-SMA2.1, position: x=8399, y=6436
+ Trace found, name = IC4.2-H6.2, position: x=10030, y=1177.94
+ Trace found, name = H6.10-IC4.10, position: x=9050, y=500
+ Trace found, name = IC4.9-H6.9, position: x=9050, y=600
+ Trace found, name = ANT1.1-J7.2, position: x=10660, y=339
+ Trace found, name = J7.2-IC4.11, position: x=10659.92, y=478
+ Trace found, name = J7.1-SMA1.1, position: x=9615, y=213
+ Trace found, name = C5.1-IC4.1, position: x=10030, y=1237
+ Trace found, name = SMA1.2-U11.1, position: x=9512, y=106
+ Trace found, name = SMA1.2-U11.1, position: x=9512, y=106
+ Trace found, name = U4.1-SMA2.2, position: x=7700, y=6840
+ Trace found, name = C13.2-J13.1, position: x=4800, y=5850
+ Trace found, name = C10.2-J10.1, position: x=5550, y=5850
+ Trace found, name = C12.2-J12.1, position: x=4900, y=5200
+ Trace found, name = H8.25-IC5.39, position: x=10294.88, y=5067.56
+ Trace found, name = H8.25-IC5.29, position: x=10177.5, y=5122.5
+ Trace found, name = H7.29-IC5.18, position: x=9350, y=4750
+ Trace found, name = H7.29-IC5.17, position: x=9350, y=4750
+ Trace found, name = R21.1-SOC1.2, position: x=6730, y=5100
+ Trace found, name = R21.1-SOC1.2, position: x=6560, y=5780
+ Trace found, name = R20.1-SOC1.3, position: x=6790, y=5160
+ Trace found, name = J14.1-SMA2.1, position: x=9644, y=6079
+ Trace found, name = H1.5-IC1.5, position: x=2400, y=2250
+ Trace found, name = U12.1-SOC1.8, position: x=4918, y=4131
+ Trace found, name = SOC1.5-SOC1.8, position: x=5416.46, y=4250
+ Trace found, name = SOC1.5-SOC1.8, position: x=5416.46, y=4550
+ Trace found, name = SOC1.5-J9.1, position: x=5416.46, y=4550
+ Trace found, name = H8.25-IC5.29, position: x=9940.55, y=4752.6
+ Trace found, name = H7.30-IC5.34, position: x=10180, y=4567.4
+ Trace found, name = C2.1-SW1.1, position: x=2304, y=596
+ Trace found, name = C2.1-H1.9, position: x=2450, y=1150
+ Trace found, name = LED6.1-FB1.2, position: x=10850, y=4030
+ Trace found, name = LED6.1-FB1.2, position: x=10245, y=5830
+ Trace found, name = C5.1-LED5.1, position: x=10280, y=1537
+ Trace found, name = H8.21-FB1.1, position: x=10870, y=5570
+ Trace found, name = H7.29-Z1.2, position: x=8120, y=5555
+ Trace found, name = H8.23-H8.22, position: x=10700, y=5290
+ Trace found, name = H8.24-IC5.45, position: x=10700, y=5190
+ Trace found, name = IC5.46-IC5.45, position: x=10294.88, y=5303.78
+ Trace found, name = IC5.53-IC5.46, position: x=10294.88, y=5343.15
+ Trace found, name = IC5.54-IC5.53, position: x=10098.03, y=5697.48
+ Trace found, name = IC5.59-IC5.58, position: x=9901.18, y=5697.48
+ Trace found, name = U3.1-IC5.58, position: x=9901.18, y=5697.48
+ Trace found, name = IC5.65-IC5.64, position: x=9625.59, y=5697.48
+ Trace found, name = IC5.64-IC5.63, position: x=9664.96, y=5697.48
+ Trace found, name = IC5.63-IC5.62, position: x=9704.33, y=5697.48
+ Trace found, name = IC5.63-IC5.62, position: x=9706, y=5697.48
+ Trace found, name = IC5.62-IC5.61, position: x=9743.7, y=5697.48
+ Trace found, name = IC4.12-U40.1, position: x=10541, y=556
+ Trace found, name = U28.1-ANT2.11, position: x=10586, y=6453
+ Trace found, name = IC4.19-U6.1, position: x=10659.92, y=1177.94
+ Trace found, name = H6.3-IC4.3, position: x=10030, y=1118.89
+ Trace found, name = H6.3-IC4.8, position: x=10030, y=823.61
+ Trace found, name = BAT.1-H1.10, position: x=2550, y=3316
+ Trace found, name = BAT.12-H1.10, position: x=2550, y=3316
+ Trace found, name = BAT.11-BAT.12, position: x=2880, y=3870
+ Trace found, name = BAT.11-BAT.10, position: x=2120, y=3870
+ Trace found, name = BAT.10-BAT.1, position: x=1360, y=3870
+ Trace found, name = H5.3-R6.2, position: x=1300, y=650
+ Trace found, name = H5.3-R6.2, position: x=4593, y=292
+ Trace found, name = SW1.2-R25.2, position: x=2083, y=429
+ Trace found, name = SW1.2-R25.2, position: x=2083, y=429
+ Trace found, name = SW1.2-R25.2, position: x=3242, y=1209
+ Trace found, name = R24.2-R25.2, position: x=3242, y=1209
+ Trace found, name = R24.2-R25.2, position: x=3572, y=1266
+ Trace found, name = R24.2-Q4.2, position: x=3572, y=1266
+ Trace found, name = R25.1-R23.1, position: x=3242, y=1809
+ Trace found, name = R8.2-Q4.3, position: x=3921, y=1532
+ Trace found, name = R8.2-Q4.3, position: x=4471, y=1900
+ Trace found, name = Q4.1-R23.2, position: x=3841, y=1569.5
+ Trace found, name = Q4.1-R23.2, position: x=4184, y=1900
+ Trace found, name = R24.1-Q3.2, position: x=4172, y=1266
+ Trace found, name = Q3.1-SW2.2, position: x=3426, y=636
+ Trace found, name = R8.2-J15.1, position: x=4471, y=1900
+ Trace found, name = R26.1-RGB1.4, position: x=3143, y=2677
+ Trace found, name = R2.1-R1.1, position: x=1600, y=2650
+ Trace found, name = R27.1-Q5.2, position: x=3408, y=2548
+ Trace found, name = R26.2-Q5.3, position: x=3558, y=3126
+ Trace found, name = R26.2-Q5.3, position: x=4016, y=2798
+ Trace found, name = IC3.40-R27.2, position: x=7000, y=2150
+ Trace found, name = H10.2-J15.2, position: x=3964, y=2300
+ Trace found, name = H7.9-IC5.9, position: x=8901, y=4939.04
+ Trace found, name = H7.9-IC5.9, position: x=8901, y=4939.04
+ Trace found, name = H7.10-IC5.10, position: x=8901, y=4839
+ Trace found, name = H7.10-IC5.10, position: x=8901, y=4839
+ Trace found, name = H7.10-IC3.15, position: x=7475, y=2275
+ Trace found, name = H7.9-IC3.14, position: x=7216, y=2290
+ Trace found, name = H7.9-IC3.14, position: x=7216, y=2290
+ Trace found, name = J6.1-IC2.4, position: x=810, y=950
+ Trace found, name = J6.1-H2.4, position: x=980, y=1320
+ Trace found, name = J6.1-H2.4, position: x=1100, y=1275
+ Trace found, name = IC5.62-U24.1, position: x=9706, y=5697.48
+ Trace found, name = C10.1-J10.2, position: x=5750, y=5850
+ Trace found, name = R18.1-J11.2, position: x=5450, y=5682
+ Trace found, name = C12.1-J12.2, position: x=4932, y=5200
+ Trace found, name = J13.2-C13.1, position: x=5000, y=5850
+ Trace found, name = J14.2-IC5.60, position: x=9676, y=6079
+ Trace found, name = R7.1-J4.2, position: x=1310, y=1232
+ Trace found, name = R7.2-J5.2, position: x=1830, y=1230
+ Trace found, name = J6.2-H2.1, position: x=940.94, y=1350
+ Trace found, name = J7.2-IC4.11, position: x=10549, y=478
+ Trace found, name = R17.1-J8.2, position: x=6200, y=5682
+ Trace found, name = C9.1-J9.2, position: x=5682, y=5200
+ Trace found, name = H10.2-J15.2, position: x=3964, y=2300
+ Trace found, name = IC5.23-H7.23, position: x=9484, y=4401
+ Trace found, name = H7.19-R17.2, position: x=9150, y=3900
+ Trace found, name = IC5.19-H7.19, position: x=9107, y=4250
+ Trace found, name = IC4.14-H6.14, position: x=10659.92, y=882.67
+ Trace found, name = IC4.13-H6.13, position: x=10781, y=791
+
+	 Checking layer no. 2!
+ Via found, position: x=825, y=825
+ Via found, position: x=875, y=1175
+ Via found, position: x=1310, y=1050
+ Via found, position: x=10782, y=887
+ Via found, position: x=10781, y=791
+ Via found, position: x=700, y=1250
+ Via found, position: x=800, y=1250
+ Via found, position: x=2200, y=2400
+ Via found, position: x=2500, y=2200
+ Via found, position: x=2825, y=2450
+ Via found, position: x=7216, y=2305
+ Via found, position: x=7475, y=2275
+ Via found, position: x=9150, y=3900
+ Via found, position: x=9107, y=4250
+ Via found, position: x=9300, y=4250
+ Via found, position: x=9400, y=4250
+ Via found, position: x=9200, y=4250
+ Via found, position: x=6150, y=5100
+ Via found, position: x=6325, y=5025
+ Via found, position: x=7075, y=5025
+ Via found, position: x=9500, y=4900
+ Via found, position: x=9900, y=4900
+ Via found, position: x=9990, y=4680
+ Via found, position: x=9484, y=4401
+ Via found, position: x=9575, y=4400
+ Via found, position: x=9600, y=4950
+ Via found, position: x=9825, y=4425
+ Via found, position: x=9675, y=4400
+ Via found, position: x=10100, y=4550
+ Via found, position: x=10050, y=4450
+ Via found, position: x=10050, y=4625
+ Via found, position: x=8200, y=5700
+ Via found, position: x=8550, y=5550
+ Via found, position: x=8475, y=5750
+ Via found, position: x=8475, y=5625
+ Via found, position: x=8575, y=5825
+ Via found, position: x=8550, y=5975
+ Via found, position: x=9575, y=5800
+ Via found, position: x=9375, y=5700
+ Via found, position: x=9475, y=5825
+ Via found, position: x=10525, y=5525
+ Via found, position: x=10550, y=5375
+ Via found, position: x=1100, y=1275
+ Via found, position: x=8050, y=5650
+ Via found, position: x=9825, y=900
+ Via found, position: x=9850, y=1125
+ Via found, position: x=9350, y=4750
+ Via found, position: x=10175, y=5125
+ Trace found, name = IC1.8-H1.8, position: x=2825, y=2450
+ Trace found, name = H1.7-R3.2, position: x=2200, y=2300
+ Trace found, name = IC1.3-H1.3, position: x=2200, y=2400
+ Trace found, name = POT1.2-POT1.3, position: x=1300, y=1850
+ Trace found, name = POT1.3-IC1.6, position: x=1200, y=1950
+ Trace found, name = IC1.6-H1.6, position: x=2500, y=2200
+ Trace found, name = H2.9-IC3.22, position: x=450, y=1150
+ Trace found, name = IC2.6-H2.8, position: x=450, y=1050
+ Trace found, name = IC2.5-H2.7, position: x=450, y=950
+ Trace found, name = H2.3-IC2.3, position: x=825, y=825
+ Trace found, name = R6.2-J4.1, position: x=1300, y=650
+ Trace found, name = R8.1-H3.9, position: x=5150, y=1300
+ Trace found, name = H3.6-H5.2, position: x=5050, y=850
+ Trace found, name = H5.5-H3.8, position: x=5150, y=850
+ Trace found, name = H3.6-H5.2, position: x=4930, y=1340
+ Trace found, name = H5.5-H3.8, position: x=5250, y=1110
+ Trace found, name = H5.5-H3.8, position: x=5010, y=1320
+ Trace found, name = H1.7-R3.2, position: x=2560, y=2640
+ Trace found, name = IC3.17-H6.10, position: x=8440, y=100
+ Trace found, name = IC3.17-H6.10, position: x=8440, y=100
+ Trace found, name = IC3.16-H6.9, position: x=8100, y=170
+ Trace found, name = IC3.16-H6.9, position: x=8100, y=170
+ Trace found, name = LED4.1-H6.5, position: x=9050, y=1000
+ Trace found, name = H8.15-IC5.49, position: x=10525, y=5525
+ Trace found, name = H8.13-IC5.47, position: x=10750, y=5340
+ Trace found, name = H8.13-IC5.47, position: x=10750, y=5340
+ Trace found, name = H7.20-IC5.20, position: x=9200, y=4250
+ Trace found, name = H7.21-IC5.21, position: x=9300, y=4250
+ Trace found, name = H7.22-IC5.22, position: x=9400, y=4250
+ Trace found, name = IC5.24-H7.24, position: x=9575, y=4400
+ Trace found, name = H7.25-IC5.25, position: x=9675, y=4400
+ Trace found, name = H7.26-IC5.26, position: x=9500, y=4900
+ Trace found, name = H7.27-IC5.27, position: x=9600, y=4950
+ Trace found, name = H7.34-IC5.30, position: x=9900, y=4900
+ Trace found, name = H8.34-IC5.68, position: x=10700, y=4190
+ Trace found, name = H8.33-IC5.67, position: x=10700, y=4290
+ Trace found, name = H8.18-R15.2, position: x=10240, y=3750
+ Trace found, name = H8.18-R15.2, position: x=10240, y=3750
+ Trace found, name = LED6.2-R14.2, position: x=7450, y=4150
+ Trace found, name = LED6.2-R14.2, position: x=9920, y=4010
+ Trace found, name = LED6.2-R14.2, position: x=9920, y=4010
+ Trace found, name = H7.26-C8.1, position: x=7050, y=4240
+ Trace found, name = R12.2-IC5.66, position: x=8050, y=4600
+ Trace found, name = R12.2-IC5.66, position: x=9575, y=5800
+ Trace found, name = H8.32-IC5.66, position: x=10700, y=4390
+ Trace found, name = R19.2-Z1.5, position: x=7240, y=5600
+ Trace found, name = R19.2-Z1.5, position: x=8475, y=5750
+ Trace found, name = R22.2-Z1.1, position: x=7750, y=5550
+ Trace found, name = R22.2-Z1.1, position: x=8200, y=5700
+ Trace found, name = R20.2-Z1.4, position: x=7240, y=5360
+ Trace found, name = BTN1.4-H7.2, position: x=8575, y=5825
+ Trace found, name = R19.1-SOC1.7, position: x=6325, y=5025
+ Trace found, name = H7.21-C11.1, position: x=6920, y=4870
+ Trace found, name = H7.21-C11.1, position: x=6920, y=4870
+ Trace found, name = H8.25-IC5.29, position: x=10700, y=5090
+ Trace found, name = H7.29-IC5.17, position: x=8950, y=5290
+ Trace found, name = H7.29-IC5.17, position: x=9350, y=4750
+ Trace found, name = H8.18-R15.2, position: x=10900, y=5830
+ Trace found, name = H8.18-R15.2, position: x=10700, y=5790
+ Trace found, name = H6.3-IC4.3, position: x=9850, y=1125
+ Trace found, name = H6.19-H6.3, position: x=9850, y=1138.9
+ Trace found, name = H6.19-H6.3, position: x=9825, y=900
+ Trace found, name = AJ1.1-SMA2.2, position: x=8291, y=6711
+ Trace found, name = H6.8-U11.1, position: x=9716, y=109
+ Trace found, name = H6.3-U11.1, position: x=9110, y=140
+ Trace found, name = H6.12-H6.3, position: x=9150, y=600
+ Trace found, name = R23.1-Q3.3, position: x=3584, y=1900
+ Trace found, name = R23.1-Q3.3, position: x=4564, y=1701
+ Trace found, name = R1.1-RGB1.1, position: x=3143, y=2827
+ Trace found, name = R1.1-RGB1.1, position: x=1600, y=3000
+ Trace found, name = R3.1-RGB1.3, position: x=1600, y=2300
+ Trace found, name = R3.1-RGB1.3, position: x=3039, y=2726
+ Trace found, name = R3.1-RGB1.3, position: x=3039, y=2726
+ Trace found, name = H7.10-IC3.15, position: x=6400, y=750
+ Trace found, name = H7.9-IC3.14, position: x=6400, y=850
+ Trace found, name = J6.1-H2.4, position: x=350, y=950
+ Trace found, name = J6.1-H2.4, position: x=1097, y=1271
+ Trace found, name = J6.1-H2.4, position: x=1097, y=1271
+ Trace found, name = IC5.23-H7.23, position: x=9484, y=4401
+ Trace found, name = H7.19-R17.2, position: x=9107, y=4250
+ Trace found, name = IC4.14-H6.14, position: x=10130, y=787
+ Trace found, name = IC4.14-H6.14, position: x=10130, y=787
+ Trace found, name = IC4.13-H6.13, position: x=10200, y=687
+ Trace found, name = IC4.13-H6.13, position: x=10200, y=687
+ Trace found, name = IC4.13-H6.13, position: x=10781, y=791
+
+	 Checking layer no. 3!
+ Via found, position: x=825, y=825
+ Via found, position: x=875, y=1175
+ Via found, position: x=1310, y=1050
+ Via found, position: x=10782, y=887
+ Via found, position: x=10781, y=791
+ Via found, position: x=700, y=1250
+ Via found, position: x=800, y=1250
+ Via found, position: x=2200, y=2400
+ Via found, position: x=2500, y=2200
+ Via found, position: x=2825, y=2450
+ Via found, position: x=7216, y=2305
+ Via found, position: x=7475, y=2275
+ Via found, position: x=9150, y=3900
+ Via found, position: x=9107, y=4250
+ Via found, position: x=9300, y=4250
+ Via found, position: x=9400, y=4250
+ Via found, position: x=9200, y=4250
+ Via found, position: x=6150, y=5100
+ Via found, position: x=6325, y=5025
+ Via found, position: x=7075, y=5025
+ Via found, position: x=9500, y=4900
+ Via found, position: x=9900, y=4900
+ Via found, position: x=9990, y=4680
+ Via found, position: x=9484, y=4401
+ Via found, position: x=9575, y=4400
+ Via found, position: x=9600, y=4950
+ Via found, position: x=9825, y=4425
+ Via found, position: x=9675, y=4400
+ Via found, position: x=10100, y=4550
+ Via found, position: x=10050, y=4450
+ Via found, position: x=10050, y=4625
+ Via found, position: x=8200, y=5700
+ Via found, position: x=8550, y=5550
+ Via found, position: x=8475, y=5750
+ Via found, position: x=8475, y=5625
+ Via found, position: x=8575, y=5825
+ Via found, position: x=8550, y=5975
+ Via found, position: x=9575, y=5800
+ Via found, position: x=9375, y=5700
+ Via found, position: x=9475, y=5825
+ Via found, position: x=10525, y=5525
+ Via found, position: x=10550, y=5375
+ Via found, position: x=1100, y=1275
+ Via found, position: x=8050, y=5650
+ Via found, position: x=9825, y=900
+ Via found, position: x=9850, y=1125
+ Via found, position: x=9350, y=4750
+ Via found, position: x=10175, y=5125
+ Trace found, name = LED4.2-R9.2, position: x=8450, y=300
+ Trace found, name = H3.7-H5.4, position: x=5150, y=750
+ Trace found, name = H7.28-IC5.28, position: x=9825, y=4425
+ Trace found, name = IC5.32-H7.32, position: x=10050, y=4625
+ Trace found, name = C6.1-H7.24, position: x=8950, y=4790
+ Trace found, name = C7.1-H7.23, position: x=8950, y=4690
+ Trace found, name = LED5.2-R11.2, position: x=9420, y=4060
+ Trace found, name = LED5.2-R11.2, position: x=9420, y=4060
+ Trace found, name = R22.1-H7.15, position: x=8850, y=4390
+ Trace found, name = IC5.31-H7.33, position: x=9990, y=4680
+ Trace found, name = Z1.5-H7.33, position: x=8950, y=5690
+ Trace found, name = Z1.4-H7.32, position: x=8475, y=5625
+ Trace found, name = Z1.4-H7.32, position: x=8950, y=5590
+ Trace found, name = H7.30-IC5.34, position: x=10050, y=4450
+ Trace found, name = Z1.1-H7.30, position: x=8950, y=5390
+ Trace found, name = H7.31-IC5.33, position: x=10100, y=4550
+ Trace found, name = H7.31-Z1.3, position: x=8950, y=5490
+ Trace found, name = H7.34-C14.1, position: x=8950, y=5790
+ Trace found, name = H7.1-BTN1.1, position: x=8850, y=5790
+ Trace found, name = H7.19-R17.2, position: x=9150, y=3900
+ Trace found, name = H7.21-C11.1, position: x=8950, y=4490
+ Trace found, name = H7.21-C11.1, position: x=6150, y=5100
+ Trace found, name = LED4.2-R9.2, position: x=8260, y=900
+ Trace found, name = H7.29-Z1.2, position: x=8950, y=5290
+ Trace found, name = IC3.23-H2.10, position: x=5530, y=130
+ Trace found, name = IC3.23-H2.10, position: x=5530, y=130
+ Trace found, name = IC3.23-H2.10, position: x=1740, y=810
+ Trace found, name = IC3.23-H2.10, position: x=1740, y=810
+ Trace found, name = IC3.23-H2.10, position: x=450, y=1250
+ Trace found, name = H2.9-IC3.22, position: x=5484, y=70
+ Trace found, name = H2.9-IC3.22, position: x=5484, y=70
+ Trace found, name = H2.9-IC3.22, position: x=1430, y=740
+ Trace found, name = H2.9-IC3.22, position: x=1430, y=740
+
+	 Checking layer no. 4!
+ Via found, position: x=825, y=825
+ Via found, position: x=875, y=1175
+ Via found, position: x=1310, y=1050
+ Via found, position: x=10782, y=887
+ Via found, position: x=10781, y=791
+ Via found, position: x=700, y=1250
+ Via found, position: x=800, y=1250
+ Via found, position: x=2200, y=2400
+ Via found, position: x=2500, y=2200
+ Via found, position: x=2825, y=2450
+ Via found, position: x=7216, y=2305
+ Via found, position: x=7475, y=2275
+ Via found, position: x=9150, y=3900
+ Via found, position: x=9107, y=4250
+ Via found, position: x=9300, y=4250
+ Via found, position: x=9400, y=4250
+ Via found, position: x=9200, y=4250
+ Via found, position: x=6150, y=5100
+ Via found, position: x=6325, y=5025
+ Via found, position: x=7075, y=5025
+ Via found, position: x=9500, y=4900
+ Via found, position: x=9900, y=4900
+ Via found, position: x=9990, y=4680
+ Via found, position: x=9484, y=4401
+ Via found, position: x=9575, y=4400
+ Via found, position: x=9600, y=4950
+ Via found, position: x=9825, y=4425
+ Via found, position: x=9675, y=4400
+ Via found, position: x=10100, y=4550
+ Via found, position: x=10050, y=4450
+ Via found, position: x=10050, y=4625
+ Via found, position: x=8200, y=5700
+ Via found, position: x=8550, y=5550
+ Via found, position: x=8475, y=5750
+ Via found, position: x=8475, y=5625
+ Via found, position: x=8575, y=5825
+ Via found, position: x=8550, y=5975
+ Via found, position: x=9575, y=5800
+ Via found, position: x=9375, y=5700
+ Via found, position: x=9475, y=5825
+ Via found, position: x=10525, y=5525
+ Via found, position: x=10550, y=5375
+ Via found, position: x=1100, y=1275
+ Via found, position: x=8050, y=5650
+ Via found, position: x=9825, y=900
+ Via found, position: x=9850, y=1125
+ Via found, position: x=9350, y=4750
+ Via found, position: x=10175, y=5125
+ Keepout found, name = DRW77024958, position: x=3097, y=2913

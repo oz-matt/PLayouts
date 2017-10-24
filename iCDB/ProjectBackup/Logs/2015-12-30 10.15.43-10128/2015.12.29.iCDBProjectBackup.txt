@@ -1,0 +1,43 @@
+[2015.12.29 10:52:30] [50823m.35s.643ms] [0] WELCOME
+[2015.12.29 10:52:30] [50823m.35s.659ms] [1] iCDB Project Backup ver.1.093, 4eaDVz8EvVKuZCsHMzatSQ, build:488395 created 2012-01-27 13:24:08, sources stamp:4eaDVz8EvVKuZCsHMzatSQ
+[2015.12.29 10:52:30] [50823m.35s.659ms] [1] Copyright 2012 Mentor Graphics Corporation. All Rights Reserved.
+[2015.12.29 10:52:30] [50823m.35s.659ms] [1] Base flow version [7.9.3]
+[2015.12.29 10:52:30] [50823m.35s.659ms] [1] GBS Install Id [24044], Flow Id [PADS 9.4.1], Full Flow Name [PADS 9.4.1], Exact Access Date [Nov 1 2011]
+[2015.12.29 10:52:30] [50823m.35s.659ms] [1] Machine [TARS-LAP]  User [TARS]  PID [10128]
+[2015.12.29 10:52:30] [50823m.35s.659ms] [1] Operating system [Microsoft Windows 7 Business Edition, 64-bit Service Pack 1 (build 7601)]
+[2015.12.29 10:52:30] [50823m.35s.659ms] [1] Current working dir [C:\EyeProject\Eye]
+[2015.12.29 10:52:30] [50823m.35s.659ms] [1] PATH [C:\MentorGraphics\9.4PADS\SDD_HOME\wv\win32\bin;C:\MentorGraphics\9.4PADS\SDD_HOME\common\win32\bin;C:\MentorGraphics\9.4PADS\SDD_HOME\common\win32\lib;C:\MentorGraphics\9.4PADS\MGC_HOME.ixn\bin;C:\MentorGraphics\9.4PADS\MGC_HOME.ixn\lib;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\IntelSGXPSW\bin\x64\Release\;C:\Program Files\Intel\IntelSGXPSW\bin\win32\Release\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\MentorGraphics\9.4PADS\SDD_HOME\CAMCAD;]
+[2015.12.29 10:52:30] [50823m.35s.659ms] [1] SDD_HOME [C:\MentorGraphics\9.4PADS\SDD_HOME] on file system [NTFS]
+[2015.12.29 10:52:30] [50823m.35s.659ms] [1] SDD_PLATFORM [win32]
+[2015.12.29 10:52:30] [50823m.35s.659ms] [1] WDIR [C:\PADSProjects;C:\MentorGraphics\9.4PADS\SDD_HOME\standard]
+[2015.12.29 10:52:30] [50823m.35s.659ms] [1] Local iCDB working dir [C:\PADSProjects\iCDB] on file system [NTFS]
+[2015.12.29 10:52:30] [50823m.35s.706ms] [1] ServerProperties: Reading server properties for project [C:\EyeProject\Eye\database]
+[2015.12.29 10:52:30] [50823m.35s.706ms] [0] ServerProperties: Host [TARS-LAP]  IP [127.0.0.1]  Port [10000]  GUID [6347-dc02-7e88-ab09-825f-386d-25f3-8650-8c9f-cefd-2c0b-9aca]  for project [C:\EyeProject\Eye\database] with GUID [6349-ee63-adae-e29a-5cab-186a-cab1-8650-c180-defd-2c0b-9aca]
+[2015.12.29 10:52:30] [50823m.35s.706ms] [1] Network: DNS query IP [127.0.0.1]
+[2015.12.29 10:52:30] [50823m.35s.706ms] [1] ServerProperties: Reading server properties for project [C:\EyeProject\Eye\database]
+[2015.12.29 10:52:30] [50823m.35s.721ms] [0] ServerProperties: Host [TARS-LAP]  IP [127.0.0.1]  Port [10000]  GUID [6347-dc02-7e88-ab09-825f-386d-25f3-8650-8c9f-cefd-2c0b-9aca]  for project [C:\EyeProject\Eye\database] with GUID [6349-ee63-adae-e29a-5cab-186a-cab1-8650-c180-defd-2c0b-9aca]
+[2015.12.29 10:52:30] [50823m.35s.721ms] [1] Network: DNS query IP [127.0.0.1]
+[2015.12.29 10:52:40] [50823m.44s.991ms] [0] .
+[2015.12.29 10:55:34] [50826m.39s.654ms] [0] WELCOME
+[2015.12.29 10:55:34] [50826m.39s.654ms] [1] iCDB Project Backup ver.1.093, 4eaDVz8EvVKuZCsHMzatSQ, build:488395 created 2012-01-27 13:24:08, sources stamp:4eaDVz8EvVKuZCsHMzatSQ
+[2015.12.29 10:55:34] [50826m.39s.654ms] [1] Copyright 2012 Mentor Graphics Corporation. All Rights Reserved.
+[2015.12.29 10:55:34] [50826m.39s.654ms] [1] Base flow version [7.9.3]
+[2015.12.29 10:55:34] [50826m.39s.654ms] [1] GBS Install Id [24044], Flow Id [PADS 9.4.1], Full Flow Name [PADS 9.4.1], Exact Access Date [Nov 1 2011]
+[2015.12.29 10:55:34] [50826m.39s.654ms] [1] Machine [TARS-LAP]  User [TARS]  PID [10128]
+[2015.12.29 10:55:34] [50826m.39s.654ms] [1] Operating system [Microsoft Windows 7 Business Edition, 64-bit Service Pack 1 (build 7601)]
+[2015.12.29 10:55:34] [50826m.39s.654ms] [1] Current working dir [C:\EyeProject\Eye]
+[2015.12.29 10:55:34] [50826m.39s.654ms] [1] PATH [C:\MentorGraphics\9.4PADS\SDD_HOME\wv\win32\bin;C:\MentorGraphics\9.4PADS\SDD_HOME\common\win32\bin;C:\MentorGraphics\9.4PADS\SDD_HOME\common\win32\lib;C:\MentorGraphics\9.4PADS\MGC_HOME.ixn\bin;C:\MentorGraphics\9.4PADS\MGC_HOME.ixn\lib;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\IntelSGXPSW\bin\x64\Release\;C:\Program Files\Intel\IntelSGXPSW\bin\win32\Release\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\MentorGraphics\9.4PADS\SDD_HOME\CAMCAD;]
+[2015.12.29 10:55:34] [50826m.39s.654ms] [1] SDD_HOME [C:\MentorGraphics\9.4PADS\SDD_HOME] on file system [NTFS]
+[2015.12.29 10:55:34] [50826m.39s.654ms] [1] SDD_PLATFORM [win32]
+[2015.12.29 10:55:34] [50826m.39s.654ms] [1] WDIR [C:\PADSProjects;C:\MentorGraphics\9.4PADS\SDD_HOME\standard]
+[2015.12.29 10:55:34] [50826m.39s.654ms] [1] Local iCDB working dir [C:\PADSProjects\iCDB] on file system [NTFS]
+[2015.12.29 10:55:34] [50826m.39s.670ms] [1] ServerProperties: Reading server properties for project [C:\EyeProject\Eye\database]
+[2015.12.29 10:55:34] [50826m.39s.685ms] [0] ServerProperties: Host [TARS-LAP]  IP [127.0.0.1]  Port [10000]  GUID [6347-dc02-7e88-ab09-825f-386d-25f3-8650-8c9f-cefd-2c0b-9aca]  for project [C:\EyeProject\Eye\database] with GUID [6349-ee63-adae-e29a-5cab-186a-cab1-8650-c180-defd-2c0b-9aca]
+[2015.12.29 10:55:34] [50826m.39s.685ms] [1] Network: DNS query IP [127.0.0.1]
+[2015.12.29 10:55:34] [50826m.39s.685ms] [1] ServerProperties: Reading server properties for project [C:\EyeProject\Eye\database]
+[2015.12.29 10:55:34] [50826m.39s.685ms] [0] ServerProperties: Host [TARS-LAP]  IP [127.0.0.1]  Port [10000]  GUID [6347-dc02-7e88-ab09-825f-386d-25f3-8650-8c9f-cefd-2c0b-9aca]  for project [C:\EyeProject\Eye\database] with GUID [6349-ee63-adae-e29a-5cab-186a-cab1-8650-c180-defd-2c0b-9aca]
+[2015.12.29 10:55:34] [50826m.39s.685ms] [1] Network: DNS query IP [127.0.0.1]
+[2015.12.29 10:55:51] [50826m.56s.355ms] [1] ServerProperties: Reading server properties for project [C:\EyeProject\Eye\database]
+[2015.12.29 10:55:51] [50826m.56s.355ms] [0] ServerProperties: Host [TARS-LAP]  IP [127.0.0.1]  Port [10000]  GUID [6347-dc02-7e88-ab09-825f-386d-25f3-8650-8c9f-cefd-2c0b-9aca]  for project [C:\EyeProject\Eye\database] with GUID [6349-ee63-adae-e29a-5cab-186a-cab1-8650-c180-defd-2c0b-9aca]
+[2015.12.29 10:55:51] [50826m.56s.355ms] [1] Network: DNS query IP [127.0.0.1]
+[2015.12.29 10:56:00] [50827m.05s.575ms] [0] .

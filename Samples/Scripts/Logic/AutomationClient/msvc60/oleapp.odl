@@ -1,0 +1,52 @@
+/* Copyright Mentor Graphics Corporation 2007
+
+All Rights Reserved.
+
+THIS WORK CONTAINS TRADE SECRET
+AND PROPRIETARY INFORMATION WHICH IS THE
+PROPERTY OF MENTOR GRAPHICS
+CORPORATION OR ITS LICENSORS AND IS
+SUBJECT TO LICENSE TERMS. 
+*/
+
+// oleapp.odl : type library source for oleapp.exe
+
+// This file will be processed by the MIDL compiler to produce the
+// type library (oleapp.tlb).
+
+[ uuid(647950C4-5221-11D2-81CA-0000A00F0ECE), version(1.0) ]
+library Oleapp
+{
+	importlib("stdole32.tlb");
+	
+
+	//  Primary dispatch interface for COleappDoc
+	
+	[ uuid(647950C5-5221-11D2-81CA-0000A00F0ECE) ]
+	dispinterface IOleapp
+	{
+		properties:
+			// NOTE - ClassWizard will maintain property information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_PROP(COleappDlgAutoProxy)
+			//}}AFX_ODL_PROP
+			
+		methods:
+			// NOTE - ClassWizard will maintain method information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_METHOD(COleappDlgAutoProxy)
+			//}}AFX_ODL_METHOD
+
+	};
+
+	//  Class information for COleappDoc
+	
+	[ uuid(647950C3-5221-11D2-81CA-0000A00F0ECE) ]
+	coclass Oleapp
+	{
+		[default] dispinterface IOleapp;
+	};
+
+	//{{AFX_APPEND_ODL}}
+	//}}AFX_APPEND_ODL}}
+};

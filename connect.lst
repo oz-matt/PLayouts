@@ -1,0 +1,293 @@
+
+
+CONTINUITY ERRORS REPORT -- Q10-PrelimC.pcb -- Mon Sep 11 11:32:00 2017
+
+
+
+Isolated subnets for: HGND
+
+*** subnet # 1
+ HATCH OUTLINE(1885.9,2469 L1)
+
+*** subnet # 2
+ HATCH OUTLINE(953.38,-53 L1)
+
+*** subnet # 3
+ HATCH OUTLINE(1455,2386.07 L1)
+
+*** subnet # 4
+ HATCH OUTLINE(1976.26,2469 L1)
+
+*** subnet # 5
+ HATCH OUTLINE(1816.98,2516.02 L1)
+
+*** subnet # 6
+ HATCH OUTLINE(1547.93,910.67 L1)
+
+*** subnet # 7
+ HATCH OUTLINE(1567.19,835.01 L1)
+
+*** subnet # 8
+ HATCH OUTLINE(1627.53,905.65 L1)
+
+*** subnet # 9
+ HATCH OUTLINE(1805.65,1100.15 L1)
+
+*** subnet # 10
+ HATCH OUTLINE(1187.97,831.13 L1)
+
+*** subnet # 11
+ HATCH OUTLINE(1200.44,1041.42 L1)
+
+*** subnet # 12
+ HATCH OUTLINE(1342.14,-53 L1)
+
+*** subnet # 13
+ HATCH OUTLINE(303.78,1560.83 L1)
+
+*** subnet # 14
+ HATCH OUTLINE(951.19,598.73 L1)
+
+*** subnet # 15
+ HATCH OUTLINE(1708.29,1227.5 L1)
+
+*** subnet # 16
+ HATCH OUTLINE(1771,1348.76 L1)
+
+*** subnet # 17
+ HATCH OUTLINE(2027.2,1280.33 L1)
+
+*** subnet # 18
+ HATCH OUTLINE(1538.15,1611.25 L1)
+
+*** subnet # 19
+ HATCH OUTLINE(1609.69,1457.93 L1)
+
+*** subnet # 20
+ HATCH OUTLINE(1970.5,1401.37 L1)
+
+*** subnet # 21
+ HATCH OUTLINE(2025.82,1002.27 L1)
+
+*** subnet # 22
+ HATCH OUTLINE(2024.17,1221.7 L1)
+
+*** subnet # 23
+ HATCH OUTLINE(1565,7.18 L1)
+
+*** subnet # 24
+ HATCH OUTLINE(1455,2386.07 L2)
+
+*** subnet # 25
+ HATCH OUTLINE(1455,2386.07 L9)
+
+*** subnet # 26
+ HATCH OUTLINE(280,-123.41 L10)
+
+*** subnet # 27
+ HATCH OUTLINE(906.53,270.91 L10)
+
+*** subnet # 28
+ HATCH OUTLINE(1040.5,24.79 L10)
+
+*** subnet # 29
+ HATCH OUTLINE(1373,2475 L10)
+
+*** subnet # 30
+ HATCH OUTLINE(130.24,-48.2 L10)
+
+*** subnet # 31
+ HATCH OUTLINE(258.32,-37.69 L10)
+
+*** subnet # 32
+ HATCH OUTLINE(123.84,133.5 L10)
+
+*** subnet # 33
+ HATCH OUTLINE(163.41,226.45 L10)
+
+*** subnet # 34
+ HATCH OUTLINE(948,1394.73 L10)
+
+*** subnet # 35
+ HATCH OUTLINE(1538.22,2537.4 L10)
+
+
+Isolated subnets for: LGND
+
+*** subnet # 1
+ HATCH OUTLINE(1302.3,768.58 L1)
+
+*** subnet # 2
+ HATCH OUTLINE(1135.83,-118.92 L1)
+
+*** subnet # 3
+ HATCH OUTLINE(1137,1958.38 L1)
+
+*** subnet # 4
+ HATCH OUTLINE(771.16,2218.11 L1)
+
+*** subnet # 5
+ HATCH OUTLINE(784.51,2237.88 L1)
+
+*** subnet # 6
+ HATCH OUTLINE(700.52,2286.76 L1)
+
+*** subnet # 7
+ HATCH OUTLINE(603.37,2196.29 L1)
+
+*** subnet # 8
+ HATCH OUTLINE(173.09,1846.17 L1)
+
+*** subnet # 9
+ HATCH OUTLINE(664.04,1903.55 L1)
+
+*** subnet # 10
+ HATCH OUTLINE(569.5,157.1 L1)
+
+*** subnet # 11
+ HATCH OUTLINE(533.02,120.63 L1)
+
+*** subnet # 12
+ HATCH OUTLINE(1585.77,692.09 L1)
+
+*** subnet # 13
+ HATCH OUTLINE(2023.11,39.09 L1)
+
+*** subnet # 14
+ HATCH OUTLINE(883.16,-105.39 L1)
+
+*** subnet # 15
+ HATCH OUTLINE(713.4,109.09 L1)
+
+*** subnet # 16
+ HATCH OUTLINE(875.17,-271 L1)
+
+*** subnet # 17
+ HATCH OUTLINE(885,189.38 L1)
+
+*** subnet # 18
+ HATCH OUTLINE(1937.72,-264.59 L1)
+
+*** subnet # 19
+ HATCH OUTLINE(1660.39,-3.67 L1)
+
+*** subnet # 20
+ HATCH OUTLINE(1427,769.94 L1)
+
+*** subnet # 21
+ HATCH OUTLINE(1442.01,537.23 L1)
+
+*** subnet # 22
+ HATCH OUTLINE(1644.7,365.44 L1)
+
+*** subnet # 23
+ HATCH OUTLINE(587.96,-92.77 L1)
+
+*** subnet # 24
+ HATCH OUTLINE(1799,2215 L1)
+
+*** subnet # 25
+ HATCH OUTLINE(519.4,-21.57 L1)
+
+*** subnet # 26
+ HATCH OUTLINE(2026.25,398.75 L1)
+
+*** subnet # 27
+ HATCH OUTLINE(1820.04,585 L1)
+
+*** subnet # 28
+ HATCH OUTLINE(341.67,2223.27 L1)
+
+*** subnet # 29
+ HATCH OUTLINE(482.37,2116.58 L1)
+
+*** subnet # 30
+ HATCH OUTLINE(694.35,1978.07 L1)
+
+*** subnet # 31
+ HATCH OUTLINE(667.27,1964.19 L1)
+
+*** subnet # 32
+ HATCH OUTLINE(721.28,2005 L1)
+
+*** subnet # 33
+ HATCH OUTLINE(435.81,1820.98 L1)
+
+*** subnet # 34
+ HATCH OUTLINE(560.16,2265.61 L1)
+
+*** subnet # 35
+ HATCH OUTLINE(343.29,1704.96 L1)
+
+*** subnet # 36
+ HATCH OUTLINE(1106.55,1716.89 L1)
+
+*** subnet # 37
+ HATCH OUTLINE(1096.11,1790.67 L1)
+
+*** subnet # 38
+ HATCH OUTLINE(1137,1844.98 L1)
+
+*** subnet # 39
+ HATCH OUTLINE(1328,2198.49 L10)
+
+*** subnet # 40
+ HATCH OUTLINE(1312.99,2244.47 L10)
+
+*** subnet # 41
+ HATCH OUTLINE(1682.28,547.73 L10)
+
+*** subnet # 42
+ HATCH OUTLINE(538.09,154.53 L10)
+
+*** subnet # 43
+ HATCH OUTLINE(887.81,42.32 L10)
+
+*** subnet # 44
+ HATCH OUTLINE(754.72,-5.74 L10)
+
+*** subnet # 45
+ HATCH OUTLINE(918,658.89 L10)
+
+*** subnet # 46
+ HATCH OUTLINE(918,734.32 L10)
+
+*** subnet # 47
+ HATCH OUTLINE(918,809.23 L10)
+
+*** subnet # 48
+ HATCH OUTLINE(867.19,810.11 L10)
+
+*** subnet # 49
+ HATCH OUTLINE(656.5,942.5 L10)
+
+*** subnet # 50
+ HATCH OUTLINE(751.58,718.9 L10)
+
+*** subnet # 51
+ HATCH OUTLINE(918,991.48 L10)
+
+*** subnet # 52
+ HATCH OUTLINE(552.43,653.5 L10)
+
+*** subnet # 53
+ HATCH OUTLINE(95,1441.51 L10)
+
+*** subnet # 54
+ HATCH OUTLINE(1296,1596.04 L10)
+
+*** subnet # 55
+ HATCH OUTLINE(1410.26,792.31 L10)
+
+*** subnet # 56
+ HATCH OUTLINE(2028.85,495.78 L10)
+
+*** subnet # 57
+ HATCH OUTLINE(1933.28,572.59 L10)
+
+*** subnet # 58
+ HATCH OUTLINE(1735,69 L10)
+
+*** subnet # 59
+ HATCH OUTLINE(1870.66,238.48 L10)
+

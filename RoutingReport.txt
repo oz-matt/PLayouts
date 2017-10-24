@@ -1,0 +1,14 @@
+PADS Router  9.4, Routing report
+Design: C:\PADSProjects\ProgBoard.pcb
+==============================================================================================
+Mon Nov 07 18:26:46 2016
+
+Autorouting selected objects C:\PADSProjects\ProgBoard.pcb
+==============================================================================================
+Routed Connections:        261(+9)
+Vias:                      78(+2)
+Trace length:              115130(+5319) Mils
+Test points:               0(+0)
+Accessible nets:           83(+0)
+Duration                   00:00:00
+==============================================================================================

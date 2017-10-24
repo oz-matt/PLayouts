@@ -1,0 +1,14 @@
+
+
+TEST POINTS ERRORS REPORT -- Q10-Prelim.pcb -- Tue Apr 18 13:08:01 2017
+
+
+(387,2553 L1) Test Point error: NET LGND has 0 test points instead of required 1 test points
+
+(387,2553 L1) Test Point error: NET HGND has 0 test points instead of required 1 test points
+
+(308,2572 L10) Test Point error: NET $4N190 has 0 test points instead of required 1 test points
+
+(402.81,2434.39 L10) Test Point error: NET $4N189 has 0 test points instead of required 1 test points
+
+----------------------------------------------------

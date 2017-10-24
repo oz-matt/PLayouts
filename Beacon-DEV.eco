@@ -1,0 +1,11 @@
+*PADS-ECO-V9.4-MILS*
+
+*REMARK* -- Beacon-DEV.pcb -- Sun Jan 24 07:29:16 2016
+
+
+*NET*
+*SIGNAL* GND 8
+U1.2 U1.34
+U1.34 U1.33
+U1.33 U1.35
+*END*

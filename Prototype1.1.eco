@@ -1,0 +1,64 @@
+*PADS-ECO-V9.4-MILS*
+
+*REMARK* -- Prototype1.1.pcb -- Fri Jan 10 00:31:30 2014
+
+*END*
+*PADS-ECO-V9.4-MILS*
+
+*REMARK* -- Prototype1.1.pcb -- Fri Jan 10 00:32:16 2014
+
+
+*DELPIN*
+BT.1    VBATSW
+BT.2    GND
+BT.3    VBATSW
+BT.4    VBATSW
+BT.5    GND
+BT.6    GND
+BT.7    VBATSW
+BT.8    GND
+BT.9    GND
+BT.10    VBATSW
+BT.11    VBATSW
+BT.12    VBATSW
+BT.13    VBATSW
+BT.14    VBATSW
+BT.15    GND
+BT.16    GND
+BT.17    GND
+BT.18    GND
+
+*DELPART*
+BT 3BATTERIES
+*END*
+*PADS-ECO-V9.4-MILS*
+
+*REMARK* -- Prototype1.1.pcb -- Fri Jan 10 00:53:53 2014
+
+*END*
+*PADS-ECO-V9.4-MILS*
+
+*REMARK* -- Prototype1.1.pcb -- Fri Jan 10 00:58:18 2014
+
+*END*
+*PADS-ECO-V9.4-MILS*
+
+*REMARK* -- Prototype1.1.pcb -- Fri Jan 10 01:33:36 2014
+
+
+*DELPIN*
+BT.2    GND
+BT.1    VBATSW
+BT.8    GND
+BT.10    VBATSW
+BT.9    GND
+BT.11    VBATSW
+
+*DELPART*
+BT 3BATTERIES
+*END*
+*PADS-ECO-V9.4-MILS*
+
+*REMARK* -- Prototype1.1.pcb -- Fri Jan 10 01:36:54 2014
+
+*END*

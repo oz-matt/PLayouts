@@ -1,0 +1,52 @@
+//////////////////////////////////////////////////////////////////////////////
+//
+// CLIENT.ODL : type library source for client.exe
+//
+//////////////////////////////////////////////////////////////////////////////
+// This is a part of the PADS-PowerPCB OLE Automation server SAMPLE1 sample.
+// Copyright (C) 2003 Mentor Graphics Corp.
+// All rights reserved.
+//
+// This source code is only intended as a supplement to the PADS-PowerPCB OLE 
+// Automation Server API Help file.
+//////////////////////////////////////////////////////////////////////////////
+
+// This file will be processed by the MIDL compiler to produce the
+// type library (client.tlb).
+
+[ uuid(EFD42724-D443-11D0-BCBF-444553540000), version(1.0) ]
+library Client
+{
+	importlib("stdole32.tlb");
+	
+
+	//  Primary dispatch interface for CClientDoc
+	
+	[ uuid(EFD42725-D443-11D0-BCBF-444553540000) ]
+	dispinterface IClient
+	{
+		properties:
+			// NOTE - ClassWizard will maintain property information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_PROP(CClientDlgAutoProxy)
+			//}}AFX_ODL_PROP
+			
+		methods:
+			// NOTE - ClassWizard will maintain method information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_METHOD(CClientDlgAutoProxy)
+			//}}AFX_ODL_METHOD
+
+	};
+
+	//  Class information for CClientDoc
+	
+	[ uuid(EFD42723-D443-11D0-BCBF-444553540000) ]
+	coclass Client
+	{
+		[default] dispinterface IClient;
+	};
+
+	//{{AFX_APPEND_ODL}}
+	//}}AFX_APPEND_ODL}}
+};

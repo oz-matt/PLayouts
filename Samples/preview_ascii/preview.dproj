@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<projectfile version="1.0" name="Preview Tutorial">
+  <settings>
+    <tool name="PADSLayout">
+      <section name="Properties">
+        <entry name="Top Schematic" value=".\sch\PREVIEW.1"/>
+        <entry name="PCB File" value=""/>
+        <entry name="Keybindings" value="Enable"/>
+        <entry name="Configuration File" value=".\pads2007.cfg"/>
+        <entry name="Zoom Style" value="Enable"/>
+        <entry name="Pan Style" value="Enable"/>
+      </section>
+    </tool>
+    <tool name="Flow Manager">
+      <section name="Flows">
+        <entry name="{20070BD6-666E-4ad2-B072-8859E2559EB3}" value="PADSLayout"/>
+      </section>
+    </tool>
+    <tool name="ProjectFlows">
+      <section name="LastFlow">
+        <entry name="GUID" value="{20070BD6-666E-4ad2-B072-8859E2559EB3}"/>
+      </section>
+    </tool>
+  </settings>
+</projectfile>

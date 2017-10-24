@@ -1,0 +1,75 @@
+*PADS-ECO-V9.4-MILS*
+
+*REMARK* -- aqcplacement.pcb -- Thu Dec 04 14:44:50 2014
+
+
+*DELPIN*
+SW2.2    $1N1338
+R10.2    $1N1557
+SW2.3    $1N1557
+
+*DELPART*
+SW2 SPDT
+*END*
+*PADS-ECO-V9.4-MILS*
+
+*REMARK* -- aqcplacement.pcb -- Mon Dec 08 00:36:33 2014
+
+*PADS-ECO-V9.4-MILS*
+
+*REMARK* -- aqcplacement.pcb -- Mon Dec 08 00:37:17 2014
+
+
+*DELPIN*
+J1.1    USBPWR
+J1.5    GND
+
+*DELPART*
+J1 USBADAPTER
+*END*
+*PADS-ECO-V9.4-MILS*
+
+*REMARK* -- aqcplacement.pcb -- Mon Dec 08 00:40:07 2014
+
+
+*DELPIN*
+J1.1    USBPWR
+J1.5    GND
+
+*DELPART*
+J1 USBADAPTER
+*END*
+*PADS-ECO-V9.4-MILS*
+
+*REMARK* -- aqcplacement.pcb -- Tue Dec 09 10:00:17 2014
+
+
+*DELPIN*
+SW2.1    $1N1557
+R10.2    $1N1557
+SW2.2    $1N1338
+
+*DELPART*
+SW2 KEYLOCKSWITCH
+*END*
+*PADS-ECO-V9.4-MILS*
+
+*REMARK* -- aqcplacement.pcb -- Tue Dec 09 13:45:38 2014
+
+
+*DELPIN*
+SW2.1    $1N1557
+R10.2    $1N1557
+SW2.2    $1N1338
+
+*DELPART*
+SW2 KEYLOCKSWITCH
+*END*
+*PADS-ECO-V9.4-MILS*
+
+*REMARK* -- aqcplacement.pcb -- Wed Dec 10 09:23:52 2014
+
+
+*DELPART*
+SW1 MINISPSTMOM
+*END*

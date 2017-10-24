@@ -1,0 +1,72 @@
+      1| *PADS Layout 9.4* UPDATE FROM LIBRARY REPORT
+      2| Tue Mar 18 23:07:39 2014  Untitled
+      3| C:\PADS Projects\UpdateFromLibrary_Layout_Report.txt
+      4| 
+      5|    *****************************************************************
+      6|    ****  For information on how to read this report,            ****
+      7|    ****  see "How to Read the Update Report"                    ****
+      8|    ****  in the Pads Layout User's Guide and Reference Manual   ****
+      9|    *****************************************************************
+     10| 
+     11| =====================================================================================
+     12|  REPORT OPTIONS
+     13| =====================================================================================
+     14|  
+     15|    Mode
+     16|       Update design from library
+     17|       Include items with identical timestamps:Yes
+     18|        
+     19|    Items to compare / update
+     20|       Part types:Yes
+     21|       PCB decals:Yes
+     22|       Decal rules:Yes
+     23|       Attributes and labels:Yes
+     24|        
+     25|    Update by timestamps
+     26|       Update item in design even if library item is older:No
+     27|       Update item even if timestamps are identical:No
+     28|        
+     29|    Update preferences
+     30|       Preserve alternative decals not found in library:Yes
+     31|       Preserve decal rules not found in library:Yes
+     32|       Preserve design attributes not found in library:Yes
+     33|       Add new attributes not found in design:Yes
+     34|       Update common attributes:Yes
+     35|        
+     36|    Preserve design labels
+     37|       Visibility:Yes
+     38|       Location:Yes
+     39|       Label properties:Yes
+     40|        
+     41|    Report filtering
+     42|       Summary and details
+     43|       Hide identical results:No
+     44|       Hide graphics comparison details:No
+     45|        
+     46| =====================================================================================
+     47|  RESULTS SUMMARY
+     48| =====================================================================================
+     49|  
+     50|       Comparison Summary:
+     51|        
+     52|          Selected    -      0
+     53|          Compared    -      0
+     54|          Different   -      0
+     55|          Warnings    -      0
+     56|          Errors      -      0
+     57|          Skipped     -      0
+     58|        
+     59|       Update Summary:
+     60|        
+     61|          Updated     -      0
+     62|          Warnings    -      0
+     63|          Failed      -      0
+     64|          Skipped     -      0
+     65|        
+     66|=====================================================================================
+     67| DETAILED COMPARISON DATA
+     68|=====================================================================================
+     69| 
+     78| 
+     79|*END OF UPDATE FROM LIBRARY REPORT FILE*
+

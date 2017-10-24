@@ -1,0 +1,14 @@
+Assembly Variant Service has detected improper attribute values
+
+Wed Oct 23 09:38:51 2013
+
+Current Job : BareBones.pcb
+
+
+Format:
+OBJ_NAME
+OLD_VALUE{EMPTY;TOO_LONG}
+NEW_VALUE{DELETED;TOO_LONG}
+RESUME
+
+

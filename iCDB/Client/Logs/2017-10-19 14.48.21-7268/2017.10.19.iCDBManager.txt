@@ -1,0 +1,56 @@
+[2017.10.19 14:48:21] [0000m.00s.016ms] [0] WELCOME
+[2017.10.19 14:48:21] [0000m.00s.017ms] [1] iCDB API ver.1.093, 4eaDVz8EvVKuZCsHMzatSQ, build:488395 created 2012-01-27 13:24:08, sources stamp:4eaDVz8EvVKuZCsHMzatSQ
+[2017.10.19 14:48:21] [0000m.00s.017ms] [1] Copyright 2012 Mentor Graphics Corporation. All Rights Reserved.
+[2017.10.19 14:48:21] [0000m.00s.017ms] [1] Base flow version [7.9.3]
+[2017.10.19 14:48:21] [0000m.00s.017ms] [1] GBS Install Id [24044], Flow Id [PADS 9.4.1], Full Flow Name [PADS 9.4.1], Exact Access Date [Nov 1 2011]
+[2017.10.19 14:48:21] [0000m.00s.017ms] [1] Machine [DESKTOP-APFMU2M]  User [klutc]  PID [7268]
+[2017.10.19 14:48:21] [0000m.00s.017ms] [1] Operating system [Microsoft Home Premium Edition, 64-bit (build 9200)]
+[2017.10.19 14:48:21] [0000m.00s.017ms] [1] Current working dir [C:\Windows\system32]
+[2017.10.19 14:48:21] [0000m.00s.017ms] [1] PATH [C:\MentorGraphics\9.4PADS\SDD_HOME\wv\win32\bin;C:\ProgramData\Oracle\Java\javapath;C:\Python27\;C:\Python27\Scripts;C:\MentorGraphics\9.4PADS\SDD_HOME\common\win32\bin;C:\MentorGraphics\9.4PADS\SDD_HOME\common\win32\lib;C:\MentorGraphics\9.4PADS\MGC_HOME.ixn\bin;C:\MentorGraphics\9.4PADS\MGC_HOME.ixn\lib;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Mercurial;C:\Program Files\Cinterion\Module Exchange Suite\;C:\Program Files (x86)\Java\jdk1.7.0_25\bin;C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\bin;C:\Users\klutc\AppData\Local\Microsoft\WindowsApps;C:\MentorGraphics\9.4PADS\SDD_HOME\common\win32\lib;C:\MentorGraphics\9.4PADS\SDD_HOME\CAMCAD;C:\Program Files (x86)\proXPN\bin]
+[2017.10.19 14:48:21] [0000m.00s.017ms] [1] SDD_HOME [C:\MentorGraphics\9.4PADS\SDD_HOME] on file system [NTFS]
+[2017.10.19 14:48:21] [0000m.00s.017ms] [1] SDD_PLATFORM [win32]
+[2017.10.19 14:48:21] [0000m.00s.017ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\9.4PADS\SDD_HOME\standard]
+[2017.10.19 14:48:21] [0000m.00s.018ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2017.10.19 14:48:21] [0000m.00s.077ms] [0] PM: Entering client mode
+[2017.10.19 14:48:30] [0000m.09s.075ms] [0] DiagProperties: ERROR: iCDB Server Monitor address file not found
+[2017.10.19 14:48:36] [0000m.14s.412ms] [1] ServerProperties: Reading server properties for project [C:\Work\Pads&DXD\Inverter\database]
+[2017.10.19 14:48:36] [0000m.14s.415ms] [0] ServerProperties: Host [DESKTOP-APFMU2M]  IP [192.168.1.146,192.168.56.1,DESKTOP-APFMU2M]  Port [10001]  GUID [5150-41ee-72d0-e6c2-f87a-8e94-97a8-e950-f57c-4988-27c1-e38b]  for project [C:\Work\Pads&DXD\Inverter\database] with GUID [25b8-84eb-4b36-d159-c7dd-4d91-8dd4-d950-ffca-4988-27c1-e38b]
+[2017.10.19 14:48:36] [0000m.14s.415ms] [1] Network: DNS query IP [192.168.1.146]
+[2017.10.19 14:48:37] [0000m.15s.419ms] [1] Network: WARNING: Connection FAILED to IP [192.168.1.146] Port [10001]
+[2017.10.19 14:48:37] [0000m.15s.419ms] [1] Network: DNS query IP [192.168.56.1]
+[2017.10.19 14:48:38] [0000m.16s.422ms] [1] Network: WARNING: Connection FAILED to IP [192.168.56.1] Port [10001]
+[2017.10.19 14:48:38] [0000m.16s.422ms] [1] Network: DNS query name [DESKTOP-APFMU2M]
+[2017.10.19 14:48:39] [0000m.17s.424ms] [1] Network: WARNING: Connection FAILED to IP [172.16.16.114] Port [10001]
+[2017.10.19 14:48:39] [0000m.17s.424ms] [1] Network: ERROR: Could not connect to IP [192.168.1.146,192.168.56.1,172.16.16.114] Port [10001]
+[2017.10.19 14:48:39] [0000m.17s.425ms] [0] Single file [C:\Work\Pads&DXD\Inverter\database\icdb.dat] size [930560 (908.8 kB)]
+[2017.10.19 14:48:39] [0000m.17s.454ms] [1] Single file [C:\Work\Pads&DXD\Inverter\database\icdb.dat] opened in read-write mode
+[2017.10.19 14:48:39] [0000m.17s.455ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.10.19 14:48:39] [0000m.17s.455ms] [0] Database GUARD MISMATCH: [719688] against [930560]
+[2017.10.19 14:48:39] [0000m.17s.455ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.10.19 14:48:39] [0000m.17s.455ms] [0] Database GUARD MISMATCH: [719688] against [930560]
+[2017.10.19 14:48:39] [0000m.17s.456ms] [0] SingleFile: [dc51-2b06-ffdc-8f25] SFI version check [1009] [1009]
+[2017.10.19 14:48:39] [0000m.17s.472ms] [0] SingleFile: [dc51-2b06-ffdc-8f25] Reset holes information - force defragmentation
+[2017.10.19 14:48:39] [0000m.17s.472ms] [0] SingleFile: [dc51-2b06-ffdc-8f25] Database SFI header has been read in [16ms 809us]
+[2017.10.19 14:48:39] [0000m.17s.473ms] [0] Single file [C:\Work\Pads&DXD\Inverter\database\icdb.dat] closed with size [930560 (908.8 kB)]
+[2017.10.19 14:48:42] [0000m.20s.536ms] [0] Single file [C:\Work\Pads&DXD\Inverter\database\icdb.dat] size [930560 (908.8 kB)]
+[2017.10.19 14:48:42] [0000m.20s.536ms] [1] Single file [C:\Work\Pads&DXD\Inverter\database\icdb.dat] opened in read-only mode
+[2017.10.19 14:48:42] [0000m.20s.536ms] [0] Single file [C:\Work\Pads&DXD\Inverter\database\icdb.dat] closed with size [930560 (908.8 kB)]
+[2017.10.19 14:48:42] [0000m.20s.536ms] [0] Single file [C:\Work\Pads&DXD\Inverter\database\icdb.dat] size [930560 (908.8 kB)]
+[2017.10.19 14:48:42] [0000m.20s.537ms] [1] Single file [C:\Work\Pads&DXD\Inverter\database\icdb.dat] opened in read-write mode
+[2017.10.19 14:48:42] [0000m.20s.598ms] [0] Single file [C:\Work\Pads&DXD\Inverter\database\icdb.dat] closed with size [930560 (908.8 kB)]
+[2017.10.19 14:48:42] [0000m.20s.604ms] [0] DiagProperties: ERROR: iCDB Server Monitor address file not found
+[2017.10.19 14:49:04] [0000m.43s.193ms] [0] AMC: Event: ProjectConnectionSucceed
+[2017.10.19 15:08:35] [0020m.14s.145ms] [0] Single file [C:\EyeProject\Eye\database\icdb.dat] size [3219920 (3.1 MB)]
+[2017.10.19 15:08:35] [0020m.14s.182ms] [1] Single file [C:\EyeProject\Eye\database\icdb.dat] opened in read-write mode
+[2017.10.19 15:08:35] [0020m.14s.182ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.10.19 15:08:35] [0020m.14s.183ms] [0] Database GUARD OK: [3219920]
+[2017.10.19 15:08:35] [0020m.14s.183ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.10.19 15:08:35] [0020m.14s.183ms] [0] Database GUARD OK: [3219920]
+[2017.10.19 15:08:35] [0020m.14s.183ms] [0] SingleFile: [f723-d903-aa1d-6984] SFI version check [1009] [1009]
+[2017.10.19 15:08:35] [0020m.14s.194ms] [0] SingleFile: [f723-d903-aa1d-6984] Database SFI header has been read in [11ms 11us]
+[2017.10.19 15:08:35] [0020m.14s.194ms] [0] Single file [C:\EyeProject\Eye\database\icdb.dat] closed with size [3219920 (3.1 MB)]
+[2017.10.19 15:08:35] [0020m.14s.252ms] [0] Single file [C:\EyeProject\Eye\database\icdb.dat] size [3219920 (3.1 MB)]
+[2017.10.19 15:08:35] [0020m.14s.252ms] [1] Single file [C:\EyeProject\Eye\database\icdb.dat] opened in read-only mode
+[2017.10.19 15:08:35] [0020m.14s.252ms] [0] Single file [C:\EyeProject\Eye\database\icdb.dat] closed with size [3219920 (3.1 MB)]
+[2017.10.19 15:08:35] [0020m.14s.255ms] [0] DiagProperties: ERROR: iCDB Server Monitor address file not found
+[2017.10.19 15:09:12] [0020m.51s.193ms] [0] AMC: Event: ProjectConnectionSucceed

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DxDesigner_Configuration_file version="1.2" name="DxDesigner.xml">
+  <DxDesigner>
+    <SETTINGS>
+      <key name="TIPOFTHEDAYTIMESTAMP" value="Tue Sep 12 20:20:23 2017"/>
+      <key name="TIPOFTHEDAYFILEPOS" value="6377"/>
+      <key name="MRU_SETTINGS" value="HDL/FPGA Integration"/>
+      <key name="GRID_HR" value="25400"/>
+      <key name="NAV_COMP_SORT_ORDER_BY" value="5"/>
+      <key name="SHEETSIZE" value="0"/>
+      <key name="DEFAULT_ZOOM" value="0"/>
+      <key name="UNIQUE_LABEL" value="1"/>
+      <key name="MRU_PROJECTS">
+        <value>C:\EyeProject\Eye\Eye.prj</value>
+        <value>C:\Work\Pads&amp;DXD\Inverter\Inverter.prj</value>
+        <value>C:\Users\TARS\Downloads\Imcorp.prj</value>
+        <value>C:\EyeProject\Aqua Programmer\Aqua Programmer\Aqua Programmer\Aqua Programmer.prj</value>
+        <value>C:\Users\TARS\Downloads\Aqua Programmer.prj</value>
+        <value>C:\LancePads\Imcorp\Imcorp\Imcorp.prj</value>
+        <value>E:\DxDesigner\Eye\Eye.prj</value>
+        <value>\\10.0.0.17\Aqua\DxDesigner\Eye\Eye.prj</value>
+        <value>\\192.168.1.100\Public\Aqua\DxDesigner\Eye\Eye.prj</value>
+        <value>\\192.168.1.100\Public\Data\Aqua\DxDesignerProjects\Eye\Eye.prj</value>
+      </key>
+    </SETTINGS>
+    <OBJECTS>
+      <object name="ARC">
+        <key name="FILL_STYLE" value="-1"/>
+      </object>
+      <object name="WIRE">
+        <key name="COLOR" value="0x000000"/>
+      </object>
+    </OBJECTS>
+    <LAYERS>
+      <layer name="BORDER_LAYER">
+        <key name="COLOR" value="0xffff00"/>
+      </layer>
+    </LAYERS>
+    <key name="ICT_HIDDEN_PRPS">
+      <value>Tech</value>
+      <value>Type</value>
+      <value>UNIT</value>
+      <value>Use Verilog</value>
+      <value>VHDL Def Value</value>
+      <value>VHDL File</value>
+      <value>VHDL Model</value>
+      <value>VHDL Resolution Function</value>
+      <value>VHDL Type</value>
+      <value>VOLTAGE</value>
+      <value>Variant Info</value>
+      <value>Variant Variable Text</value>
+      <value>Verilog File</value>
+      <value>Verilog Model</value>
+      <value>WIDTH</value>
+      <value>XREF</value>
+      <value>Xref Annotation</value>
+    </key>
+  </DxDesigner>
+  <ConstraintsEditor>
+    <SETTINGS>
+      <key name="AttributeTooltips" value="1"/>
+      <key name="ComponentDisplayFormat" value="$NAME"/>
+      <key name="ConstraintsDisplay" value="1"/>
+      <key name="ExpandBuses" value="1"/>
+      <key name="HighlightEnabled" value="1"/>
+      <key name="HighlightLineOffset" value="2"/>
+      <key name="HighlightLineThickness" value="4"/>
+      <key name="NetComsLimit" value="10"/>
+      <key name="NetDisplayFormat" value="$NAME"/>
+      <key name="ScrollableTabs" value="0"/>
+    </SETTINGS>
+  </ConstraintsEditor>
+  <ViewPCB>
+    <SETTINGS>
+      <key name="CmdLineFlag" value="0"/>
+      <key name="Levels" value="STD"/>
+      <key name="Process" value="1"/>
+      <key name="UseCustScriptFlag" value="0"/>
+    </SETTINGS>
+  </ViewPCB>
+  <DxDatabook>
+    <DATASOURCES>
+      <source name="QOCI8.Connection">
+        <key name="ConnectionString" value="ORACLE;ALIAS=QOCI8.Connection;HOST=OzoraDxLib;DB=OzoraDxLib;"/>
+        <key name="PasswordRequired" value="1"/>
+      </source>
+      <source name="DxDatabook ELDO Database">
+        <key name="ConnectionString" value="ODBC;ALIAS=DxDatabook ELDO Database;CNS={ODBC;DSN=DxDatabook ELDO Database;;;;;;;};DDS={Microsoft Access Driver (*.mdb)};"/>
+        <key name="PasswordRequired" value="0"/>
+      </source>
+      <key name="sources">
+        <value>QOCI8.Connection</value>
+        <value>DxDatabook ELDO Database</value>
+      </key>
+    </DATASOURCES>
+    <USERDATA>
+      <EncryptedData xmlns="http://www.w3.org/2001/04/xmlenc#" Type="http://www.w3.org/2001/04/xmlenc#Content">
+        <KeyInfo xmlns="http://www.w3.org/2000/09/xmldsig#">
+          <KeyName>DxDatabook</KeyName>
+        </KeyInfo>
+        <CipherData>
+          <CipherValue>M9B/bpztwN+XM0aNoUP4YA9V6T8jhydcJm1Yw75WhwiuTdzdtLEeXAOkRzJ99mau
+qBtyJhxYi1M3I4ynf4fjTUdGqubJAVNliqo3NG5mF1k/C57k/0MBQLpWzH1K30bQ
+cyd34NNycfvmaUZJRm7Wxy9yfsyJ/RQa4ksssoqXJIxy+WjlsXzdwJqLRP+8Xxjr</CipherValue>
+        </CipherData>
+      </EncryptedData>
+    </USERDATA>
+  </DxDatabook>
+</DxDesigner_Configuration_file>

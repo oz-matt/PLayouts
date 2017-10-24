@@ -1,0 +1,33 @@
+[2017.10.23 19:13:53] [0010m.38s.615ms] [0] WELCOME
+[2017.10.23 19:13:53] [0010m.38s.617ms] [1] iCDB Client ver.1.093, 4eaDVz8EvVKuZCsHMzatSQ, build:488395 created 2012-01-27 13:24:08, sources stamp:4eaDVz8EvVKuZCsHMzatSQ
+[2017.10.23 19:13:53] [0010m.38s.617ms] [1] Copyright 2012 Mentor Graphics Corporation. All Rights Reserved.
+[2017.10.23 19:13:53] [0010m.38s.617ms] [1] Base flow version [7.9.3]
+[2017.10.23 19:13:53] [0010m.38s.617ms] [1] GBS Install Id [24044], Flow Id [PADS 9.4.1], Full Flow Name [PADS 9.4.1], Exact Access Date [Nov 1 2011]
+[2017.10.23 19:13:53] [0010m.38s.617ms] [1] Machine [DESKTOP-APFMU2M]  User [klutc]  PID [6560]
+[2017.10.23 19:13:53] [0010m.38s.619ms] [1] Operating system [Microsoft Home Premium Edition, 64-bit (build 9200)]
+[2017.10.23 19:13:53] [0010m.38s.619ms] [1] Current working dir [C:\EyeProject\Eye]
+[2017.10.23 19:13:53] [0010m.38s.619ms] [1] PATH [C:\MentorGraphics\9.4PADS\MGC_HOME.ixn\bin;C:\MentorGraphics\9.4PADS\MGC_HOME.ixn\lib;C:\MentorGraphics\9.4PADS\SDD_HOME\wv\win32\bin;C:\ProgramData\Oracle\Java\javapath;C:\Python27\;C:\Python27\Scripts;C:\MentorGraphics\9.4PADS\SDD_HOME\common\win32\bin;C:\MentorGraphics\9.4PADS\SDD_HOME\common\win32\lib;C:\MentorGraphics\9.4PADS\MGC_HOME.ixn\bin;C:\MentorGraphics\9.4PADS\MGC_HOME.ixn\lib;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Mercurial;C:\Program Files\Cinterion\Module Exchange Suite\;C:\Program Files (x86)\Java\jdk1.7.0_25\bin;C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\bin;C:\Users\klutc\AppData\Local\Microsoft\WindowsApps;C:\MentorGraphics\9.4PADS\SDD_HOME\common\win32\lib;C:\MentorGraphics\9.4PADS\SDD_HOME\CAMCAD;C:\Program Files (x86)\proXPN\bin]
+[2017.10.23 19:13:53] [0010m.38s.620ms] [1] SDD_HOME [C:\MentorGraphics\9.4PADS\SDD_HOME] on file system [NTFS]
+[2017.10.23 19:13:53] [0010m.38s.620ms] [1] SDD_PLATFORM [win32]
+[2017.10.23 19:13:53] [0010m.38s.620ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\9.4PADS\SDD_HOME\standard]
+[2017.10.23 19:13:53] [0010m.38s.620ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2017.10.23 19:13:53] [0010m.38s.620ms] [3] AMP: CREATE
+[2017.10.23 19:13:53] [0010m.38s.620ms] [2] NE: CREATE
+[2017.10.23 19:13:53] [0010m.38s.621ms] [1] IC: Project GUID [702c-02e7-da93-aba8-d98b-7e92-a8b7-e950-bd7b-4988-27c1-e38b]
+[2017.10.23 19:13:53] [0010m.38s.621ms] [2] AMP: START
+[2017.10.23 19:13:53] [0010m.38s.621ms] [1] IC: Project path [C:\EyeProject\Eye\database] on file system [NTFS]
+[2017.10.23 19:13:53] [0010m.38s.621ms] [1] IC: Working in FULL access mode
+[2017.10.23 19:13:53] [0010m.38s.654ms] [1] ServerProperties: Reading server properties for project [C:\EyeProject\Eye\database]
+[2017.10.23 19:13:53] [0010m.38s.655ms] [0] ServerProperties: Host [DESKTOP-APFMU2M]  IP [127.0.0.1]  Port [10000]  GUID [f2e3-6c83-7cd2-0936-c6e6-ee91-7e6e-e950-0aa8-36f3-13ab-ea41]  for project [C:\EyeProject\Eye\database] with GUID [702c-02e7-da93-aba8-d98b-7e92-a8b7-e950-bd7b-4988-27c1-e38b]
+[2017.10.23 19:13:53] [0010m.38s.655ms] [1] Network: DNS query IP [127.0.0.1]
+[2017.10.23 19:13:53] [0010m.38s.656ms] [1] Connecting to iCDB Server:  Host [DESKTOP-APFMU2M] IP [127.0.0.1]  Port [10000]
+[2017.10.23 19:13:53] [0010m.38s.657ms] [1] Network: DNS query IP [127.0.0.1]
+[2017.10.23 19:13:53] [0010m.38s.657ms] [1] Connected to iCDB Server [127.0.0.1]
+[2017.10.23 19:13:53] [0010m.38s.660ms] [1] Session [11760] opened
+[2017.10.23 19:13:53] [0010m.38s.660ms] [1] Working mode: Online
+[2017.10.23 19:13:53] [0010m.38s.661ms] [1] C: Registered sub-client: [IOD_12_1508800433] with ID: [1]
+[2017.10.23 19:13:53] [0010m.39s.011ms] [1] C: Unregistered sub-client: [IOD_12_1508800433] with ID: [1]
+[2017.10.23 19:13:53] [0010m.39s.011ms] [1] Disconnected from iCDB Server
+[2017.10.23 19:13:53] [0010m.39s.011ms] [1] Working mode: Offline
+[2017.10.23 19:13:53] [0010m.39s.164ms] [0] C: Stop
+[2017.10.23 19:13:53] [0010m.39s.164ms] [0] .

@@ -1,0 +1,10 @@
+FormMain = 0, 0, 0, 0, C, 44, 44, 411, 407, C
+ModuleMain = 0, 0, 0, 0, C
+FormAbout = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+Picture = 0, 0, 0, 0, C
+AutoDraw = 154, 154, 521, 517, 
+RectExt = 0, 0, 0, 0, C
+SolidPen = 0, 0, 0, 0, C
+HatchBrush = 0, 0, 0, 0, C
+PointsArray = 0, 0, 0, 0, C
+CPoint = 0, 0, 0, 0, C

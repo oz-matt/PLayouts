@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProjectBackupGUI_cfg>
+  <file_version>1.0</file_version>
+  <last_backup_dir_open></last_backup_dir_open>
+  <last_backup_dir_restore></last_backup_dir_restore>
+  <backup_paths max_no="20">
+    <path storage_type="1">C:\Work\Pads</path>
+    <path storage_type="1">C:\Work\Pads</path>
+    <path storage_type="1">C:\Work\Pads</path>
+    <path storage_type="1">C:\EyeProject\Eye\Eye.prj</path>
+    <path storage_type="1">C:\EyeProject\Aqua Programmer\Aqua Programmer\Aqua Programmer\Aqua Programmer.prj</path>
+    <path storage_type="1">C:\Work\Pads</path>
+    <path storage_type="1">C:\LancePads\Imcorp\Imcorp.prj</path>
+  </backup_paths>
+  <last_support_pkg_path></last_support_pkg_path>
+</ProjectBackupGUI_cfg>

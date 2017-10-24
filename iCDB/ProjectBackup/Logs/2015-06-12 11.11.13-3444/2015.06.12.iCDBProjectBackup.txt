@@ -1,0 +1,71 @@
+[2015.06.12 11:11:17] [0000m.04s.236ms] [0] WELCOME
+[2015.06.12 11:11:17] [0000m.04s.236ms] [1] iCDB Project Backup ver.1.093, 4eaDVz8EvVKuZCsHMzatSQ, build:488395 created 2012-01-27 13:24:08, sources stamp:4eaDVz8EvVKuZCsHMzatSQ
+[2015.06.12 11:11:17] [0000m.04s.236ms] [1] Copyright 2012 Mentor Graphics Corporation. All Rights Reserved.
+[2015.06.12 11:11:17] [0000m.04s.236ms] [1] Base flow version [7.9.3]
+[2015.06.12 11:11:17] [0000m.04s.236ms] [1] GBS Install Id [24044], Flow Id [PADS 9.4.1], Full Flow Name [PADS 9.4.1], Exact Access Date [Nov 1 2011]
+[2015.06.12 11:11:17] [0000m.04s.236ms] [1] Machine [MATT-PC]  User [Matt]  PID [3444]
+[2015.06.12 11:11:17] [0000m.04s.236ms] [1] Operating system [Microsoft Windows 7 Home Premium Edition, 64-bit Service Pack 1 (build 7601)]
+[2015.06.12 11:11:17] [0000m.04s.236ms] [1] Current working dir [C:\Windows\system32]
+[2015.06.12 11:11:17] [0000m.04s.236ms] [1] PATH [C:\Perl64\site\bin;C:\Perl64\bin;C:\WinAVR-20100110\bin;C:\WinAVR-20100110\utils\bin;C:\MentorGraphics\9.4PADS\SDD_HOME\common\win32\bin;C:\MentorGraphics\9.4PADS\SDD_HOME\common\win32\lib;C:\MentorGraphics\9.4PADS\MGC_HOME.ixn\bin;C:\MentorGraphics\9.4PADS\MGC_HOME.ixn\lib;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\Intel\Services\IPT\;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\Program Files\Calibre2\;C:\Cadence\SPB_16.2\tools\bin;C:\Cadence\SPB_16.2\tools\libutil\bin;C:\Cadence\SPB_16.2\tools\fet\bin;C:\Cadence\SPB_16.2\tools\pcb\bin;C:\Cadence\SPB_16.2\tools\PSpice;C:\Cadence\SPB_16.2\tools\PSpice\Library;C:\Cadence\SPB_16.2\tools\Capture;C:\Cadence\SPB_16.2\tools\specctra\bin;C:\Program Files\Java\jdk1.7.0_25\bin;C:\MentorGraphics\9.4PADS\SDD_HOME\common\win32\lib]
+[2015.06.12 11:11:17] [0000m.04s.236ms] [1] SDD_HOME [C:\MentorGraphics\9.4PADS\SDD_HOME] on file system [NTFS]
+[2015.06.12 11:11:17] [0000m.04s.236ms] [1] SDD_PLATFORM [win32]
+[2015.06.12 11:11:17] [0000m.04s.236ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\9.4PADS\SDD_HOME\standard]
+[2015.06.12 11:11:17] [0000m.04s.236ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2015.06.12 11:11:17] [0000m.04s.252ms] [1] ServerProperties: Reading server properties for project [C:\LancePads\Imcorp\database]
+[2015.06.12 11:11:17] [0000m.04s.252ms] [1] ServerProperties: WARNING: Project database [C:\LancePads\Imcorp\database] is inconsistent. It has been manually copied while the iCDB Server was running
+[2015.06.12 11:11:17] [0000m.04s.268ms] [0] PrjBackupMgr: Migrating iCDB upgrade backups from directory [Imcorp\database\cdbback] to Project Backup format.
+[2015.06.12 11:11:17] [0000m.04s.268ms] [0] PrjBackupMgr: Migrating iCDB upgrade backup file [2015-06-12 11.07.08-2740].
+[2015.06.12 11:11:17] [0000m.04s.330ms] [1] PrjBackupMgr: Successfully created Project Backup [C:\LancePads\Imcorp\ProjectBackup\backups\2015-06-12 11.07.08 - consDefUpgr.zip] with GUID [aa16-544b-9705-8800-596f-a75a-96fa-7550-42b6-67c6-af9e-fda8]
+[2015.06.12 11:11:17] [0000m.04s.330ms] [1] PrjBackupMgr: Migrated iCDB content backup file [C:\LancePads\Imcorp\database\cdbback\2015-06-12 11.07.08-2740.zip] removed
+[2015.06.12 11:11:17] [0000m.04s.330ms] [0] PrjBackupMgr: Successfully migrated iCDB upgrade backup file [2015-06-12 11.07.08-2740] to Project Backup format [2015-06-12 11.07.08 - consDefUpgr.zip]
+[2015.06.12 11:11:17] [0000m.04s.408ms] [1] ServerProperties: Reading server properties for project [C:\LancePads\Imcorp\database]
+[2015.06.12 11:11:17] [0000m.04s.408ms] [1] ServerProperties: WARNING: Project database [C:\LancePads\Imcorp\database] is inconsistent. It has been manually copied while the iCDB Server was running
+[2015.06.12 11:11:20] [0000m.07s.169ms] [1] ServerProperties: Reading server properties for project [C:\LancePads\Imcorp\database]
+[2015.06.12 11:11:20] [0000m.07s.169ms] [1] ServerProperties: WARNING: Project database [C:\LancePads\Imcorp\database] is inconsistent. It has been manually copied while the iCDB Server was running
+[2015.06.12 11:11:23] [0000m.10s.055ms] [1] ServerProperties: Reading server properties for project [C:\LancePads\Imcorp\database]
+[2015.06.12 11:11:23] [0000m.10s.055ms] [1] ServerProperties: WARNING: Project database [C:\LancePads\Imcorp\database] is inconsistent. It has been manually copied while the iCDB Server was running
+[2015.06.12 11:11:26] [0000m.13s.066ms] [1] ServerProperties: Reading server properties for project [C:\LancePads\Imcorp\database]
+[2015.06.12 11:11:26] [0000m.13s.066ms] [1] ServerProperties: WARNING: Project database [C:\LancePads\Imcorp\database] is inconsistent. It has been manually copied while the iCDB Server was running
+[2015.06.12 11:11:29] [0000m.16s.077ms] [1] ServerProperties: Reading server properties for project [C:\LancePads\Imcorp\database]
+[2015.06.12 11:11:29] [0000m.16s.077ms] [1] ServerProperties: WARNING: Project database [C:\LancePads\Imcorp\database] is inconsistent. It has been manually copied while the iCDB Server was running
+[2015.06.12 11:11:32] [0000m.19s.080ms] [1] ServerProperties: Reading server properties for project [C:\LancePads\Imcorp\database]
+[2015.06.12 11:11:32] [0000m.19s.080ms] [1] ServerProperties: WARNING: Project database [C:\LancePads\Imcorp\database] is inconsistent. It has been manually copied while the iCDB Server was running
+[2015.06.12 11:11:35] [0000m.22s.091ms] [1] ServerProperties: Reading server properties for project [C:\LancePads\Imcorp\database]
+[2015.06.12 11:11:35] [0000m.22s.091ms] [1] ServerProperties: WARNING: Project database [C:\LancePads\Imcorp\database] is inconsistent. It has been manually copied while the iCDB Server was running
+[2015.06.12 11:11:38] [0000m.25s.102ms] [1] ServerProperties: Reading server properties for project [C:\LancePads\Imcorp\database]
+[2015.06.12 11:11:38] [0000m.25s.102ms] [1] ServerProperties: WARNING: Project database [C:\LancePads\Imcorp\database] is inconsistent. It has been manually copied while the iCDB Server was running
+[2015.06.12 11:11:41] [0000m.28s.112ms] [1] ServerProperties: Reading server properties for project [C:\LancePads\Imcorp\database]
+[2015.06.12 11:11:41] [0000m.28s.112ms] [1] ServerProperties: WARNING: Project database [C:\LancePads\Imcorp\database] is inconsistent. It has been manually copied while the iCDB Server was running
+[2015.06.12 11:11:44] [0000m.31s.123ms] [1] ServerProperties: Reading server properties for project [C:\LancePads\Imcorp\database]
+[2015.06.12 11:11:44] [0000m.31s.123ms] [1] ServerProperties: WARNING: Project database [C:\LancePads\Imcorp\database] is inconsistent. It has been manually copied while the iCDB Server was running
+[2015.06.12 11:11:47] [0000m.34s.134ms] [1] ServerProperties: Reading server properties for project [C:\LancePads\Imcorp\database]
+[2015.06.12 11:11:47] [0000m.34s.134ms] [1] ServerProperties: WARNING: Project database [C:\LancePads\Imcorp\database] is inconsistent. It has been manually copied while the iCDB Server was running
+[2015.06.12 11:11:49] [0000m.35s.803ms] [1] ServerProperties: Reading server properties for project [C:\LancePads\Imcorp\database]
+[2015.06.12 11:11:49] [0000m.35s.803ms] [1] ServerProperties: WARNING: Project database [C:\LancePads\Imcorp\database] is inconsistent. It has been manually copied while the iCDB Server was running
+[2015.06.12 11:11:50] [0000m.37s.145ms] [1] ServerProperties: Reading server properties for project [C:\LancePads\Imcorp\database]
+[2015.06.12 11:11:50] [0000m.37s.145ms] [1] ServerProperties: WARNING: Project database [C:\LancePads\Imcorp\database] is inconsistent. It has been manually copied while the iCDB Server was running
+[2015.06.12 11:11:53] [0000m.40s.157ms] [1] ServerProperties: Reading server properties for project [C:\LancePads\Imcorp\database]
+[2015.06.12 11:11:53] [0000m.40s.157ms] [1] ServerProperties: WARNING: Project database [C:\LancePads\Imcorp\database] is inconsistent. It has been manually copied while the iCDB Server was running
+[2015.06.12 11:11:54] [0000m.40s.469ms] [1] ServerProperties: Reading server properties for project [C:\LancePads\Imcorp\database]
+[2015.06.12 11:11:54] [0000m.40s.469ms] [1] ServerProperties: WARNING: Project database [C:\LancePads\Imcorp\database] is inconsistent. It has been manually copied while the iCDB Server was running
+[2015.06.12 11:11:56] [0000m.43s.167ms] [1] ServerProperties: Reading server properties for project [C:\LancePads\Imcorp\database]
+[2015.06.12 11:11:56] [0000m.43s.167ms] [1] ServerProperties: WARNING: Project database [C:\LancePads\Imcorp\database] is inconsistent. It has been manually copied while the iCDB Server was running
+[2015.06.12 11:11:59] [0000m.46s.182ms] [1] ServerProperties: Reading server properties for project [C:\LancePads\Imcorp\database]
+[2015.06.12 11:11:59] [0000m.46s.182ms] [1] ServerProperties: WARNING: Project database [C:\LancePads\Imcorp\database] is inconsistent. It has been manually copied while the iCDB Server was running
+[2015.06.12 11:12:02] [0000m.49s.193ms] [1] ServerProperties: Reading server properties for project [C:\LancePads\Imcorp\database]
+[2015.06.12 11:12:02] [0000m.49s.193ms] [1] ServerProperties: WARNING: Project database [C:\LancePads\Imcorp\database] is inconsistent. It has been manually copied while the iCDB Server was running
+[2015.06.12 11:12:03] [0000m.50s.238ms] [1] ServerProperties: Reading server properties for project [C:\LancePads\Imcorp\database]
+[2015.06.12 11:12:03] [0000m.50s.238ms] [1] ServerProperties: WARNING: Project database [C:\LancePads\Imcorp\database] is inconsistent. It has been manually copied while the iCDB Server was running
+[2015.06.12 11:12:07] [0000m.54s.201ms] [1] PrjBackupMgr: Successfully created Project Backup [C:\LancePads\Imcorp\ProjectBackup\backups\2015-06-12 11.12.03 - repair.zip] with GUID [194c-7854-7b79-d202-3c6f-a758-c6fa-7550-42b6-67c6-af9e-fda8]
+[2015.06.12 11:12:07] [0000m.54s.260ms] [1] ServerProperties: Reading server properties for project [C:\LancePads\Imcorp\database]
+[2015.06.12 11:12:07] [0000m.54s.261ms] [1] ServerProperties: WARNING: Project database [C:\LancePads\Imcorp\database] is inconsistent. It has been manually copied while the iCDB Server was running
+[2015.06.12 11:12:08] [0000m.55s.211ms] [1] ServerProperties: Reading server properties for project [C:\LancePads\Imcorp\database]
+[2015.06.12 11:12:08] [0000m.55s.211ms] [1] ServerProperties: WARNING: Project database [C:\LancePads\Imcorp\database] is inconsistent. It has been manually copied while the iCDB Server was running
+[2015.06.12 11:12:11] [0000m.58s.219ms] [1] ServerProperties: Reading server properties for project [C:\LancePads\Imcorp\database]
+[2015.06.12 11:12:11] [0000m.58s.219ms] [1] ServerProperties: WARNING: Project database [C:\LancePads\Imcorp\database] is inconsistent. It has been manually copied while the iCDB Server was running
+[2015.06.12 11:12:14] [0001m.01s.230ms] [1] ServerProperties: Reading server properties for project [C:\LancePads\Imcorp\database]
+[2015.06.12 11:12:14] [0001m.01s.230ms] [1] ServerProperties: WARNING: Project database [C:\LancePads\Imcorp\database] is inconsistent. It has been manually copied while the iCDB Server was running
+[2015.06.12 11:12:17] [0001m.04s.241ms] [1] ServerProperties: Reading server properties for project [C:\LancePads\Imcorp\database]
+[2015.06.12 11:12:17] [0001m.04s.241ms] [1] ServerProperties: WARNING: Project database [C:\LancePads\Imcorp\database] is inconsistent. It has been manually copied while the iCDB Server was running
+[2015.06.12 11:12:20] [0001m.07s.252ms] [1] ServerProperties: Reading server properties for project [C:\LancePads\Imcorp\database]
+[2015.06.12 11:12:20] [0001m.07s.252ms] [1] ServerProperties: WARNING: Project database [C:\LancePads\Imcorp\database] is inconsistent. It has been manually copied while the iCDB Server was running

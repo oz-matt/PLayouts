@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DiagGUI_cfg>
+  <file_version>1.0</file_version>
+  <diagnostic enabled="1"/>
+  <app_wnd_always_on_top enabled="0"/>
+  <balloon_timeout>5</balloon_timeout>
+  <notifications>
+    <notification type="1"/>
+    <notification type="2"/>
+    <notification type="3"/>
+  </notifications>
+  <issues/>
+  <report_dlg>
+    <report_format>2</report_format>
+    <report_options>2</report_options>
+    <report_file_path></report_file_path>
+    <open_report_file>0</open_report_file>
+  </report_dlg>
+  <popup_windows>
+    <show_error_msg_popup enabled="1"/>
+    <show_warning_msg_popup enabled="1"/>
+    <show_note_msg_popup enabled="1"/>
+    <show_backup_msg_popup enabled="1"/>
+    <show_public_msg_popup enabled="1"/>
+    <show_private_msg_popup enabled="1"/>
+    <show_new_project_user_msg_popup enabled="1"/>
+  </popup_windows>
+  <list_header_cfg/>
+</DiagGUI_cfg>

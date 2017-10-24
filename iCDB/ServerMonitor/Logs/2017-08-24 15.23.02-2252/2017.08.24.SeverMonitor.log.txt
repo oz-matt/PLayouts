@@ -1,0 +1,17 @@
+[2017.08.24 15:23:02] [0000m.00s.008ms] [1] Config file [C:\PADS Projects\iCDB\ServerMonitor\ServerMonitor.cfg] not found - creating default one
+[2017.08.24 15:23:02] [0000m.00s.009ms] [0] Config: ERROR: Could not open config file [C:\PADS Projects\iCDB\ServerMonitor\ServerMonitor.cfg]
+[2017.08.24 15:23:02] [0000m.00s.010ms] [0] WELCOME
+[2017.08.24 15:23:02] [0000m.00s.010ms] [1] iCDB Server Monitor ver.1.093, 4eaDVz8EvVKuZCsHMzatSQ, build:488395 created 2012-01-27 13:24:08, sources stamp:4eaDVz8EvVKuZCsHMzatSQ
+[2017.08.24 15:23:02] [0000m.00s.010ms] [1] Copyright 2012 Mentor Graphics Corporation. All Rights Reserved.
+[2017.08.24 15:23:02] [0000m.00s.011ms] [1] Base flow version [7.9.3]
+[2017.08.24 15:23:02] [0000m.00s.011ms] [1] GBS Install Id [24044], Flow Id [PADS 9.4.1], Full Flow Name [PADS 9.4.1], Exact Access Date [Nov 1 2011]
+[2017.08.24 15:23:02] [0000m.00s.011ms] [1] Machine [DESKTOP-47RP8D9]  User [TARS]  PID [2252]
+[2017.08.24 15:23:02] [0000m.00s.011ms] [1] Operating system [Microsoft Home Premium Edition, 64-bit (build 9200)]
+[2017.08.24 15:23:02] [0000m.00s.011ms] [1] Current working dir [C:\MentorGraphics\win32]
+[2017.08.24 15:23:02] [0000m.00s.011ms] [1] PATH [C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Users\TARS\AppData\Local\Microsoft\WindowsApps;C:\MentorGraphics\9.4PADS\SDD_HOME\common\win32\lib;C:\MentorGraphics\9.4PADS\SDD_HOME\CAMCAD;]
+[2017.08.24 15:23:02] [0000m.00s.011ms] [1] SDD_HOME [C:\MentorGraphics\9.4PADS\SDD_HOME] on file system [NTFS]
+[2017.08.24 15:23:02] [0000m.00s.011ms] [1] SDD_PLATFORM [win32]
+[2017.08.24 15:23:02] [0000m.00s.011ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\9.4PADS\SDD_HOME\standard]
+[2017.08.24 15:23:02] [0000m.00s.011ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2017.08.24 15:23:02] [0000m.00s.055ms] [0] End logging
+[2017.08.24 15:23:02] [0000m.00s.055ms] [0] .
