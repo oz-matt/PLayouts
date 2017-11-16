@@ -3,7 +3,7 @@
   <DxDesigner>
     <SETTINGS>
       <key name="TIPOFTHEDAYTIMESTAMP" value="Tue Sep 12 19:20:23 2017"/>
-      <key name="TIPOFTHEDAYFILEPOS" value="579"/>
+      <key name="TIPOFTHEDAYFILEPOS" value="832"/>
       <key name="MRU_SETTINGS" value="Borders and Zones"/>
       <key name="GRID_HR" value="25400"/>
       <key name="NAV_COMP_SORT_ORDER_BY" value="5"/>
@@ -100,9 +100,9 @@
           <KeyName>DxDatabook</KeyName>
         </KeyInfo>
         <CipherData>
-          <CipherValue>p2sg2KfOTuvy22VaP1bxVizEDXRyM7O/uZ1+W5co2miZk2T31d6EQgQ+Qw7mKu6Q
-+H2XIZ8cqR3se+yLE0XMtchKjBLue/+Tv6L6Vtzk9hb0sTpiCbqzf7boF8S2n9VE
-LIk6OUDV9sb/z6d1uFbWgYW/vEmm7yOIozfn7qZnsATs2A13pJZTrIHugoyTMPfo</CipherValue>
+          <CipherValue>IaYIAMYgRmjhfpML3qdFk1iceM4beYw9gIScfYtL3iasYEU42/kKU5aYVe/5UYOB
+vVRC413xGlnF1uyWLQ460KsfN/HZdoO+2BbC+0vMQSb16IP8rH5dN9bRG3YvKGRt
+gLXJvSERZY4d3BT8ZFaTa34khsjYHIM6T3w3Mis1UwbL34h6IhVwgIX87GTveGhU</CipherValue>
         </CipherData>
       </EncryptedData>
     </USERDATA>
