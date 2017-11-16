@@ -1,7 +1,24 @@
 `<000>
 -----------------
-Loading PCB file 'C:\Work\Pads&DXD\Skid Addon\AddonV3.pcb'...
-PCB file loaded -- `DESIGN[C:\Work\Pads&DXD\Skid Addon\AddonV3.pcb][C:\Work\Pads&DXD\Skid Addon\AddonV3.pcb] -- version 9.4.0
+Loading PCB file 'C:\Work\Pads&DXD\IsolatingInverter\INV200B.pcb'...
+PCB file loaded -- `DESIGN[C:\Work\Pads&DXD\IsolatingInverter\INV200B.pcb][C:\Work\Pads&DXD\IsolatingInverter\INV200B.pcb] -- version 9.4.0
 Integrity Test in progress...
 	No database integrity problems found
 ... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+-----------------
+Loading PCB file 'C:\Work\Pads&DXD\IsolatingInverter\INV200B.pcb'...
+PCB file loaded -- `DESIGN[C:\Work\Pads&DXD\IsolatingInverter\INV200B.pcb][C:\Work\Pads&DXD\IsolatingInverter\INV200B.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+Unroute in progress...
+...Unroute finished.

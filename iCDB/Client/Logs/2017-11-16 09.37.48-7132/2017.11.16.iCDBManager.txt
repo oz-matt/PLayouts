@@ -1,0 +1,18 @@
+[2017.11.16 09:37:48] [0000m.00s.016ms] [0] WELCOME
+[2017.11.16 09:37:48] [0000m.00s.018ms] [1] iCDB API ver.1.093, 4eaDVz8EvVKuZCsHMzatSQ, build:488395 created 2012-01-27 13:24:08, sources stamp:4eaDVz8EvVKuZCsHMzatSQ
+[2017.11.16 09:37:48] [0000m.00s.018ms] [1] Copyright 2012 Mentor Graphics Corporation. All Rights Reserved.
+[2017.11.16 09:37:48] [0000m.00s.018ms] [1] Base flow version [7.9.3]
+[2017.11.16 09:37:48] [0000m.00s.018ms] [1] GBS Install Id [24044], Flow Id [PADS 9.4.1], Full Flow Name [PADS 9.4.1], Exact Access Date [Nov 1 2011]
+[2017.11.16 09:37:48] [0000m.00s.018ms] [1] Machine [DESKTOP-APFMU2M]  User [klutc]  PID [7132]
+[2017.11.16 09:37:48] [0000m.00s.019ms] [1] Operating system [Microsoft Home Premium Edition, 64-bit (build 9200)]
+[2017.11.16 09:37:48] [0000m.00s.019ms] [1] Current working dir [C:\EyeProject\Eye]
+[2017.11.16 09:37:48] [0000m.00s.019ms] [1] PATH [C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\ProgramData\Oracle\Java\javapath;C:\MentorGraphics\9.4PADS\SDD_HOME\common\win32\bin;C:\MentorGraphics\9.4PADS\SDD_HOME\common\win32\lib;C:\MentorGraphics\9.4PADS\MGC_HOME.ixn\bin;C:\MentorGraphics\9.4PADS\MGC_HOME.ixn\lib;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Mercurial;C:\Program Files\Cinterion\Module Exchange Suite\;C:\Program Files (x86)\Java\jdk1.7.0_25\bin;c:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;c:\Program Files\Microsoft SQL Server\110\Tools\Binn\;c:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Users\klutc\AppData\Local\Programs\Python\Python36-32\Scripts\;C:\Users\klutc\AppData\Local\Programs\Python\Python36-32\;C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\bin;C:\Users\klutc\AppData\Local\Microsoft\WindowsApps;C:\MentorGraphics\9.4PADS\SDD_HOME\common\win32\lib;C:\MentorGraphics\9.4PADS\SDD_HOME\CAMCAD;C:\Program Files (x86)\proXPN\bin;C:\Users\klutc\AppData\Local\atom\bin]
+[2017.11.16 09:37:48] [0000m.00s.019ms] [1] SDD_HOME [C:\MentorGraphics\9.4PADS\SDD_HOME] on file system [NTFS]
+[2017.11.16 09:37:48] [0000m.00s.019ms] [1] SDD_PLATFORM [win32]
+[2017.11.16 09:37:48] [0000m.00s.019ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\9.4PADS\SDD_HOME\standard]
+[2017.11.16 09:37:48] [0000m.00s.019ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2017.11.16 09:37:48] [0000m.00s.034ms] [0] PM: Entering client mode
+[2017.11.16 09:37:48] [0000m.00s.070ms] [0] DiagProperties: ERROR: iCDB Server Monitor address file not found
+[2017.11.16 09:37:49] [0000m.00s.155ms] [0] AMC: Event: ProjectConnectionSucceed
+[2017.11.16 09:37:50] [0000m.01s.697ms] [0] PM: Closing client mode
+[2017.11.16 09:37:50] [0000m.01s.698ms] [0] .

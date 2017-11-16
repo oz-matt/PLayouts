@@ -2,14 +2,15 @@
 <DxDesigner_Configuration_file version="1.2" name="DxDesigner.xml">
   <DxDesigner>
     <SETTINGS>
-      <key name="TIPOFTHEDAYTIMESTAMP" value="Tue Sep 12 20:20:23 2017"/>
-      <key name="TIPOFTHEDAYFILEPOS" value="6377"/>
-      <key name="MRU_SETTINGS" value="HDL/FPGA Integration"/>
+      <key name="TIPOFTHEDAYTIMESTAMP" value="Tue Sep 12 19:20:23 2017"/>
+      <key name="TIPOFTHEDAYFILEPOS" value="579"/>
+      <key name="MRU_SETTINGS" value="Borders and Zones"/>
       <key name="GRID_HR" value="25400"/>
       <key name="NAV_COMP_SORT_ORDER_BY" value="5"/>
       <key name="SHEETSIZE" value="0"/>
       <key name="DEFAULT_ZOOM" value="0"/>
       <key name="UNIQUE_LABEL" value="1"/>
+      <key name="DEFSHEET" value="1"/>
       <key name="MRU_PROJECTS">
         <value>C:\EyeProject\Eye\Eye.prj</value>
         <value>C:\Work\Pads&amp;DXD\Inverter\Inverter.prj</value>
@@ -99,9 +100,9 @@
           <KeyName>DxDatabook</KeyName>
         </KeyInfo>
         <CipherData>
-          <CipherValue>M9B/bpztwN+XM0aNoUP4YA9V6T8jhydcJm1Yw75WhwiuTdzdtLEeXAOkRzJ99mau
-qBtyJhxYi1M3I4ynf4fjTUdGqubJAVNliqo3NG5mF1k/C57k/0MBQLpWzH1K30bQ
-cyd34NNycfvmaUZJRm7Wxy9yfsyJ/RQa4ksssoqXJIxy+WjlsXzdwJqLRP+8Xxjr</CipherValue>
+          <CipherValue>p2sg2KfOTuvy22VaP1bxVizEDXRyM7O/uZ1+W5co2miZk2T31d6EQgQ+Qw7mKu6Q
++H2XIZ8cqR3se+yLE0XMtchKjBLue/+Tv6L6Vtzk9hb0sTpiCbqzf7boF8S2n9VE
+LIk6OUDV9sb/z6d1uFbWgYW/vEmm7yOIozfn7qZnsATs2A13pJZTrIHugoyTMPfo</CipherValue>
         </CipherData>
       </EncryptedData>
     </USERDATA>

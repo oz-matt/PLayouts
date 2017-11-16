@@ -1,0 +1,65 @@
+[2017.11.05 08:08:32] [0000m.22s.154ms] [0] WELCOME
+[2017.11.05 08:08:32] [0000m.22s.181ms] [1] iCDB Project Backup ver.1.093, 4eaDVz8EvVKuZCsHMzatSQ, build:488395 created 2012-01-27 13:24:08, sources stamp:4eaDVz8EvVKuZCsHMzatSQ
+[2017.11.05 08:08:32] [0000m.22s.181ms] [1] Copyright 2012 Mentor Graphics Corporation. All Rights Reserved.
+[2017.11.05 08:08:32] [0000m.22s.181ms] [1] Base flow version [7.9.3]
+[2017.11.05 08:08:32] [0000m.22s.181ms] [1] GBS Install Id [24044], Flow Id [PADS 9.4.1], Full Flow Name [PADS 9.4.1], Exact Access Date [Nov 1 2011]
+[2017.11.05 08:08:32] [0000m.22s.182ms] [1] Machine [DESKTOP-APFMU2M]  User [klutc]  PID [6856]
+[2017.11.05 08:08:32] [0000m.22s.182ms] [1] Operating system [Microsoft Home Premium Edition, 64-bit (build 9200)]
+[2017.11.05 08:08:32] [0000m.22s.182ms] [1] Current working dir [C:\Windows\system32]
+[2017.11.05 08:08:32] [0000m.22s.182ms] [1] PATH [C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\ProgramData\Oracle\Java\javapath;C:\Python27\;C:\Python27\Scripts;C:\MentorGraphics\9.4PADS\SDD_HOME\common\win32\bin;C:\MentorGraphics\9.4PADS\SDD_HOME\common\win32\lib;C:\MentorGraphics\9.4PADS\MGC_HOME.ixn\bin;C:\MentorGraphics\9.4PADS\MGC_HOME.ixn\lib;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Mercurial;C:\Program Files\Cinterion\Module Exchange Suite\;C:\Program Files (x86)\Java\jdk1.7.0_25\bin;c:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;c:\Program Files\Microsoft SQL Server\110\Tools\Binn\;c:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\GNU Tools ARM Embedded\6 2017-q2-update\bin;C:\Users\klutc\AppData\Local\Microsoft\WindowsApps;C:\MentorGraphics\9.4PADS\SDD_HOME\common\win32\lib;C:\MentorGraphics\9.4PADS\SDD_HOME\CAMCAD;C:\Program Files (x86)\proXPN\bin;C:\Users\klutc\AppData\Local\atom\bin]
+[2017.11.05 08:08:32] [0000m.22s.182ms] [1] SDD_HOME [C:\MentorGraphics\9.4PADS\SDD_HOME] on file system [NTFS]
+[2017.11.05 08:08:32] [0000m.22s.182ms] [1] SDD_PLATFORM [win32]
+[2017.11.05 08:08:32] [0000m.22s.182ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\9.4PADS\SDD_HOME\standard]
+[2017.11.05 08:08:32] [0000m.22s.182ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2017.11.05 08:08:47] [0000m.37s.440ms] [0] PrjBackupMgr: ERROR: Broken zip file [C:\Work\Pads&DXD\Inverter\ProjectBackup\backups\2014-10-10 11.19.42 - auto.zip] - will not be managed. Could not get list of backup content.
+[2017.11.05 08:09:01] [0000m.51s.705ms] [0] PrjBackupMgr: ERROR: Broken zip file [C:\Work\Pads&DXD\Inverter\ProjectBackup\backups\2014-10-14 15.41.24 - auto.zip] - will not be managed. Could not get list of backup content.
+[2017.11.05 08:09:22] [0001m.12s.323ms] [0] PrjBackupMgr: ERROR: Broken zip file [C:\Work\Pads&DXD\Inverter\ProjectBackup\backups\2015-07-21 14.46.34 - auto.zip] - will not be managed. Could not get list of backup content.
+[2017.11.05 08:09:22] [0001m.12s.623ms] [0] PrjBackupMgr: Migrating iCDB upgrade backups from directory [Inverter\database\cdbback] to Project Backup format.
+[2017.11.05 08:09:22] [0001m.12s.636ms] [0] PrjBackupMgr: WARNING: Ignoring iCDB backup file [2017-09-12 21.53.04-6092-i.zip] - will not be migrated.
+[2017.11.05 08:09:22] [0001m.12s.649ms] [0] PrjBackupMgr: WARNING: Ignoring iCDB backup file [2016-01-05 09.08.41-8812-i.zip] - will not be migrated.
+[2017.11.05 08:09:22] [0001m.12s.661ms] [0] PrjBackupMgr: WARNING: Ignoring iCDB backup file [2014-07-21 17.39.13-3420-d.zip] - will not be migrated.
+[2017.11.05 08:09:45] [0001m.35s.760ms] [1] PrjBackupMgr: Successfully created Project Backup [C:\Work\Pads&DXD\Inverter\ProjectBackup\backups\2017-11-05 08.09.40 - repair.zip] with GUID [7f57-51cf-0132-4355-49d0-ff99-9d0f-f950-5aa8-b6d0-1098-ea41]
+[2017.11.05 08:09:46] [0001m.36s.581ms] [1] Diagnostic: Warning: {[BlockViewDxD] [1] [148-1-68] [2] } --> Could not get sheet size
+[2017.11.05 08:09:46] [0001m.36s.581ms] [1] Diagnostic: Warning: {[BlockViewDxD] [2] [148-2-68] [3] } --> Could not get sheet size
+[2017.11.05 08:09:46] [0001m.36s.583ms] [1] Diagnostic: Warning: {[BlockViewDxD] [1] [176-1-68] [4] } --> Could not get sheet size
+[2017.11.05 08:09:46] [0001m.36s.584ms] [1] Diagnostic: Warning: {[BlockViewDxD] [3] [190-1-68] [6] } --> Could not get sheet size
+[2017.11.05 08:09:46] [0001m.36s.584ms] [1] Diagnostic: Warning: {[BlockViewDxD] [4] [192-1-68] [7] } --> Could not get sheet size
+[2017.11.05 08:09:46] [0001m.36s.585ms] [1] Diagnostic: Warning: {[BlockViewDxD] [1] [406-1-68] [8] } --> Could not get sheet size
+[2017.11.05 08:09:46] [0001m.36s.590ms] [1] Diagnostic: Check failed on Block: Inverter
+[2017.11.05 08:09:46] [0001m.36s.604ms] [1] Diagnostic: Warning: {[BlockViewDxD] [1] [176-1-68] [4] } --> Could not get sheet size
+[2017.11.05 08:09:46] [0001m.36s.604ms] [1] Diagnostic: Warning: {[BlockViewDxD] [2] [449-1-68] [9] } --> Could not get sheet size
+[2017.11.05 08:09:46] [0001m.36s.605ms] [1] Diagnostic: Warning: {[BlockViewDxD] [3] [468-1-68] [10] } --> Could not get sheet size
+[2017.11.05 08:09:46] [0001m.36s.608ms] [1] Diagnostic: Check failed on Block: Interface
+[2017.11.05 08:09:46] [0001m.36s.620ms] [1] Diagnostic: Warning: {[BlockViewDxD] [1] [176-2-68] [5] } --> Could not get sheet size
+[2017.11.05 08:09:46] [0001m.36s.620ms] [1] Diagnostic: Warning: {[BlockViewDxD] [3] [190-1-68] [6] } --> Could not get sheet size
+[2017.11.05 08:09:46] [0001m.36s.621ms] [1] Diagnostic: Check failed on Block: IndicatorBrd
+[2017.11.05 08:09:46] [0001m.36s.630ms] [1] Diagnostic: Warning: {[BlockViewDxD] [1] [406-1-68] [8] } --> Could not get sheet size
+[2017.11.05 08:09:46] [0001m.36s.631ms] [1] Diagnostic: Check failed on Block: User
+[2017.11.05 08:09:46] [0001m.36s.637ms] [1] Diagnostic: Warning: {[BlockViewDxD] [1] [634-1-68] [11] } --> Could not get sheet size
+[2017.11.05 08:09:46] [0001m.36s.638ms] [1] Diagnostic: Check failed on Block: Schematic1
+[2017.11.05 08:09:46] [0001m.36s.647ms] [1] Diagnostic: Warning: {[BlockViewDxD] [1] [726-1-68] [12] } --> Could not get sheet size
+[2017.11.05 08:09:46] [0001m.36s.647ms] [1] Diagnostic: Warning: {[BlockViewDxD] [2] [726-2-68] [13] } --> Could not get sheet size
+[2017.11.05 08:09:46] [0001m.36s.647ms] [1] Diagnostic: Warning: {[BlockViewDxD] [3] [726-4-68] [15] } --> Could not get sheet size
+[2017.11.05 08:09:46] [0001m.36s.647ms] [1] Diagnostic: Warning: {[BlockViewDxD] [4] [726-5-68] [16] } --> Could not get sheet size
+[2017.11.05 08:09:46] [0001m.36s.647ms] [1] Diagnostic: Warning: {[BlockViewDxD] [5] [1301-1-68] [20] } --> Could not get sheet size
+[2017.11.05 08:09:46] [0001m.36s.649ms] [1] Diagnostic: Check failed on Block: HybridVanInverter
+[2017.11.05 08:09:46] [0001m.36s.663ms] [1] Diagnostic: Warning: {[BlockViewDxD] [1] [1019-1-68] [17] } --> Could not get sheet size
+[2017.11.05 08:09:46] [0001m.36s.663ms] [1] Diagnostic: Check failed on Block: InverterAddon
+[2017.11.05 08:09:46] [0001m.36s.669ms] [1] Diagnostic: Warning: {[BlockViewDxD] [1] [1133-1-68] [18] } --> Could not get sheet size
+[2017.11.05 08:09:46] [0001m.36s.669ms] [1] Diagnostic: Check failed on Block: IAD100D-1
+[2017.11.05 08:09:46] [0001m.36s.678ms] [1] Diagnostic: Warning: {[BlockViewDxD] [1] [1226-1-68] [19] } --> Could not get sheet size
+[2017.11.05 08:09:46] [0001m.36s.679ms] [1] Diagnostic: Check failed on Block: X3GPS
+[2017.11.05 08:09:46] [0001m.36s.683ms] [1] Diagnostic: Warning: {[BlockViewDxD] [1] [1645-1-68] [21] } --> Could not get sheet size
+[2017.11.05 08:09:46] [0001m.36s.684ms] [1] Diagnostic: Check failed on Block: IGBT-Adapter
+[2017.11.05 08:09:46] [0001m.36s.693ms] [1] Diagnostic: Warning: {[BlockViewDxD] [1] [1719-1-68] [22] } --> Could not get sheet size
+[2017.11.05 08:09:46] [0001m.36s.693ms] [1] Diagnostic: Warning: {[BlockViewDxD] [2] [1741-1-68] [23] } --> Could not get sheet size
+[2017.11.05 08:09:46] [0001m.36s.694ms] [1] Diagnostic: Check failed on Block: Schematic3
+[2017.11.05 08:09:46] [0001m.36s.704ms] [1] Diagnostic: Warning: {[BlockViewDxD] [1] [1918-1-68] [24] } --> Could not get sheet size
+[2017.11.05 08:09:46] [0001m.36s.706ms] [1] Diagnostic: Check failed on Block: Schematic4
+[2017.11.05 08:09:46] [0001m.36s.751ms] [1] Diagnostic: Warning: {[BlockViewDxD] [1] [2305-1-68] [29] } --> Could not get sheet size
+[2017.11.05 08:09:46] [0001m.36s.753ms] [1] Diagnostic: Check failed on Block: Hybrid3CtrlBox
+[2017.11.05 08:09:46] [0001m.36s.759ms] [1] Diagnostic: Warning: {[BlockViewDxD] [1] [2329-1-68] [30] } --> Could not get sheet size
+[2017.11.05 08:09:46] [0001m.36s.760ms] [1] Diagnostic: Check failed on Block: DAC_Tester
+[2017.11.05 08:09:46] [0001m.36s.766ms] [1] Diagnostic: Warning: {[BlockViewDxD] [1] [2616-1-68] [31] } --> Could not get sheet size
+[2017.11.05 08:09:46] [0001m.36s.767ms] [1] Diagnostic: Check failed on Block: IAD100B-1
+[2017.11.05 08:19:00] [0010m.50s.706ms] [0] .

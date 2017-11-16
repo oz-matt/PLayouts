@@ -4,10 +4,11 @@
   <last_backup_dir_open></last_backup_dir_open>
   <last_backup_dir_restore></last_backup_dir_restore>
   <backup_paths max_no="20">
-    <path storage_type="1">C:\Work\Pads</path>
-    <path storage_type="1">C:\Work\Pads</path>
-    <path storage_type="1">C:\Work\Pads</path>
     <path storage_type="1">C:\EyeProject\Eye\Eye.prj</path>
+    <path storage_type="1">C:\Work\Pads</path>
+    <path storage_type="1">C:\Work\Pads</path>
+    <path storage_type="1">C:\Work\Pads</path>
+    <path storage_type="1">C:\Work\Pads</path>
     <path storage_type="1">C:\EyeProject\Aqua Programmer\Aqua Programmer\Aqua Programmer\Aqua Programmer.prj</path>
     <path storage_type="1">C:\Work\Pads</path>
     <path storage_type="1">C:\LancePads\Imcorp\Imcorp.prj</path>
