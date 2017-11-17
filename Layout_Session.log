@@ -1,9 +1,10 @@
 `<000>
 
-PCB file loaded -- `DESIGN[C:\Work\Pads&DXD\HybridCtrlBox\HybridCtrlBox.pcb][C:\Work\Pads&DXD\HybridCtrlBox\HybridCtrlBox.pcb] -- version 9.4.0
+PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.0.pcb][C:\PADS Projects\Q10B-v2.0.pcb] -- version 9.4.0
 
-PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v1.1.pcb][C:\PADS Projects\Q10B-v1.1.pcb] -- version 9.4.0
-
+Writing PADS-POWERPCB-V9.4-MILS ASCII file.
+Reading file -- `COMMAND[notepad.exe 'C:\EyeProject\Eye\Q10B.eco'][C:\EyeProject\Eye\Q10B.eco]
+ECO import/export report file saved -- `COMMAND[notepad.exe 'C:\EyeProject\Eye\eco.err'][C:\EyeProject\Eye\eco.err]
 Writing PADS-POWERPCB-V9.4-MILS ASCII file.
 Reading file -- `COMMAND[notepad.exe 'C:\EyeProject\Eye\Q10B.eco'][C:\EyeProject\Eye\Q10B.eco]
 ECO import/export report file saved -- `COMMAND[notepad.exe 'C:\EyeProject\Eye\eco.err'][C:\EyeProject\Eye\eco.err]
