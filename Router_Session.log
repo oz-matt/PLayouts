@@ -1,24 +1,84 @@
 `<000>
 -----------------
-Loading PCB file 'C:\Work\Pads&DXD\IsolatingInverter\INV200B.pcb'...
-PCB file loaded -- `DESIGN[C:\Work\Pads&DXD\IsolatingInverter\INV200B.pcb][C:\Work\Pads&DXD\IsolatingInverter\INV200B.pcb] -- version 9.4.0
+Loading PCB file 'C:\PADS Projects\Q10B-v2.1.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.1.pcb][C:\PADS Projects\Q10B-v2.1.pcb] -- version 9.4.0
 Integrity Test in progress...
 	No database integrity problems found
 ... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
 -----------------
-Loading PCB file 'C:\Work\Pads&DXD\IsolatingInverter\INV200B.pcb'...
-PCB file loaded -- `DESIGN[C:\Work\Pads&DXD\IsolatingInverter\INV200B.pcb][C:\Work\Pads&DXD\IsolatingInverter\INV200B.pcb] -- version 9.4.0
-Integrity Test in progress...
-	No database integrity problems found
-... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 1263  Routed 90 of 1353 (6.7%)  Vias 17  Duration 00:00:00
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 1263  Routed 90 of 1353 (6.7%)  Vias 17  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 1263  Routed 90 of 1353 (6.7%)  Vias 17  Duration 00:00:01
+-----------------
 Unroute in progress...
 ...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Protect in progress...
+...Protect finished.
+Warning: insufficient space for via.
+Unroute in progress...
+...Unroute finished.
+Protect in progress...
+...Protect finished.
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 1263  Routed 90 of 1353 (6.7%)  Vias 17  Duration 00:00:00
+-----------------
+Unroute in progress...
+...Unroute finished.
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 1263  Routed 90 of 1353 (6.7%)  Vias 17  Duration 00:00:01
+-----------------
+Unprotect in progress...
+...Unprotect finished.
+Unroute in progress...
+...Unroute finished.
+-----------------
+Loading PCB file 'C:\PADS Projects\Q10B-v2.1.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.1.pcb][C:\PADS Projects\Q10B-v2.1.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+Unprotect in progress...
+...Unprotect finished.
