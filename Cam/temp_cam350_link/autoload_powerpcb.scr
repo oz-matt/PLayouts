@@ -1,0 +1,23 @@
+' Advanced CAM Technologies Macro Revision: 1.0
+' CAM350 V6.0 Date:  Sun Nov 26 10:25:41 2017
+util_camed@
+setlayer@ 0
+setsectorize@ 0,1000
+textfullheight@ 50.0000
+textangle@ 0
+textmirror@ 0
+textjust@ 33
+textfitting@ 0
+textcspace@ 0.0000
+textlspace@ 50.0000
+textslant@ 0
+textxscale@ 100
+textvertical@ 0
+textfont@ "SIMPLE.EFN"
+setup_fmtype@ 0,1
+setup_fmtunit@ 0,0
+setup_fmtdigits@ 0,3,5
+setup_fmtmode@ 0,0
+setup_fmtzero@ 0,0
+setsnap@ 0
+view_all@

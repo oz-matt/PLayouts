@@ -2,6 +2,9 @@
 
 PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.2.pcb][C:\PADS Projects\Q10B-v2.2.2.pcb] -- version 9.4.0
 
+Thermal relief errors report file saved -- `COMMAND[notepad.exe 'C:\PADS Projects\therm.err'][C:\PADS Projects\therm.err]
+Clearance errors report file saved -- `COMMAND[notepad.exe 'C:\PADS Projects\clear.lst'][C:\PADS Projects\clear.lst]
+Connectivity errors report file saved -- `COMMAND[notepad.exe 'C:\PADS Projects\connect.lst'][C:\PADS Projects\connect.lst]
 PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.2.pcb][C:\PADS Projects\Q10B-v2.2.2.pcb] -- version 9.4.0
-
-PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.2.pcb][C:\PADS Projects\Q10B-v2.2.2.pcb] -- version 9.4.0
+`<002>
+Violation detected

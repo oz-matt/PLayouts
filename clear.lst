@@ -1,694 +1,274 @@
 
 
-ERROR LIST REPORT -- Q10-PrelimC.pcb -- Mon Sep 11 11:32:00 2017
+ERROR LIST REPORT -- Q10B-v2.2.2.pcb -- Wed Nov 29 09:09:13 2017
 
 
 ----------------------------------------------------
-Error   1 Location 81.96,-180 Level 10
-Trace Keepout violation error:
-TRACE(84.64,-215.75), KEEPOUT(50,-180) overlapping
-----------------------------------------------------
-Error   2 Location 220,2570 Level 10
-Trace Keepout violation error:
-TRACE(220,2570), KEEPOUT(1566,2618) overlapping
-----------------------------------------------------
-Error   3 Location 220,2572 Level 10
-Trace Keepout violation error:
-TRACE(402,2570), KEEPOUT(1566,2618) overlapping
-----------------------------------------------------
-Error   4 Location 402,2570 Level 10
-Trace Keepout violation error:
-TRACE(1452.68,2360), KEEPOUT(1566,2618) overlapping
-----------------------------------------------------
-Error   5 Location 841.4,2577.7 Level 10
-Placement Keepout violation error:
-ANT2.3, KEEPOUT(833,2808) overlapping
-----------------------------------------------------
-Error   6 Location 841.4,2750.93 Level 10
-Placement Keepout violation error:
-ANT2.4, KEEPOUT(833,2808) overlapping
-----------------------------------------------------
-Error   7 Location 983.13,2577.7 Level 10
-Placement Keepout violation error:
-ANT2.2, KEEPOUT(833,2808) overlapping
-----------------------------------------------------
-Error   8 Location 983.13,2750.93 Level 10
-Placement Keepout violation error:
-ANT2.5, KEEPOUT(833,2808) overlapping
-----------------------------------------------------
-Error   9 Location 1002.81,2535.63 Level 10
-Trace Keepout violation error:
-TRACE(1002.81,2535.63), KEEPOUT(1566,2618) overlapping
-----------------------------------------------------
-Error  10 Location 1002.81,2547 Level 10
-Trace Keepout violation error:
-TRACE(1002.81,2535.63), KEEPOUT(1566,2618) overlapping
-----------------------------------------------------
-Error  11 Location 1003,2536 Level 10
-Trace Keepout violation error:
-TRACE(1003,2536), KEEPOUT(1566,2618) overlapping
-----------------------------------------------------
-Error  12 Location 1061.87,2577.7 Level 10
-Placement Keepout violation error:
-ANT2.1, KEEPOUT(833,2808) overlapping
-----------------------------------------------------
-Error  13 Location 1061.87,2750.93 Level 10
-Placement Keepout violation error:
-ANT2.6, KEEPOUT(833,2808) overlapping
-----------------------------------------------------
-Error  14 Location 1099,2536 Level 10
-Trace Keepout violation error:
-TRACE(1099,2536), KEEPOUT(1566,2618) overlapping
-----------------------------------------------------
-Error  15 Location 1161,2536 Level 10
-Trace Keepout violation error:
-TRACE(1161,2536), KEEPOUT(1566,2618) overlapping
-----------------------------------------------------
-Error  16 Location 1255,2536 Level 10
-Trace Keepout violation error:
-TRACE(1318,2535.69), KEEPOUT(1566,2618) overlapping
-----------------------------------------------------
-Error  17 Location 1296,2516 Level 10
-Trace Keepout violation error:
-TRACE(1276,2502), KEEPOUT(1566,2618) overlapping
-----------------------------------------------------
-Error  18 Location 1306.68,2456 Level 10
-Trace Keepout violation error:
-TRACE(1340.16,2440), KEEPOUT(1566,2618) overlapping
-----------------------------------------------------
-Error  19 Location 1306.68,2516 Level 10
-Trace Keepout violation error:
-TRACE(1306.68,2516), KEEPOUT(1566,2618) overlapping
-----------------------------------------------------
-Error  20 Location 1308,2516 Level 10
-Trace Keepout violation error:
-TRACE(1308,2516), KEEPOUT(1566,2618) overlapping
-----------------------------------------------------
-Error  21 Location 1329.32,2496.31 Level 10
-Trace Keepout violation error:
-TRACE(1329.32,2496.31), KEEPOUT(1566,2618) overlapping
-----------------------------------------------------
-Error  22 Location 1329.32,2516 Level 10
-Trace Keepout violation error:
-TRACE(1329.32,2516), KEEPOUT(1566,2618) overlapping
-----------------------------------------------------
-Error  23 Location 1340.16,2419.33 Level 10
-Trace Keepout violation error:
-TRACE(1350,2396), KEEPOUT(1566,2618) overlapping
-----------------------------------------------------
-Error  24 Location 1340.16,2455.75 Level 10
-Trace Keepout violation error:
-TRACE(1340.16,2455.75), KEEPOUT(1566,2618) overlapping
-----------------------------------------------------
-Error  25 Location 1359.84,2424.25 Level 10
-Trace Keepout violation error:
-TRACE(1422.94,2408.1), KEEPOUT(1566,2618) overlapping
-----------------------------------------------------
-Error  26 Location 1359.84,2440 Level 10
-Trace Keepout violation error:
-TRACE(1359.84,2440), KEEPOUT(1566,2618) overlapping
-----------------------------------------------------
-Error  27 Location 1359.84,2455.75 Level 10
-Trace Keepout violation error:
-TRACE(1359.84,2455.75), KEEPOUT(1566,2618) overlapping
-----------------------------------------------------
-Error  28 Location 1408,2603 Level 10
-Trace Keepout violation error:
-TRACE(1423.41,2601.17), KEEPOUT(1566,2618) overlapping
-----------------------------------------------------
-Error  29 Location 1422.94,2440.1 Level 10
-Trace Keepout violation error:
-TRACE(1422.94,2440.1), KEEPOUT(1566,2618) overlapping
-----------------------------------------------------
-Error  30 Location 1423.41,2601.17 Level 10
-Trace Keepout violation error:
-TRACE(1423.41,2601.17), KEEPOUT(1566,2618) overlapping
-----------------------------------------------------
-Error  31 Location 1448.95,2601.39 Level 10
-Trace Keepout violation error:
-TRACE(1449,2601.34), KEEPOUT(1566,2618) overlapping
-----------------------------------------------------
-Error  32 Location 1449,2500.94 Level 10
-Trace Keepout violation error:
-TRACE(1441,2382), KEEPOUT(1566,2618) overlapping
-----------------------------------------------------
-Error  33 Location 1452.68,2360 Level 10
-Trace Keepout violation error:
-TRACE(1452.68,2360), KEEPOUT(1566,2618) overlapping
-----------------------------------------------------
-Error  34 Location 1474.59,2440.42 Level 10
-Trace Keepout violation error:
-TRACE(1474.68,2440.33), KEEPOUT(1566,2618) overlapping
-----------------------------------------------------
-Error  35 Location 1474.59,2590.87 Level 10
-Trace Keepout violation error:
-TRACE(1509,2568), KEEPOUT(1566,2618) overlapping
-----------------------------------------------------
-Error  36 Location 1480.95,2689.9 Level 10
-Trace Keepout violation error:
-TRACE(1480.95,2689.9), KEEPOUT(1566,2618) overlapping
-----------------------------------------------------
-Error  37 Location 1559,2672.28 Level 10
-Trace Keepout violation error:
-TRACE(1536,2646), KEEPOUT(1566,2618) overlapping
-----------------------------------------------------
-Error  38 Location 1559,2678.68 Level 10
-Trace Keepout violation error:
-TRACE(1559,2678.68), KEEPOUT(1566,2618) overlapping
-----------------------------------------------------
-Error  39 Location 1559,2701.32 Level 10
-Trace Keepout violation error:
-TRACE(1559,2701.32), KEEPOUT(1566,2618) overlapping
-----------------------------------------------------
-Error  40 Location 1578.69,2629.98 Level 10
-Trace Keepout violation error:
-TRACE(1578.74,2629.92), KEEPOUT(1566,2618) overlapping
-----------------------------------------------------
-Error  41 Location 1578.69,2701.32 Level 10
-Trace Keepout violation error:
-TRACE(1604.33,2629.92), KEEPOUT(1566,2618) overlapping
-----------------------------------------------------
-Error  42 Location -320.63,329.37 Level 10
+Error   1 Location -8.357,1.02 Level 10
 Board Outline violation error:
-SW4.6, BOARD(-43.31,-275.59) distance is 1.26, should be >= 6
+SW4.1, BOARD(-5.588,-4.572) distance is 0.05, should be >= 0.1524
 ----------------------------------------------------
-Error  43 Location -237.95,329.37 Level 10
+Error   2 Location -8.357,3.52 Level 10
 Board Outline violation error:
-SW4.7, BOARD(-43.31,-275.59) distance is 1.26, should be >= 6
+SW4.2, BOARD(-5.588,-4.572) distance is 0.05, should be >= 0.1524
 ----------------------------------------------------
-Error  44 Location 120,2354.84 Level 10
+Error   3 Location -8.357,6.02 Level 10
 Board Outline violation error:
-U11.2, BOARD(-43.31,-275.59) object is placed outside the Board area
+SW4.3, BOARD(-5.588,-4.572) distance is 0.05, should be >= 0.1524
 ----------------------------------------------------
-Error  45 Location 120,2524.92 Level 10
+Error   4 Location 3.048,59.813 Level 10
 Board Outline violation error:
-U11.1, BOARD(-43.31,-275.59) object is placed outside the Board area
+U5.2, BOARD(-5.588,-4.572) object is placed outside the Board area
 ----------------------------------------------------
-Error  46 Location 120,2695 Level 10
+Error   5 Location 3.048,64.133 Level 10
 Board Outline violation error:
-U11.3, BOARD(-43.31,-275.59) object is placed outside the Board area
+U5.1, BOARD(-5.588,-4.572) object is placed outside the Board area
 ----------------------------------------------------
-Error  47 Location 139.97,21.73 Level 10
+Error   6 Location 3.048,68.453 Level 10
+Board Outline violation error:
+U5.3, BOARD(-5.588,-4.572) object is placed outside the Board area
+----------------------------------------------------
+Error   7 Location 4.4708,6.4582 Level 10
 Distance between pads too small:
-U9.37, U9.38 distance is 5.91, should be >= 6
+U11.37, U11.38 distance is 0.15, should be >= 0.1524
 ----------------------------------------------------
-Error  48 Location 139.97,37.48 Level 10
+Error   8 Location 4.4708,6.8582 Level 10
 Distance between pads too small:
-U9.38, U9.39 distance is 5.91, should be >= 6
+U11.38, U11.39 distance is 0.15, should be >= 0.1524
 ----------------------------------------------------
-Error  49 Location 139.97,53.23 Level 10
+Error   9 Location 4.4708,7.2582 Level 10
 Distance between pads too small:
-U9.39, U9.40 distance is 5.91, should be >= 6
+U11.39, U11.40 distance is 0.15, should be >= 0.1524
 ----------------------------------------------------
-Error  50 Location 139.97,68.97 Level 10
+Error  10 Location 4.4708,7.6582 Level 10
 Distance between pads too small:
-U9.40, U9.41 distance is 5.91, should be >= 6
+U11.40, U11.41 distance is 0.15, should be >= 0.1524
 ----------------------------------------------------
-Error  51 Location 139.97,84.72 Level 10
+Error  11 Location 4.4708,8.0582 Level 10
 Distance between pads too small:
-U9.41, U9.42 distance is 5.91, should be >= 6
+U11.41, U11.42 distance is 0.15, should be >= 0.1524
 ----------------------------------------------------
-Error  52 Location 139.97,100.47 Level 10
+Error  12 Location 4.4708,8.4582 Level 10
 Distance between pads too small:
-U9.42, U9.43 distance is 5.91, should be >= 6
+U11.42, U11.43 distance is 0.15, should be >= 0.1524
 ----------------------------------------------------
-Error  53 Location 139.97,116.22 Level 10
+Error  13 Location 4.4708,8.8582 Level 10
 Distance between pads too small:
-U9.43, U9.44 distance is 5.91, should be >= 6
+U11.43, U11.44 distance is 0.15, should be >= 0.1524
 ----------------------------------------------------
-Error  54 Location 139.97,131.97 Level 10
+Error  14 Location 4.4708,9.2582 Level 10
 Distance between pads too small:
-U9.44, U9.45 distance is 5.91, should be >= 6
+U11.44, U11.45 distance is 0.15, should be >= 0.1524
 ----------------------------------------------------
-Error  55 Location 139.97,147.71 Level 10
+Error  15 Location 4.4708,9.6582 Level 10
 Distance between pads too small:
-U9.45, U9.46 distance is 5.91, should be >= 6
+U11.45, U11.46 distance is 0.15, should be >= 0.1524
 ----------------------------------------------------
-Error  56 Location 139.97,163.46 Level 10
+Error  16 Location 4.4708,10.0582 Level 10
 Distance between pads too small:
-U9.46, U9.47 distance is 5.91, should be >= 6
+U11.46, U11.47 distance is 0.15, should be >= 0.1524
 ----------------------------------------------------
-Error  57 Location 139.97,179.21 Level 10
+Error  17 Location 4.4708,10.4582 Level 10
 Distance between pads too small:
-U9.47, U9.48 distance is 5.91, should be >= 6
+U11.47, U11.48 distance is 0.15, should be >= 0.1524
 ----------------------------------------------------
-Error  58 Location 187.21,-25.51 Level 10
+Error  18 Location 5.6708,5.2582 Level 10
 Distance between pads too small:
-U9.35, U9.36 distance is 5.91, should be >= 6
+U11.35, U11.36 distance is 0.15, should be >= 0.1524
 ----------------------------------------------------
-Error  59 Location 187.21,199.68 Level 10
+Error  19 Location 5.6708,10.9782 Level 10
 Distance between pads too small:
-U9.1, U9.2 distance is 5.91, should be >= 6
+U11.1, U11.2 distance is 0.15, should be >= 0.1524
 ----------------------------------------------------
-Error  60 Location 200.89,400.26 Level 10
+Error  20 Location 6.0708,5.2582 Level 10
 Distance between pads too small:
-C82.1, VIA(211,397) distance is 5.24, should be >= 6
+U11.34, U11.35 distance is 0.15, should be >= 0.1524
 ----------------------------------------------------
-Error  61 Location 202.96,-25.51 Level 10
+Error  21 Location 6.0708,10.9782 Level 10
 Distance between pads too small:
-U9.34, U9.35 distance is 5.91, should be >= 6
+U11.2, U11.3 distance is 0.15, should be >= 0.1524
 ----------------------------------------------------
-Error  62 Location 202.96,199.68 Level 10
+Error  22 Location 6.4708,5.2582 Level 10
 Distance between pads too small:
-U9.2, U9.3 distance is 5.91, should be >= 6
+U11.33, U11.34 distance is 0.15, should be >= 0.1524
 ----------------------------------------------------
-Error  63 Location 218.71,-25.51 Level 10
+Error  23 Location 6.4708,10.9782 Level 10
 Distance between pads too small:
-U9.33, U9.34 distance is 5.91, should be >= 6
+U11.3, U11.4 distance is 0.15, should be >= 0.1524
 ----------------------------------------------------
-Error  64 Location 218.71,199.68 Level 10
+Error  24 Location 6.8708,5.2582 Level 10
 Distance between pads too small:
-U9.3, U9.4 distance is 5.91, should be >= 6
+U11.32, U11.33 distance is 0.15, should be >= 0.1524
 ----------------------------------------------------
-Error  65 Location 234.45,-25.51 Level 10
+Error  25 Location 6.8708,10.9782 Level 10
 Distance between pads too small:
-U9.32, U9.33 distance is 5.91, should be >= 6
+U11.4, U11.5 distance is 0.15, should be >= 0.1524
 ----------------------------------------------------
-Error  66 Location 234.45,199.68 Level 10
+Error  26 Location 7.2708,5.2582 Level 10
 Distance between pads too small:
-U9.4, U9.5 distance is 5.91, should be >= 6
+U11.31, U11.32 distance is 0.15, should be >= 0.1524
 ----------------------------------------------------
-Error  67 Location 250.2,-25.51 Level 10
+Error  27 Location 7.2708,10.9782 Level 10
 Distance between pads too small:
-U9.31, U9.32 distance is 5.91, should be >= 6
+U11.5, U11.6 distance is 0.15, should be >= 0.1524
 ----------------------------------------------------
-Error  68 Location 250.2,199.68 Level 10
+Error  28 Location 7.6708,5.2582 Level 10
 Distance between pads too small:
-U9.5, U9.6 distance is 5.91, should be >= 6
+U11.30, U11.31 distance is 0.15, should be >= 0.1524
 ----------------------------------------------------
-Error  69 Location 265.95,-25.51 Level 10
+Error  29 Location 7.6708,10.9782 Level 10
 Distance between pads too small:
-U9.30, U9.31 distance is 5.91, should be >= 6
+U11.6, U11.7 distance is 0.15, should be >= 0.1524
 ----------------------------------------------------
-Error  70 Location 265.95,199.68 Level 10
+Error  30 Location 8.0708,5.2582 Level 10
 Distance between pads too small:
-U9.6, U9.7 distance is 5.91, should be >= 6
+U11.29, U11.30 distance is 0.15, should be >= 0.1524
 ----------------------------------------------------
-Error  71 Location 281.7,-25.51 Level 10
+Error  31 Location 8.0708,10.9782 Level 10
 Distance between pads too small:
-U9.29, U9.30 distance is 5.91, should be >= 6
+U11.7, U11.8 distance is 0.15, should be >= 0.1524
 ----------------------------------------------------
-Error  72 Location 281.7,199.68 Level 10
+Error  32 Location 8.4708,5.2582 Level 10
 Distance between pads too small:
-U9.7, U9.8 distance is 5.91, should be >= 6
+U11.28, U11.29 distance is 0.15, should be >= 0.1524
 ----------------------------------------------------
-Error  73 Location 297.45,-25.51 Level 10
+Error  33 Location 8.4708,10.9782 Level 10
 Distance between pads too small:
-U9.28, U9.29 distance is 5.91, should be >= 6
+U11.8, U11.9 distance is 0.15, should be >= 0.1524
 ----------------------------------------------------
-Error  74 Location 297.45,199.68 Level 10
+Error  34 Location 8.8708,5.2582 Level 10
 Distance between pads too small:
-U9.8, U9.9 distance is 5.91, should be >= 6
+U11.27, U11.28 distance is 0.15, should be >= 0.1524
 ----------------------------------------------------
-Error  75 Location 313.19,-25.51 Level 10
+Error  35 Location 8.8708,10.9782 Level 10
 Distance between pads too small:
-U9.27, U9.28 distance is 5.91, should be >= 6
+U11.9, U11.10 distance is 0.15, should be >= 0.1524
 ----------------------------------------------------
-Error  76 Location 313.19,199.68 Level 10
+Error  36 Location 9.2708,5.2582 Level 10
 Distance between pads too small:
-U9.9, U9.10 distance is 5.91, should be >= 6
+U11.26, U11.27 distance is 0.15, should be >= 0.1524
 ----------------------------------------------------
-Error  77 Location 328.94,-25.51 Level 10
+Error  37 Location 9.2708,10.9782 Level 10
 Distance between pads too small:
-U9.26, U9.27 distance is 5.91, should be >= 6
+U11.10, U11.11 distance is 0.15, should be >= 0.1524
 ----------------------------------------------------
-Error  78 Location 328.94,199.68 Level 10
+Error  38 Location 9.6708,5.2582 Level 10
 Distance between pads too small:
-U9.10, U9.11 distance is 5.91, should be >= 6
+U11.25, U11.26 distance is 0.15, should be >= 0.1524
 ----------------------------------------------------
-Error  79 Location 344.69,-25.51 Level 10
+Error  39 Location 9.6708,10.9782 Level 10
 Distance between pads too small:
-U9.25, U9.26 distance is 5.91, should be >= 6
+U11.11, U11.12 distance is 0.15, should be >= 0.1524
 ----------------------------------------------------
-Error  80 Location 344.69,199.68 Level 10
+Error  40 Location 10.1908,6.4582 Level 10
 Distance between pads too small:
-U9.11, U9.12 distance is 5.91, should be >= 6
+U11.23, U11.24 distance is 0.15, should be >= 0.1524
 ----------------------------------------------------
-Error  81 Location 365.16,21.73 Level 10
+Error  41 Location 10.1908,6.8582 Level 10
 Distance between pads too small:
-U9.23, U9.24 distance is 5.91, should be >= 6
+U11.22, U11.23 distance is 0.15, should be >= 0.1524
 ----------------------------------------------------
-Error  82 Location 365.16,37.48 Level 10
+Error  42 Location 10.1908,7.2582 Level 10
 Distance between pads too small:
-U9.22, U9.23 distance is 5.91, should be >= 6
+U11.21, U11.22 distance is 0.15, should be >= 0.1524
 ----------------------------------------------------
-Error  83 Location 365.16,53.23 Level 10
+Error  43 Location 10.1908,7.6582 Level 10
 Distance between pads too small:
-U9.21, U9.22 distance is 5.91, should be >= 6
+U11.20, U11.21 distance is 0.15, should be >= 0.1524
 ----------------------------------------------------
-Error  84 Location 365.16,68.97 Level 10
+Error  44 Location 10.1908,8.0582 Level 10
 Distance between pads too small:
-U9.20, U9.21 distance is 5.91, should be >= 6
+U11.19, U11.20 distance is 0.15, should be >= 0.1524
 ----------------------------------------------------
-Error  85 Location 365.16,84.72 Level 10
+Error  45 Location 10.1908,8.4582 Level 10
 Distance between pads too small:
-U9.19, U9.20 distance is 5.91, should be >= 6
+U11.18, U11.19 distance is 0.15, should be >= 0.1524
 ----------------------------------------------------
-Error  86 Location 365.16,100.47 Level 10
+Error  46 Location 10.1908,8.8582 Level 10
 Distance between pads too small:
-U9.18, U9.19 distance is 5.91, should be >= 6
+U11.17, U11.18 distance is 0.15, should be >= 0.1524
 ----------------------------------------------------
-Error  87 Location 365.16,116.22 Level 10
+Error  47 Location 10.1908,9.2582 Level 10
 Distance between pads too small:
-U9.17, U9.18 distance is 5.91, should be >= 6
+U11.16, U11.17 distance is 0.15, should be >= 0.1524
 ----------------------------------------------------
-Error  88 Location 365.16,131.97 Level 10
+Error  48 Location 10.1908,9.6582 Level 10
 Distance between pads too small:
-U9.16, U9.17 distance is 5.91, should be >= 6
+U11.15, U11.16 distance is 0.15, should be >= 0.1524
 ----------------------------------------------------
-Error  89 Location 365.16,147.71 Level 10
+Error  49 Location 10.1908,10.0582 Level 10
 Distance between pads too small:
-U9.15, U9.16 distance is 5.91, should be >= 6
+U11.14, U11.15 distance is 0.15, should be >= 0.1524
 ----------------------------------------------------
-Error  90 Location 365.16,163.46 Level 10
+Error  50 Location 10.1908,10.4582 Level 10
 Distance between pads too small:
-U9.14, U9.15 distance is 5.91, should be >= 6
+U11.13, U11.14 distance is 0.15, should be >= 0.1524
 ----------------------------------------------------
-Error  91 Location 365.16,179.21 Level 10
+Error  51 Location 18.8751,30 Level 10
 Distance between pads too small:
-U9.13, U9.14 distance is 5.91, should be >= 6
+U55.6, VIA(18.6,30) distance is 0.1438, should be >= 0.1524
 ----------------------------------------------------
-Error  92 Location 618,2286.01 Level 10
+Error  52 Location 18.87246,30.23304 Level 10
 Distance between pad and track too small:
-R80.2, TRACE(618,2279.53) distance is 5.98, should be >= 6
+U55.6, TRACE(18.6,30) distance is 0.09583, should be >= 0.1524
 ----------------------------------------------------
-Error  93 Location 646.59,2286.01 Level 10
+Error  53 Location 19.475,60.34 Level 10
+Distance between pads too small:
+U1.4, U1.5 distance is 0.15, should be >= 0.1524
+----------------------------------------------------
+Error  54 Location 19.475,60.74 Level 10
+Distance between pads too small:
+U1.5, U1.6 distance is 0.15, should be >= 0.1524
+----------------------------------------------------
+Error  55 Location 19.9,60.015 Level 10
+Distance between pads too small:
+U1.3, U1.4 distance is 0.15, should be >= 0.1524
+----------------------------------------------------
+Error  56 Location 19.975,60.34 Level 10
+Distance between pads too small:
+U1.2, U1.3 distance is 0.15, should be >= 0.1524
+----------------------------------------------------
+Error  57 Location 19.9,60.415 Level 10
+Distance between pads too small:
+U1.2, U1.5 distance is 0.15, should be >= 0.1524
+----------------------------------------------------
+Error  58 Location 19.975,60.74 Level 10
+Distance between pads too small:
+U1.1, U1.2 distance is 0.15, should be >= 0.1524
+----------------------------------------------------
+Error  59 Location 19.9,60.815 Level 10
+Distance between pads too small:
+U1.1, U1.6 distance is 0.15, should be >= 0.1524
+----------------------------------------------------
+Error  60 Location 21.04169,5.43782 Level 10
+Distance between pads too small:
+U23.3, VIA(21.1,5.7) distance is 0.13076, should be >= 0.1524
+----------------------------------------------------
+Error  61 Location 21.18172,5.44008 Level 10
+Distance between pads too small:
+U23.2, VIA(21.1,5.7) distance is 0.13853, should be >= 0.1524
+----------------------------------------------------
+Error  62 Location -0.5745,5.97002 Level 1
+Distance between pads too small:
+U16.11, VIA(-0.3,6) distance is 0.14587, should be >= 0.1524
+----------------------------------------------------
+Error  63 Location -0.04047,5.97028 Level 1
+Distance between pads too small:
+U16.10, VIA(-0.3,6) distance is 0.11605, should be >= 0.1524
+----------------------------------------------------
+Error  64 Location 0.32,6.3669 Level 1
 Distance between pad and track too small:
-C58.1, TRACE(618.81,2280) distance is 5.98, should be >= 6
+U16.10, TRACE(-0.3,6) distance is 0.1512, should be >= 0.1524
 ----------------------------------------------------
-Error  94 Location 844.49,-146.46 Level 10
-Drill spacing violation:
-J2.7, TRACE(778.54,-259.84) overlapping
-----------------------------------------------------
-Error  95 Location 844.49,-136 Level 10
-Drill spacing violation:
-J2.7, TRACE(844.49,-138.58) overlapping
-----------------------------------------------------
-Error  96 Location 871.09,2294.38 Level 10
+Error  65 Location 1.59,6.3669 Level 1
 Distance between pad and track too small:
-R79.1, TRACE(852.82,2300.36) distance is 5.96, should be >= 6
+U16.9, TRACE(-0.3,6) distance is 0.1512, should be >= 0.1524
 ----------------------------------------------------
-Error  97 Location 878.07,2291.38 Level 10
-Distance between tracks too small:
-TRACE(852.82,2300.36), TRACE(852.82,2282.36) distance is 5.96, should be >= 6
-----------------------------------------------------
-Error  98 Location 878.05,2294.38 Level 10
+Error  66 Location 2.86,6.3669 Level 1
 Distance between pad and track too small:
-R79.1, TRACE(852.82,2300.36) distance is 5.96, should be >= 6
+U16.8, TRACE(-0.3,6) distance is 0.1512, should be >= 0.1524
 ----------------------------------------------------
-Error  99 Location 907.48,731.25 Level 10
+Error  67 Location 24.41621,-2.69869 Level 1
 Distance between pad and track too small:
-VIA(907.48,718.5), TRACE(864.34,707.99) distance is 5, should be >= 6
-----------------------------------------------------
-Error 100 Location 908.85,31.3 Level 10
-Distance between pad and track too small:
-U37.2, TRACE(903.14,31.3) distance is 5.42, should be >= 6
-----------------------------------------------------
-Error 101 Location 908.85,32 Level 10
-Distance between pad and track too small:
-U37.2, TRACE(903.14,31.3) distance is 5.42, should be >= 6
-----------------------------------------------------
-Error 102 Location 911.02,29.92 Level 10
-Distance between tracks too small:
-TRACE(918.89,2.16), TRACE(903.14,31.3) distance is 5.49, should be >= 6
-----------------------------------------------------
-Error 103 Location 911.02,30.27 Level 10
-Distance between tracks too small:
-TRACE(918.89,2.16), TRACE(903.14,31.3) distance is 5.62, should be >= 6
-----------------------------------------------------
-Error 104 Location 911.02,31.29 Level 10
-Distance between tracks too small:
-TRACE(903.14,31.3), TRACE(918.89,28.54) distance is 5.25, should be >= 6
-----------------------------------------------------
-Error 105 Location 911.02,32 Level 10
-Distance between tracks too small:
-TRACE(903.14,31.3), TRACE(918.89,28.54) distance is 5.25, should be >= 6
-----------------------------------------------------
-Error 106 Location 945.4,928.48 Level 10
-Distance between pad and track too small:
-R103.1, TRACE(892,813.34) distance is 5, should be >= 6
-----------------------------------------------------
-Error 107 Location 963.16,1464 Level 10
-Distance between pad and track too small:
-VIA(950,1464), TRACE(968.5,503.94) distance is 5.83, should be >= 6
-----------------------------------------------------
-Error 108 Location 1035.43,-138.58 Level 10
-Drill spacing violation:
-J2.6, TRACE(1101.38,-259.84) overlapping
-----------------------------------------------------
-Error 109 Location 1048.13,2092.14 Level 10
-Distance between pad and track too small:
-VIA(1034.25,2092.14), TRACE(1054,2052) distance is 5.75, should be >= 6
-----------------------------------------------------
-Error 110 Location 1057.9,103.17 Level 10
-Distance between pad and track too small:
-R27.2, TRACE(1056,94.49) distance is 5.72, should be >= 6
-----------------------------------------------------
-Error 111 Location 1059.22,106.93 Level 10
-Distance between pad and track too small:
-R27.2, TRACE(1064,101.84) distance is 5.06, should be >= 6
-----------------------------------------------------
-Error 112 Location 1059.82,2068.5 Level 10
-Distance between pad and track too small:
-VIA(1073.65,2068.5), TRACE(1054,2052) distance is 5.65, should be >= 6
-----------------------------------------------------
-Error 113 Location 1059.82,2107.9 Level 10
-Distance between pad and track too small:
-VIA(1073.65,2107.9), TRACE(1054,2052) distance is 5.65, should be >= 6
-----------------------------------------------------
-Error 114 Location 1193.99,1760.44 Level 10
-Distance between pads too small:
-RN3.5, RN3.6 distance is 5.91, should be >= 6
-----------------------------------------------------
-Error 115 Location 1193.99,1797.84 Level 10
-Distance between pads too small:
-RN3.7, RN3.8 distance is 5.91, should be >= 6
-----------------------------------------------------
-Error 116 Location 1233.36,1797.84 Level 10
-Distance between pads too small:
-RN3.1, RN3.2 distance is 5.91, should be >= 6
-----------------------------------------------------
-Error 117 Location 1333.27,2434.59 Level 10
-Distance between pad and track too small:
-U6.4, TRACE(1340.16,2440) distance is 5.83, should be >= 6
-----------------------------------------------------
-Error 118 Location 1333.27,2432.13 Level 10
-Distance between pads too small:
-U6.4, U6.5 distance is 5.91, should be >= 6
-----------------------------------------------------
-Error 119 Location 1333.27,2447.87 Level 10
-Distance between pads too small:
-U6.5, U6.6 distance is 5.91, should be >= 6
-----------------------------------------------------
-Error 120 Location 1333.27,2445.41 Level 10
-Distance between pad and track too small:
-U6.6, TRACE(1340.16,2440) distance is 5.83, should be >= 6
-----------------------------------------------------
-Error 121 Location 1338.8,849.08 Level 10
-Distance between pad and track too small:
-R93.2, TRACE(1174,844) distance is 5.35, should be >= 6
-----------------------------------------------------
-Error 122 Location 1350,2419.33 Level 10
-Distance between pads too small:
-U6.3, U6.4 distance is 5.91, should be >= 6
-----------------------------------------------------
-Error 123 Location 1352.95,2432.13 Level 10
-Distance between pads too small:
-U6.2, U6.3 distance is 5.91, should be >= 6
-----------------------------------------------------
-Error 124 Location 1350,2435.08 Level 10
-Distance between pads too small:
-U6.2, U6.5 distance is 5.91, should be >= 6
-----------------------------------------------------
-Error 125 Location 1352.95,2447.87 Level 10
-Distance between pads too small:
-U6.1, U6.2 distance is 5.91, should be >= 6
-----------------------------------------------------
-Error 126 Location 1350,2450.83 Level 10
-Distance between pads too small:
-U6.1, U6.6 distance is 5.91, should be >= 6
-----------------------------------------------------
-Error 127 Location 1359.84,2429.67 Level 10
-Distance between pad and track too small:
-U6.2, TRACE(1422.94,2408.1) distance is 5.83, should be >= 6
-----------------------------------------------------
-Error 128 Location 1370,2470 Level 10
-Via Keepout violation error:
-VIA(1370,2478), KEEPOUT(1566,2618) overlapping
-----------------------------------------------------
-Error 129 Location 1638.23,1538.42 Level 10
-Distance between pads too small:
-RN2.3, RN2.4 distance is 5.91, should be >= 6
-----------------------------------------------------
-Error 130 Location 1675.63,1538.42 Level 10
-Distance between pads too small:
-RN2.1, RN2.2 distance is 5.91, should be >= 6
-----------------------------------------------------
-Error 131 Location 1749.61,146.72 Level 10
-Distance between pads too small:
-U12.5, U12.6 distance is 5.91, should be >= 6
-----------------------------------------------------
-Error 132 Location 1749.61,160.5 Level 10
-Distance between pads too small:
-U12.6, U12.7 distance is 5.91, should be >= 6
-----------------------------------------------------
-Error 133 Location 1749.61,174.28 Level 10
-Distance between pads too small:
-U12.7, U12.8 distance is 5.91, should be >= 6
-----------------------------------------------------
-Error 134 Location 1773.23,135.89 Level 10
-Distance between pads too small:
-U12.4, U12.5 distance is 5.51, should be >= 6
-----------------------------------------------------
-Error 135 Location 1775.99,146.72 Level 10
-Distance between pads too small:
-U12.3, U12.4 distance is 5.91, should be >= 6
-----------------------------------------------------
-Error 136 Location 1773.23,149.67 Level 10
-Distance between pads too small:
-U12.3, U12.6 distance is 5.51, should be >= 6
-----------------------------------------------------
-Error 137 Location 1775.99,160.5 Level 10
-Distance between pads too small:
-U12.2, U12.3 distance is 5.91, should be >= 6
-----------------------------------------------------
-Error 138 Location 1773.23,163.45 Level 10
-Distance between pads too small:
-U12.2, U12.7 distance is 5.51, should be >= 6
-----------------------------------------------------
-Error 139 Location 1775.99,174.28 Level 10
-Distance between pads too small:
-U12.1, U12.2 distance is 5.91, should be >= 6
-----------------------------------------------------
-Error 140 Location 1773.23,177.23 Level 10
-Distance between pads too small:
-U12.1, U12.8 distance is 5.51, should be >= 6
-----------------------------------------------------
-Error 141 Location 1786.42,144.75 Level 10
-Distance between pad and track too small:
-U12.3, TRACE(1834,104) distance is 5.34, should be >= 6
-----------------------------------------------------
-Error 142 Location 1975.05,278.36 Level 10
-Distance between pad and track too small:
-U19.4, TRACE(1936.35,263.61) distance is 5.18, should be >= 6
-----------------------------------------------------
-Error 143 Location 1330.22,318.41 Level 4
-Distance between pad and track too small:
-VIA(1320.87,309.06), TRACE(1344.49,309.06) distance is 5.93, should be >= 6
-----------------------------------------------------
-Error 144 Location -118,462.04 Level 1
-Trace Keepout violation error:
-TRACE(-118,462.04), KEEPOUT(26,980) overlapping
-----------------------------------------------------
-Error 145 Location -118,510 Level 1
-Trace Keepout violation error:
-TRACE(-118,510), KEEPOUT(26,980) overlapping
-----------------------------------------------------
-Error 146 Location -118,557 Level 1
-Trace Keepout violation error:
-TRACE(-118,557), KEEPOUT(26,980) overlapping
-----------------------------------------------------
-Error 147 Location -118,584 Level 1
-Trace Keepout violation error:
-TRACE(-118,584), KEEPOUT(26,980) overlapping
-----------------------------------------------------
-Error 148 Location -118,629 Level 1
-Trace Keepout violation error:
-TRACE(-118,629), KEEPOUT(26,980) overlapping
-----------------------------------------------------
-Error 149 Location 1516.61,1118.75 Level 1
-Distance between pads too small:
-U44.29, U44.31 overlapping
-----------------------------------------------------
-Error 150 Location 1536.29,1138.44 Level 1
-Distance between pads too small:
-U44.30, U44.31 overlapping
-----------------------------------------------------
-Error 151 Location 1536.29,1118.75 Level 1
-Distance between pads too small:
-U44.29, U44.30 overlapping
-----------------------------------------------------
-Error 152 Location 28.61,412.18 Level 1
-Distance between pad and track too small:
-R56.2, TRACE(15,400.58) distance is 5.14, should be >= 6
-----------------------------------------------------
-Error 153 Location 33.46,390.64 Level 1
-Distance between pads too small:
-R56.2, VIA(33.46,379.92) distance is 5.44, should be >= 6
-----------------------------------------------------
-Error 154 Location 63.29,227.29 Level 1
-Distance between pad and track too small:
-VIA(54,218), TRACE(57.11,265.05) distance is 5.77, should be >= 6
-----------------------------------------------------
-Error 155 Location 207.67,1931.25 Level 1
-Distance between pad and track too small:
-R9.2, TRACE(117.19,2034.21) distance is 5.67, should be >= 6
-----------------------------------------------------
-Error 156 Location 475.41,78.58 Level 1
-Distance between pads too small:
-U15.7, U15.8 distance is 5.91, should be >= 6
-----------------------------------------------------
-Error 157 Location 475.41,92.36 Level 1
-Distance between pads too small:
-U15.6, U15.7 distance is 5.91, should be >= 6
-----------------------------------------------------
-Error 158 Location 475.41,106.14 Level 1
-Distance between pads too small:
-U15.5, U15.6 distance is 5.91, should be >= 6
-----------------------------------------------------
-Error 159 Location 499.03,67.75 Level 1
-Distance between pads too small:
-U15.1, U15.8 distance is 5.51, should be >= 6
-----------------------------------------------------
-Error 160 Location 501.79,78.58 Level 1
-Distance between pads too small:
-U15.1, U15.2 distance is 5.91, should be >= 6
-----------------------------------------------------
-Error 161 Location 499.03,81.53 Level 1
-Distance between pads too small:
-U15.2, U15.7 distance is 5.51, should be >= 6
-----------------------------------------------------
-Error 162 Location 501.79,92.36 Level 1
-Distance between pads too small:
-U15.2, U15.3 distance is 5.91, should be >= 6
-----------------------------------------------------
-Error 163 Location 499.03,95.31 Level 1
-Distance between pads too small:
-U15.3, U15.6 distance is 5.51, should be >= 6
-----------------------------------------------------
-Error 164 Location 501.79,106.14 Level 1
-Distance between pads too small:
-U15.3, U15.4 distance is 5.91, should be >= 6
-----------------------------------------------------
-Error 165 Location 499.03,109.09 Level 1
-Distance between pads too small:
-U15.4, U15.5 distance is 5.51, should be >= 6
-----------------------------------------------------
-Error 166 Location 915.02,60.79 Level 1
-Distance between pad and track too small:
-U10.7, TRACE(898.13,76.39) distance is 5.58, should be >= 6
-----------------------------------------------------
-Error 167 Location 915.42,747.26 Level 1
-Distance between pad and track too small:
-VIA(906.2,756.48), TRACE(815.5,707.66) distance is 5.59, should be >= 6
-----------------------------------------------------
-Error 168 Location 1099.07,210.17 Level 1
-Distance between pad and track too small:
-R40.2, TRACE(1047.18,218.05) distance is 5.64, should be >= 6
-----------------------------------------------------
-Error 169 Location 1442.62,1051.84 Level 1
-Distance between pad and track too small:
-C32.1, TRACE(1440.64,1045.76) distance is 5.85, should be >= 6
-----------------------------------------------------
-Error 170 Location 1447.64,1051.84 Level 1
-Distance between pad and track too small:
-C32.1, TRACE(1440.64,1045.76) distance is 5.85, should be >= 6
-----------------------------------------------------
-Error 171 Location 1462.36,205.27 Level 1
-Distance between pad and track too small:
-R38.1, TRACE(1464,216) distance is 5.76, should be >= 6
-----------------------------------------------------
-Error 172 Location 1461.7,205.92 Level 1
-Distance between pad and track too small:
-R38.1, TRACE(1464,216) distance is 5.92, should be >= 6
+J5.6, TRACE(23.99996,-1.6) distance is 0.14305, should be >= 0.1524
 ----------------------------------------------------
