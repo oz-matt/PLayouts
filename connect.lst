@@ -1,28 +1,22 @@
 
 
-CONTINUITY ERRORS REPORT -- Q10B-v2.2.2.pcb -- Wed Nov 29 09:09:13 2017
+CONTINUITY ERRORS REPORT -- Q10B-v2.2.2.pcb -- Wed Nov 29 11:59:55 2017
 
 
 
 Isolated subnets for: HGND
 
 *** subnet # 1
- HATCH OUTLINE(21.94,49.23153 L2)
-
-*** subnet # 2
- HATCH OUTLINE(20.94,49.23153 L2)
-
-*** subnet # 3
  HATCH OUTLINE(19.29379,60.82621 L2)
 
-*** subnet # 4
- HATCH OUTLINE(21.94,49.23153 L9)
+*** subnet # 2
+ HATCH OUTLINE(22.72379,59.08621 L2)
 
-*** subnet # 5
- HATCH OUTLINE(20.94,49.23153 L9)
-
-*** subnet # 6
+*** subnet # 3
  HATCH OUTLINE(19.29379,60.82621 L9)
+
+*** subnet # 4
+ HATCH OUTLINE(22.72379,59.08621 L9)
 
 
 Isolated subnets for: LGND
@@ -33,30 +27,15 @@ Isolated subnets for: LGND
 *** subnet # 2
  HATCH OUTLINE(19.29379,60.82621 L6)
 
+*** subnet # 3
+ HATCH OUTLINE(22.72379,59.08621 L6)
 
-Isolated subnets for: 3V_SWPWR
-
-*** subnet # 1
- HATCH OUTLINE(1.5762,42.98276 L5)
-
-
-Isolated subnets for: MBATT
-
-*** subnet # 1
- HATCH OUTLINE(21.94,49.23153 L5)
-
-*** subnet # 2
- HATCH OUTLINE(20.94,49.23153 L5)
+*** subnet # 4
+ HATCH OUTLINE(22.72379,59.08621 L6)
 
 
 Isolated subnets for: 5V_USB
 
 *** subnet # 1
- HATCH OUTLINE(30.4238,-1.51724 L5)
-
-
-Isolated subnets for: 3V3_AU
-
-*** subnet # 1
- HATCH OUTLINE(41.2238,63.1762 L5)
+ HATCH OUTLINE(25.2762,-7.4238 L5)
 

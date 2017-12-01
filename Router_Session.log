@@ -5,6 +5,171 @@ PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.2.pcb][C:\PADS Projects\Q1
 Integrity Test in progress...
 	No database integrity problems found
 ... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+Unroute in progress...
+`<001>
+Unroute Warning: Trace is protected.`<000>
+ `ZOOMRECT[-629932500 -590752500 -629527500 -590272500][37.24 63.37 37.52 63.69 (Millimeters)]
+`<001>
+Unroute Warning: Trace is protected.`<000>
+ `ZOOMRECT[-629932500 -590752500 -629527500 -590272500][37.24 63.37 37.52 63.69 (Millimeters)]
+...Unroute finished.
+Unroute in progress...
+`<001>
+Unroute Warning: Trace is protected.`<000>
+ `ZOOMRECT[-629932500 -590752500 -629527500 -590272500][37.24 63.37 37.52 63.69 (Millimeters)]
+`<001>
+Unroute Warning: Trace is protected.`<000>
+ `ZOOMRECT[-629932500 -590752500 -629527500 -590272500][37.24 63.37 37.52 63.69 (Millimeters)]
+`<001>
+Unroute Warning: Trace is protected.`<000>
+ `ZOOMRECT[-629932500 -590752500 -629527500 -590272500][37.24 63.37 37.52 63.69 (Millimeters)]
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+`<001>
+Unroute Warning: Trace is protected.`<000>
+ `ZOOMRECT[-629932500 -590617500 -629527500 -590272500][37.24 63.45 37.52 63.69 (Millimeters)]
+`<001>
+Unroute Warning: Trace is protected.`<000>
+ `ZOOMRECT[-629932500 -590617500 -629527500 -590272500][37.24 63.45 37.52 63.69 (Millimeters)]
+...Unroute finished.
+Unroute in progress...
+`<001>
+Unroute Warning: Trace is protected.`<000>
+ `ZOOMRECT[-629932500 -590617500 -629527500 -590272500][37.24 63.45 37.52 63.69 (Millimeters)]
+`<001>
+Unroute Warning: Trace is protected.`<000>
+ `ZOOMRECT[-629932500 -590617500 -629527500 -590272500][37.24 63.45 37.52 63.69 (Millimeters)]
+`<001>
+Unroute Warning: Trace is protected.`<000>
+ `ZOOMRECT[-629932500 -590617500 -629527500 -590272500][37.24 63.45 37.52 63.69 (Millimeters)]
+...Unroute finished.
+Unprotect in progress...
+...Unprotect finished.
+Unroute in progress...
+...Unroute finished.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Unprotect in progress...
+...Unprotect finished.
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 1024  Routed 318 of 1342 (23.7%)  Vias 171  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 1024  Routed 318 of 1342 (23.7%)  Vias 174  Duration 00:00:00
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 1023  Routed 319 of 1342 (23.8%)  Vias 176  Duration 00:00:00
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 1023  Routed 319 of 1342 (23.8%)  Vias 176  Duration 00:00:00
+-----------------
+Warning: insufficient space for via.
+Interactive Route: Cannot start routing from (V) HS-GND1 (2), current layer restricted for Net (or Pin Pair): $3N2052; 
+-----------------
+Loading PCB file 'C:\PADS Projects\Q10B-v2.2.2.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.2.pcb][C:\PADS Projects\Q10B-v2.2.2.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
 -----------------
 Saving PCB file 'C:\PADS Projects\Q10B-v2.2.2.pcb'...
 PCB file saved -- `DESIGN[C:\PADS Projects\Q10B-v2.2.2.pcb][C:\PADS Projects\Q10B-v2.2.2.pcb]
+Unprotect in progress...
+...Unprotect finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unprotect in progress...
+...Unprotect finished.
+Unroute in progress...
+...Unroute finished.
+-----------------
+Loading PCB file 'C:\PADS Projects\Q10B-v2.2.2.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.2.pcb][C:\PADS Projects\Q10B-v2.2.2.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 1023  Routed 319 of 1342 (23.8%)  Vias 176  Duration 00:00:00
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 1022  Routed 320 of 1342 (23.8%)  Vias 179  Duration 00:00:01
+-----------------
+-----------------
+Loading PCB file 'C:\PADS Projects\Q10B-v2.2.2.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.2.pcb][C:\PADS Projects\Q10B-v2.2.2.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 1016  Routed 326 of 1342 (24.3%)  Vias 184  Duration 00:00:00
+-----------------
+Warning: insufficient space for via.
+Warning: insufficient space for via.
+Interactive Route: Cannot start routing from (V) HS-GND1 (2), current layer restricted for Net (or Pin Pair): $3N2075; 
