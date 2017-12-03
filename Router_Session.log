@@ -5,80 +5,6 @@ PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.2.pcb][C:\PADS Projects\Q1
 Integrity Test in progress...
 	No database integrity problems found
 ... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
-Unroute in progress...
-`<001>
-Unroute Warning: Trace is protected.`<000>
- `ZOOMRECT[-629932500 -590752500 -629527500 -590272500][37.24 63.37 37.52 63.69 (Millimeters)]
-`<001>
-Unroute Warning: Trace is protected.`<000>
- `ZOOMRECT[-629932500 -590752500 -629527500 -590272500][37.24 63.37 37.52 63.69 (Millimeters)]
-...Unroute finished.
-Unroute in progress...
-`<001>
-Unroute Warning: Trace is protected.`<000>
- `ZOOMRECT[-629932500 -590752500 -629527500 -590272500][37.24 63.37 37.52 63.69 (Millimeters)]
-`<001>
-Unroute Warning: Trace is protected.`<000>
- `ZOOMRECT[-629932500 -590752500 -629527500 -590272500][37.24 63.37 37.52 63.69 (Millimeters)]
-`<001>
-Unroute Warning: Trace is protected.`<000>
- `ZOOMRECT[-629932500 -590752500 -629527500 -590272500][37.24 63.37 37.52 63.69 (Millimeters)]
-...Unroute finished.
-Unroute in progress...
-...Unroute finished.
-Unroute in progress...
-`<001>
-Unroute Warning: Trace is protected.`<000>
- `ZOOMRECT[-629932500 -590617500 -629527500 -590272500][37.24 63.45 37.52 63.69 (Millimeters)]
-`<001>
-Unroute Warning: Trace is protected.`<000>
- `ZOOMRECT[-629932500 -590617500 -629527500 -590272500][37.24 63.45 37.52 63.69 (Millimeters)]
-...Unroute finished.
-Unroute in progress...
-`<001>
-Unroute Warning: Trace is protected.`<000>
- `ZOOMRECT[-629932500 -590617500 -629527500 -590272500][37.24 63.45 37.52 63.69 (Millimeters)]
-`<001>
-Unroute Warning: Trace is protected.`<000>
- `ZOOMRECT[-629932500 -590617500 -629527500 -590272500][37.24 63.45 37.52 63.69 (Millimeters)]
-`<001>
-Unroute Warning: Trace is protected.`<000>
- `ZOOMRECT[-629932500 -590617500 -629527500 -590272500][37.24 63.45 37.52 63.69 (Millimeters)]
-...Unroute finished.
-Unprotect in progress...
-...Unprotect finished.
-Unroute in progress...
-...Unroute finished.
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
 Unprotect in progress...
 ...Unprotect finished.
 -----------------
@@ -87,7 +13,109 @@ Batch Router Statistics
 Pre-routing analysis in progress...
 Pre-routing analysis finished.
 
-Done> Unroutes 1024  Routed 318 of 1342 (23.7%)  Vias 171  Duration 00:00:01
+Done> Unroutes 970  Routed 372 of 1342 (27.7%)  Vias 248  Duration 00:00:02
+-----------------
+Unroute in progress...
+...Unroute finished.
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 970  Routed 372 of 1342 (27.7%)  Vias 248  Duration 00:00:06
+-----------------
+Unprotect in progress...
+...Unprotect finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unprotect in progress...
+...Unprotect finished.
+Unroute in progress...
+...Unroute finished.
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 968  Routed 374 of 1342 (27.9%)  Vias 251  Duration 00:00:03
+-----------------
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Protect in progress...
+...Protect finished.
+Protect in progress...
+...Protect finished.
+Protect in progress...
+...Protect finished.
+-----------------
+Loading PCB file 'C:\PADS Projects\Q10B-v2.2.2.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.2.pcb][C:\PADS Projects\Q10B-v2.2.2.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+Unprotect in progress...
+...Unprotect finished.
+Unroute in progress...
+...Unroute finished.
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 969  Routed 373 of 1342 (27.8%)  Vias 249  Duration 00:00:01
+-----------------
+Unprotect in progress...
+...Unprotect finished.
+Unroute in progress...
+...Unroute finished.
+Unprotect in progress...
+...Unprotect finished.
+Unroute in progress...
+...Unroute finished.
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 970  Routed 372 of 1342 (27.7%)  Vias 246  Duration 00:00:01
 -----------------
 -----------------
 Batch Router Statistics
@@ -95,7 +123,17 @@ Batch Router Statistics
 Pre-routing analysis in progress...
 Pre-routing analysis finished.
 
-Done> Unroutes 1024  Routed 318 of 1342 (23.7%)  Vias 174  Duration 00:00:00
+Done> Unroutes 969  Routed 373 of 1342 (27.8%)  Vias 249  Duration 00:00:01
+-----------------
+Protect in progress...
+...Protect finished.
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 968  Routed 374 of 1342 (27.9%)  Vias 249  Duration 00:00:00
 -----------------
 -----------------
 Batch Router Statistics
@@ -103,7 +141,7 @@ Batch Router Statistics
 Pre-routing analysis in progress...
 Pre-routing analysis finished.
 
-Done> Unroutes 1023  Routed 319 of 1342 (23.8%)  Vias 176  Duration 00:00:00
+Done> Unroutes 967  Routed 375 of 1342 (27.9%)  Vias 249  Duration 00:00:00
 -----------------
 -----------------
 Batch Router Statistics
@@ -111,10 +149,281 @@ Batch Router Statistics
 Pre-routing analysis in progress...
 Pre-routing analysis finished.
 
-Done> Unroutes 1023  Routed 319 of 1342 (23.8%)  Vias 176  Duration 00:00:00
+Done> Unroutes 964  Routed 378 of 1342 (28.2%)  Vias 253  Duration 00:00:00
 -----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 962  Routed 380 of 1342 (28.3%)  Vias 255  Duration 00:00:00
+-----------------
+Unprotect in progress...
+...Unprotect finished.
+Unroute in progress...
+...Unroute finished.
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 959  Routed 383 of 1342 (28.5%)  Vias 259  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 956  Routed 386 of 1342 (28.8%)  Vias 262  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 954  Routed 388 of 1342 (28.9%)  Vias 265  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 953  Routed 389 of 1342 (29.0%)  Vias 265  Duration 00:00:00
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 953  Routed 389 of 1342 (29.0%)  Vias 265  Duration 00:00:00
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 951  Routed 391 of 1342 (29.1%)  Vias 267  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 950  Routed 392 of 1342 (29.2%)  Vias 267  Duration 00:00:01
+-----------------
+Unprotect in progress...
+...Unprotect finished.
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 950  Routed 392 of 1342 (29.2%)  Vias 268  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 948  Routed 394 of 1342 (29.4%)  Vias 269  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 946  Routed 396 of 1342 (29.5%)  Vias 271  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 938  Routed 404 of 1342 (30.1%)  Vias 273  Duration 00:00:00
+-----------------
+Routing report -- `FILE[C:\PADS Projects\RoutingReport.txt][C:\PADS Projects\RoutingReport.txt]
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 934  Routed 408 of 1342 (30.4%)  Vias 274  Duration 00:00:00
+-----------------
+Unroute in progress...
+`<001>
+Unroute Warning: Trace is protected.`<000>
+ `ZOOMRECT[-673522500 -630162900 -672086400 -626617500][8.19 37.09 9.14 39.45 (Millimeters)]
+`<001>
+Unroute Warning: Trace is protected.`<000>
+ `ZOOMRECT[-673522500 -630162900 -672086400 -626617500][8.19 37.09 9.14 39.45 (Millimeters)]
+`<001>
+Unroute Warning: Trace is protected.`<000>
+ `ZOOMRECT[-673522500 -630162900 -672086400 -626617500][8.19 37.09 9.14 39.45 (Millimeters)]
+...Unroute finished.
+Unprotect in progress...
+...Unprotect finished.
+Unroute in progress...
+...Unroute finished.
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 935  Routed 407 of 1342 (30.3%)  Vias 274  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 931  Routed 411 of 1342 (30.6%)  Vias 277  Duration 00:00:01
+-----------------
+Routing report -- `FILE[C:\PADS Projects\RoutingReport.txt][C:\PADS Projects\RoutingReport.txt]
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 931  Routed 411 of 1342 (30.6%)  Vias 278  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 929  Routed 413 of 1342 (30.8%)  Vias 281  Duration 00:00:02
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 928  Routed 414 of 1342 (30.8%)  Vias 284  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 927  Routed 415 of 1342 (30.9%)  Vias 287  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 926  Routed 416 of 1342 (31.0%)  Vias 290  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 924  Routed 418 of 1342 (31.1%)  Vias 292  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 923  Routed 419 of 1342 (31.2%)  Vias 294  Duration 00:00:01
+-----------------
+Unroute in progress...
+...Unroute finished.
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 922  Routed 420 of 1342 (31.3%)  Vias 296  Duration 00:00:01
+-----------------
+Unprotect in progress...
+...Unprotect finished.
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 922  Routed 420 of 1342 (31.3%)  Vias 295  Duration 00:00:01
+-----------------
+Unprotect in progress...
+...Unprotect finished.
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 921  Routed 421 of 1342 (31.4%)  Vias 295  Duration 00:00:05
+-----------------
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
 Warning: insufficient space for via.
-Interactive Route: Cannot start routing from (V) HS-GND1 (2), current layer restricted for Net (or Pin Pair): $3N2052; 
+Unroute in progress...
+...Unroute finished.
+Unprotect in progress...
+...Unprotect finished.
+Unroute in progress...
+...Unroute finished.
+Unprotect in progress...
+...Unprotect finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Warning: insufficient space for via.
+Unprotect in progress...
+...Unprotect finished.
+Unprotect in progress...
+...Unprotect finished.
+Unprotect in progress...
+...Unprotect finished.
+Unprotect in progress...
+...Unprotect finished.
 -----------------
 Loading PCB file 'C:\PADS Projects\Q10B-v2.2.2.pcb'...
 PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.2.pcb][C:\PADS Projects\Q10B-v2.2.2.pcb] -- version 9.4.0
@@ -124,16 +433,148 @@ Integrity Test in progress...
 -----------------
 Saving PCB file 'C:\PADS Projects\Q10B-v2.2.2.pcb'...
 PCB file saved -- `DESIGN[C:\PADS Projects\Q10B-v2.2.2.pcb][C:\PADS Projects\Q10B-v2.2.2.pcb]
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 918  Routed 424 of 1342 (31.6%)  Vias 297  Duration 00:00:00
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 916  Routed 426 of 1342 (31.7%)  Vias 302  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 915  Routed 427 of 1342 (31.8%)  Vias 305  Duration 00:00:00
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 914  Routed 428 of 1342 (31.9%)  Vias 308  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 913  Routed 429 of 1342 (32.0%)  Vias 311  Duration 00:00:00
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 912  Routed 430 of 1342 (32.0%)  Vias 311  Duration 00:00:01
+-----------------
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+`<001>
+Unroute Warning: Trace is protected.`<000>
+ `ZOOMRECT[-669764914 -663809449 -669419914 -663445974][10.69 14.66 10.92 14.90 (Millimeters)]
+`<001>
+Unroute Warning: Trace is protected.`<000>
+ `ZOOMRECT[-669764914 -663809449 -669419914 -663445974][10.69 14.66 10.92 14.90 (Millimeters)]
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 912  Routed 430 of 1342 (32.0%)  Vias 311  Duration 00:00:00
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 910  Routed 432 of 1342 (32.2%)  Vias 312  Duration 00:00:01
+-----------------
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+`<001>
+Unroute Warning: Trace is protected.`<000>
+ `ZOOMRECT[-681622500 -651292500 -670821300 -607177500][2.79 23.00 9.99 52.41 (Millimeters)]
+`<001>
+Unroute Warning: Trace is protected.`<000>
+ `ZOOMRECT[-681622500 -651292500 -670821300 -607177500][2.79 23.00 9.99 52.41 (Millimeters)]
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+-----------------
+Loading PCB file 'C:\PADS Projects\Q10B-v2.2.2.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.2.pcb][C:\PADS Projects\Q10B-v2.2.2.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
 Unprotect in progress...
 ...Unprotect finished.
-Unroute in progress...
-...Unroute finished.
-Unroute in progress...
-...Unroute finished.
 Unprotect in progress...
 ...Unprotect finished.
+-----------------
+Loading PCB file 'C:\PADS Projects\Q10B-v2.2.2.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.2.pcb][C:\PADS Projects\Q10B-v2.2.2.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
 Unroute in progress...
 ...Unroute finished.
+-----------------
+Loading PCB file 'C:\PADS Projects\Q10B-v2.2.2.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.2.pcb][C:\PADS Projects\Q10B-v2.2.2.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
 -----------------
 Loading PCB file 'C:\PADS Projects\Q10B-v2.2.2.pcb'...
 PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.2.pcb][C:\PADS Projects\Q10B-v2.2.2.pcb] -- version 9.4.0
@@ -146,7 +587,117 @@ Batch Router Statistics
 Pre-routing analysis in progress...
 Pre-routing analysis finished.
 
-Done> Unroutes 1023  Routed 319 of 1342 (23.8%)  Vias 176  Duration 00:00:00
+Done> Unroutes 910  Routed 432 of 1342 (32.2%)  Vias 328  Duration 00:00:00
+-----------------
+Unprotect in progress...
+...Unprotect finished.
+Unprotect in progress...
+...Unprotect finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unprotect in progress...
+...Unprotect finished.
+-----------------
+Loading PCB file 'C:\PADS Projects\Q10B-v2.2.2.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.2.pcb][C:\PADS Projects\Q10B-v2.2.2.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+Unprotect in progress...
+...Unprotect finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+-----------------
+Loading PCB file 'C:\PADS Projects\Q10B-v2.2.2.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.2.pcb][C:\PADS Projects\Q10B-v2.2.2.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+-----------------
+Loading PCB file 'C:\PADS Projects\Q10B-v2.2.2.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.2.pcb][C:\PADS Projects\Q10B-v2.2.2.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+Unprotect in progress...
+...Unprotect finished.
+Unprotect in progress...
+...Unprotect finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 911  Routed 431 of 1342 (32.1%)  Vias 330  Duration 00:00:01
+-----------------
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Unprotect in progress...
+...Unprotect finished.
+Unprotect in progress...
+...Unprotect finished.
+Unprotect in progress...
+...Unprotect finished.
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 910  Routed 432 of 1342 (32.2%)  Vias 332  Duration 00:00:01
+-----------------
+Unprotect in progress...
+...Unprotect finished.
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 908  Routed 434 of 1342 (32.3%)  Vias 333  Duration 00:00:01
 -----------------
 -----------------
 Batch Router Statistics
@@ -154,7 +705,62 @@ Batch Router Statistics
 Pre-routing analysis in progress...
 Pre-routing analysis finished.
 
-Done> Unroutes 1022  Routed 320 of 1342 (23.8%)  Vias 179  Duration 00:00:01
+Done> Unroutes 907  Routed 435 of 1342 (32.4%)  Vias 335  Duration 00:00:03
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 906  Routed 436 of 1342 (32.5%)  Vias 337  Duration 00:00:03
+-----------------
+Unprotect in progress...
+...Unprotect finished.
+Unroute in progress...
+...Unroute finished.
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 906  Routed 436 of 1342 (32.5%)  Vias 337  Duration 00:00:02
+-----------------
+-----------------
+Saving PCB file 'C:\PADS Projects\Q10B-v2.2.2.pcb'...
+PCB file saved -- `DESIGN[C:\PADS Projects\Q10B-v2.2.2.pcb][C:\PADS Projects\Q10B-v2.2.2.pcb]
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 904  Routed 438 of 1342 (32.6%)  Vias 339  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 901  Routed 441 of 1342 (32.9%)  Vias 342  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 901  Routed 441 of 1342 (32.9%)  Vias 342  Duration 00:00:02
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 900  Routed 442 of 1342 (32.9%)  Vias 342  Duration 00:00:00
 -----------------
 -----------------
 Loading PCB file 'C:\PADS Projects\Q10B-v2.2.2.pcb'...
@@ -162,14 +768,276 @@ PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.2.pcb][C:\PADS Projects\Q1
 Integrity Test in progress...
 	No database integrity problems found
 ... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+Unroute in progress...
+...Unroute finished.
 -----------------
 Batch Router Statistics
 
 Pre-routing analysis in progress...
 Pre-routing analysis finished.
 
-Done> Unroutes 1016  Routed 326 of 1342 (24.3%)  Vias 184  Duration 00:00:00
+Done> Unroutes 898  Routed 444 of 1342 (33.1%)  Vias 342  Duration 00:00:02
 -----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 897  Routed 445 of 1342 (33.2%)  Vias 344  Duration 00:00:02
+-----------------
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Protect in progress...
+...Protect finished.
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 896  Routed 446 of 1342 (33.2%)  Vias 345  Duration 00:00:02
+-----------------
+Routing report -- `FILE[C:\PADS Projects\RoutingReport.txt][C:\PADS Projects\RoutingReport.txt]
 Warning: insufficient space for via.
-Warning: insufficient space for via.
-Interactive Route: Cannot start routing from (V) HS-GND1 (2), current layer restricted for Net (or Pin Pair): $3N2075; 
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 859  Routed 483 of 1342 (36.0%)  Vias 346  Duration 00:00:12
+-----------------
+Routing report -- `FILE[C:\PADS Projects\RoutingReport.txt][C:\PADS Projects\RoutingReport.txt]
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 856  Routed 486 of 1342 (36.2%)  Vias 348  Duration 00:00:01
+-----------------
+Protect in progress...
+...Protect finished.
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 859  Routed 483 of 1342 (36.0%)  Vias 346  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 859  Routed 483 of 1342 (36.0%)  Vias 346  Duration 00:00:00
+-----------------
+Unprotect in progress...
+...Unprotect finished.
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 858  Routed 484 of 1342 (36.1%)  Vias 347  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 858  Routed 484 of 1342 (36.1%)  Vias 347  Duration 00:00:01
+-----------------
+Routing report -- `FILE[C:\PADS Projects\RoutingReport.txt][C:\PADS Projects\RoutingReport.txt]
+Delete in progress...
+...Delete finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 858  Routed 484 of 1342 (36.1%)  Vias 347  Duration 00:00:01
+-----------------
+Routing report -- `FILE[C:\PADS Projects\RoutingReport.txt][C:\PADS Projects\RoutingReport.txt]
+Delete in progress...
+...Delete finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 851  Routed 491 of 1342 (36.6%)  Vias 347  Duration 00:00:00
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 847  Routed 495 of 1342 (36.9%)  Vias 349  Duration 00:00:01
+-----------------
+Unroute in progress...
+...Unroute finished.
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 851  Routed 491 of 1342 (36.6%)  Vias 345  Duration 00:00:03
+-----------------
+Protect in progress...
+...Protect finished.
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 847  Routed 495 of 1342 (36.9%)  Vias 347  Duration 00:00:00
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 847  Routed 495 of 1342 (36.9%)  Vias 347  Duration 00:00:00
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 847  Routed 495 of 1342 (36.9%)  Vias 347  Duration 00:00:00
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 851  Routed 491 of 1342 (36.6%)  Vias 345  Duration 00:00:00
+-----------------
+Unprotect in progress...
+...Unprotect finished.
+Unroute in progress...
+...Unroute finished.
+Unprotect in progress...
+...Unprotect finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 849  Routed 493 of 1342 (36.7%)  Vias 346  Duration 00:00:00
+-----------------
+Can't start routing from unused pin.
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 849  Routed 493 of 1342 (36.7%)  Vias 346  Duration 00:00:00
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 848  Routed 494 of 1342 (36.8%)  Vias 346  Duration 00:00:00
+-----------------
+Unroute in progress...
+...Unroute finished.
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 843  Routed 499 of 1342 (37.2%)  Vias 350  Duration 00:00:02
+-----------------
+Routing report -- `FILE[C:\PADS Projects\RoutingReport.txt][C:\PADS Projects\RoutingReport.txt]
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 842  Routed 500 of 1342 (37.3%)  Vias 353  Duration 00:00:02
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 841  Routed 501 of 1342 (37.3%)  Vias 355  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 837  Routed 505 of 1342 (37.6%)  Vias 356  Duration 00:00:00
+-----------------
+Routing report -- `FILE[C:\PADS Projects\RoutingReport.txt][C:\PADS Projects\RoutingReport.txt]
+Unroute in progress...
+...Unroute finished.
+Protect in progress...
+...Protect finished.
+-----------------
+Saving PCB file 'C:\PADS Projects\Q10B-v2.2.2.pcb'...
+PCB file saved -- `DESIGN[C:\PADS Projects\Q10B-v2.2.2.pcb][C:\PADS Projects\Q10B-v2.2.2.pcb]
