@@ -5,20 +5,8 @@ PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q1
 Integrity Test in progress...
 	No database integrity problems found
 ... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
-Delete in progress...
-...Delete finished.
-Delete in progress...
-...Delete finished.
-Interactive Route: Cannot start routing from (V) HS-GND1 (2), current layer restricted for Net (or Pin Pair): NRF_D+; 
-Interactive Route: Cannot start routing from (V) HS-GND1 (2), current layer restricted for Net (or Pin Pair): NRF_D-; 
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 392  Routed 1001 of 1393 (71.9%)  Vias 472  Duration 00:00:02
------------------
+Unroute in progress...
+...Unroute finished.
 Unroute in progress...
 ...Unroute finished.
 Unroute in progress...
@@ -29,28 +17,390 @@ Batch Router Statistics
 Pre-routing analysis in progress...
 Pre-routing analysis finished.
 
-Done> Unroutes 392  Routed 1001 of 1393 (71.9%)  Vias 472  Duration 00:00:02
+Done> Unroutes 397  Routed 996 of 1393 (71.5%)  Vias 459  Duration 00:00:03
 -----------------
-Protect in progress...
-...Protect finished.
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 391  Routed 1002 of 1393 (71.9%)  Vias 467  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 391  Routed 1002 of 1393 (71.9%)  Vias 467  Duration 00:00:02
+-----------------
+-----------------
+Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 391  Routed 1002 of 1393 (71.9%)  Vias 467  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 390  Routed 1003 of 1393 (72.0%)  Vias 468  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 390  Routed 1003 of 1393 (72.0%)  Vias 468  Duration 00:00:03
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 390  Routed 1003 of 1393 (72.0%)  Vias 468  Duration 00:00:03
+-----------------
 Unroute in progress...
 ...Unroute finished.
-Unprotect in progress...
-...Unprotect finished.
-Unprotect in progress...
-...Unprotect finished.
+Warning: insufficient space for via.
+Warning: insufficient space for via.
+Warning: insufficient space for via.
+Interactive Route: Cannot start routing from (V) HS-GND1 (2), current layer restricted for Net (or Pin Pair): AU_SDCMD; 
+Warning: insufficient space for via.
+Warning: insufficient space for via.
+Warning: insufficient space for via.
+Warning: insufficient space for via.
+Interactive Route: Cannot start routing from (V) HS-GND1 (2), current layer restricted for Net (or Pin Pair): AU_SDCMD; 
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Unroute in progress...
+...Unroute finished.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 389  Routed 1004 of 1393 (72.1%)  Vias 471  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 389  Routed 1004 of 1393 (72.1%)  Vias 471  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 388  Routed 1005 of 1393 (72.1%)  Vias 473  Duration 00:00:00
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 388  Routed 1005 of 1393 (72.1%)  Vias 471  Duration 00:00:00
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 387  Routed 1006 of 1393 (72.2%)  Vias 474  Duration 00:00:00
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 387  Routed 1006 of 1393 (72.2%)  Vias 472  Duration 00:00:00
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 385  Routed 1008 of 1393 (72.4%)  Vias 478  Duration 00:00:02
+-----------------
+-----------------
+Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 385  Routed 1008 of 1393 (72.4%)  Vias 478  Duration 00:00:05
+-----------------
+-----------------
+Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
+HSD net EHS6_IGN cannot be converted to ParallelSource type.`ZOOMRECT[-692264550 -637346700 -685076444 -620462311][-18169.67 -16728.26 -17981.01 -16285.10 (Mils)]
+HSD net HGND cannot be converted to ParallelSource type.`ZOOMRECT[-698385000 -698220000 -615375000 -579075000][-18330.31 -18325.98 -16151.57 -15198.82 (Mils)]
+HSD net TC cannot be converted to ParallelSource type.`ZOOMRECT[-671707500 -611465400 -650868300 -597442500][-17630.12 -16048.96 -17083.16 -15680.91 (Mils)]
+HSD net 5V_USB cannot be converted to ParallelSource type.`ZOOMRECT[-689371500 -697050000 -619225650 -639051300][-18093.74 -18295.28 -16252.64 -16773.00 (Mils)]
+HSD net 3V3_USB cannot be converted to ParallelSource type.`ZOOMRECT[-697065000 -687697800 -623400000 -583357500][-18295.67 -18049.81 -16362.20 -15311.22 (Mils)]
+HSD net 5V_USB_RAW cannot be converted to ParallelSource type.`ZOOMRECT[-666768000 -687011250 -625275900 -672562500][-17500.47 -18031.79 -16411.44 -17652.56 (Mils)]
+HSD net 3V3_USB_OR_BTN cannot be converted to ParallelSource type.`ZOOMRECT[-674100000 -696570600 -621576143 -622282500][-17692.91 -18282.69 -16314.33 -16332.87 (Mils)]
+HSD net AM_SCL cannot be converted to ParallelSource type.`ZOOMRECT[-642630000 -690270000 -625042500 -658582500][-16866.93 -18117.32 -16405.31 -17285.63 (Mils)]
+HSD net $4N2894 cannot be converted to ParallelSource type.`ZOOMRECT[-698017800 -637710000 -647790000 -621405090][-18320.68 -16737.80 -17002.36 -16309.84 (Mils)]
+HSD net NRF_TX_MUX3 cannot be converted to ParallelSource type.`ZOOMRECT[-660266700 -663974100 -646878600 -630828600][-17329.83 -17427.14 -16978.44 -16557.18 (Mils)]
+HSD net $6N634 cannot be converted to ParallelSource type.`ZOOMRECT[-662655000 -625687500 -645528300 -619239300][-17392.52 -16422.24 -16943.00 -16253.00 (Mils)]
+HSD net $2N4736 cannot be converted to ParallelSource type.`ZOOMRECT[-641219100 -694496700 -628492500 -683808600][-16829.90 -18228.26 -16495.87 -17947.73 (Mils)]
+HSD net $2N4926 cannot be converted to ParallelSource type.`ZOOMRECT[-644392500 -697387500 -638163600 -693640500][-16913.19 -18304.13 -16749.70 -18205.79 (Mils)]
+HSD net $2N4740 cannot be converted to ParallelSource type.`ZOOMRECT[-622583250 -628741500 -619569299 -619368690][-16340.77 -16502.40 -16261.66 -16256.40 (Mils)]
+HSD net QI_CHG cannot be converted to ParallelSource type.`ZOOMRECT[-641775000 -651987750 -625728600 -647325900][-16844.49 -17112.54 -16423.32 -16990.18 (Mils)]
+HSD net AM_SDA cannot be converted to ParallelSource type.`ZOOMRECT[-649717500 -690270000 -625395000 -662775000][-17052.95 -18117.32 -16414.57 -17395.67 (Mils)]
+HSD net ENSUREPSW_OR cannot be converted to ParallelSource type.`ZOOMRECT[-661661490 -607098345 -653137500 -599512500][-17366.44 -15934.34 -17142.72 -15735.24 (Mils)]
+HSD net 3V_BTNPWR cannot be converted to ParallelSource type.`ZOOMRECT[-659396700 -668726700 -626693325 -634320900][-17307.00 -17551.88 -16448.64 -16648.84 (Mils)]
+PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+`<001>
+Pins U11.B13, U11.K2 are covered by either board outline, trace(s), keepout(s), text(s), copper(s) or plane area(s). PADS Router will not route unroutes connected to these pins. To correct the problem, use Move commands in PADS Layout or PADS Router. 
+
+`<000>
+Pre-routing analysis finished.
+
+Done> Unroutes 388  Routed 1005 of 1393 (72.1%)  Vias 471  Duration 00:00:01
+-----------------
+-----------------
+Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
+HSD net EHS6_IGN cannot be converted to ParallelSource type.`ZOOMRECT[-692264550 -637346700 -685076444 -620462311][-18169.67 -16728.26 -17981.01 -16285.10 (Mils)]
+HSD net HGND cannot be converted to ParallelSource type.`ZOOMRECT[-698385000 -698220000 -615375000 -579075000][-18330.31 -18325.98 -16151.57 -15198.82 (Mils)]
+HSD net TC cannot be converted to ParallelSource type.`ZOOMRECT[-671707500 -611465400 -650868300 -597442500][-17630.12 -16048.96 -17083.16 -15680.91 (Mils)]
+HSD net 5V_USB cannot be converted to ParallelSource type.`ZOOMRECT[-689371500 -697050000 -619225650 -639051300][-18093.74 -18295.28 -16252.64 -16773.00 (Mils)]
+HSD net 3V3_USB cannot be converted to ParallelSource type.`ZOOMRECT[-697065000 -687697800 -623400000 -583357500][-18295.67 -18049.81 -16362.20 -15311.22 (Mils)]
+HSD net 5V_USB_RAW cannot be converted to ParallelSource type.`ZOOMRECT[-666768000 -687011250 -625275900 -672562500][-17500.47 -18031.79 -16411.44 -17652.56 (Mils)]
+HSD net 3V3_USB_OR_BTN cannot be converted to ParallelSource type.`ZOOMRECT[-674100000 -696570600 -621576143 -622282500][-17692.91 -18282.69 -16314.33 -16332.87 (Mils)]
+HSD net AM_SCL cannot be converted to ParallelSource type.`ZOOMRECT[-642630000 -690270000 -625042500 -658582500][-16866.93 -18117.32 -16405.31 -17285.63 (Mils)]
+HSD net $4N2894 cannot be converted to ParallelSource type.`ZOOMRECT[-698017800 -637710000 -647790000 -621405090][-18320.68 -16737.80 -17002.36 -16309.84 (Mils)]
+HSD net NRF_TX_MUX3 cannot be converted to ParallelSource type.`ZOOMRECT[-660266700 -663974100 -646878600 -630828600][-17329.83 -17427.14 -16978.44 -16557.18 (Mils)]
+HSD net $6N634 cannot be converted to ParallelSource type.`ZOOMRECT[-662655000 -625687500 -645528300 -619239300][-17392.52 -16422.24 -16943.00 -16253.00 (Mils)]
+HSD net $2N4736 cannot be converted to ParallelSource type.`ZOOMRECT[-641219100 -694496700 -628492500 -683808600][-16829.90 -18228.26 -16495.87 -17947.73 (Mils)]
+HSD net $2N4926 cannot be converted to ParallelSource type.`ZOOMRECT[-644392500 -697387500 -638163600 -693640500][-16913.19 -18304.13 -16749.70 -18205.79 (Mils)]
+HSD net $2N4740 cannot be converted to ParallelSource type.`ZOOMRECT[-622583250 -628741500 -619569299 -619368690][-16340.77 -16502.40 -16261.66 -16256.40 (Mils)]
+HSD net QI_CHG cannot be converted to ParallelSource type.`ZOOMRECT[-641775000 -651987750 -625728600 -647325900][-16844.49 -17112.54 -16423.32 -16990.18 (Mils)]
+HSD net AM_SDA cannot be converted to ParallelSource type.`ZOOMRECT[-649717500 -690270000 -625395000 -662775000][-17052.95 -18117.32 -16414.57 -17395.67 (Mils)]
+HSD net ENSUREPSW_OR cannot be converted to ParallelSource type.`ZOOMRECT[-661661490 -607098345 -653137500 -599512500][-17366.44 -15934.34 -17142.72 -15735.24 (Mils)]
+HSD net 3V_BTNPWR cannot be converted to ParallelSource type.`ZOOMRECT[-659396700 -668726700 -626693325 -634320900][-17307.00 -17551.88 -16448.64 -16648.84 (Mils)]
+PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 385  Routed 1008 of 1393 (72.4%)  Vias 478  Duration 00:00:02
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 384  Routed 1009 of 1393 (72.4%)  Vias 480  Duration 00:00:02
+-----------------
+-----------------
+Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
+HSD net EHS6_IGN cannot be converted to ParallelSource type.`ZOOMRECT[-692264550 -637346700 -685076444 -620462311][-18169.67 -16728.26 -17981.01 -16285.10 (Mils)]
+HSD net HGND cannot be converted to ParallelSource type.`ZOOMRECT[-698385000 -698220000 -615375000 -579075000][-18330.31 -18325.98 -16151.57 -15198.82 (Mils)]
+HSD net TC cannot be converted to ParallelSource type.`ZOOMRECT[-671707500 -611465400 -650868300 -597442500][-17630.12 -16048.96 -17083.16 -15680.91 (Mils)]
+HSD net 5V_USB cannot be converted to ParallelSource type.`ZOOMRECT[-689371500 -697050000 -619225650 -639051300][-18093.74 -18295.28 -16252.64 -16773.00 (Mils)]
+HSD net 3V3_USB cannot be converted to ParallelSource type.`ZOOMRECT[-697065000 -687697800 -623400000 -583357500][-18295.67 -18049.81 -16362.20 -15311.22 (Mils)]
+HSD net 5V_USB_RAW cannot be converted to ParallelSource type.`ZOOMRECT[-666768000 -687011250 -625275900 -672562500][-17500.47 -18031.79 -16411.44 -17652.56 (Mils)]
+HSD net 3V3_USB_OR_BTN cannot be converted to ParallelSource type.`ZOOMRECT[-674100000 -696570600 -621576143 -622282500][-17692.91 -18282.69 -16314.33 -16332.87 (Mils)]
+HSD net AM_SCL cannot be converted to ParallelSource type.`ZOOMRECT[-642630000 -690270000 -625042500 -658582500][-16866.93 -18117.32 -16405.31 -17285.63 (Mils)]
+HSD net $4N2894 cannot be converted to ParallelSource type.`ZOOMRECT[-698017800 -637710000 -647790000 -621405090][-18320.68 -16737.80 -17002.36 -16309.84 (Mils)]
+HSD net NRF_TX_MUX3 cannot be converted to ParallelSource type.`ZOOMRECT[-660266700 -663974100 -646878600 -630828600][-17329.83 -17427.14 -16978.44 -16557.18 (Mils)]
+HSD net $6N634 cannot be converted to ParallelSource type.`ZOOMRECT[-662655000 -625687500 -645528300 -619239300][-17392.52 -16422.24 -16943.00 -16253.00 (Mils)]
+HSD net $2N4736 cannot be converted to ParallelSource type.`ZOOMRECT[-641219100 -694496700 -628492500 -683808600][-16829.90 -18228.26 -16495.87 -17947.73 (Mils)]
+HSD net $2N4926 cannot be converted to ParallelSource type.`ZOOMRECT[-644392500 -697387500 -638163600 -693640500][-16913.19 -18304.13 -16749.70 -18205.79 (Mils)]
+HSD net $2N4740 cannot be converted to ParallelSource type.`ZOOMRECT[-622583250 -628741500 -619569299 -619368690][-16340.77 -16502.40 -16261.66 -16256.40 (Mils)]
+HSD net QI_CHG cannot be converted to ParallelSource type.`ZOOMRECT[-641775000 -651987750 -625728600 -647325900][-16844.49 -17112.54 -16423.32 -16990.18 (Mils)]
+HSD net AM_SDA cannot be converted to ParallelSource type.`ZOOMRECT[-649717500 -690270000 -625395000 -662775000][-17052.95 -18117.32 -16414.57 -17395.67 (Mils)]
+HSD net ENSUREPSW_OR cannot be converted to ParallelSource type.`ZOOMRECT[-661661490 -607098345 -653137500 -599512500][-17366.44 -15934.34 -17142.72 -15735.24 (Mils)]
+HSD net 3V_BTNPWR cannot be converted to ParallelSource type.`ZOOMRECT[-659396700 -668726700 -626693325 -634320900][-17307.00 -17551.88 -16448.64 -16648.84 (Mils)]
+PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 376  Routed 1017 of 1393 (73.0%)  Vias 490  Duration 00:00:02
+-----------------
+Unroute in progress...
+...Unroute finished.
+-----------------
+Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
+HSD net EHS6_IGN cannot be converted to ParallelSource type.`ZOOMRECT[-692264550 -637346700 -685076444 -620462311][-18169.67 -16728.26 -17981.01 -16285.10 (Mils)]
+HSD net HGND cannot be converted to ParallelSource type.`ZOOMRECT[-698385000 -698220000 -615375000 -579075000][-18330.31 -18325.98 -16151.57 -15198.82 (Mils)]
+HSD net TC cannot be converted to ParallelSource type.`ZOOMRECT[-671707500 -611465400 -650868300 -597442500][-17630.12 -16048.96 -17083.16 -15680.91 (Mils)]
+HSD net 5V_USB cannot be converted to ParallelSource type.`ZOOMRECT[-689371500 -697050000 -619225650 -639051300][-18093.74 -18295.28 -16252.64 -16773.00 (Mils)]
+HSD net 3V3_USB cannot be converted to ParallelSource type.`ZOOMRECT[-697065000 -687697800 -623400000 -583357500][-18295.67 -18049.81 -16362.20 -15311.22 (Mils)]
+HSD net 5V_USB_RAW cannot be converted to ParallelSource type.`ZOOMRECT[-666768000 -687011250 -625275900 -672562500][-17500.47 -18031.79 -16411.44 -17652.56 (Mils)]
+HSD net 3V3_USB_OR_BTN cannot be converted to ParallelSource type.`ZOOMRECT[-674100000 -696570600 -621576143 -622282500][-17692.91 -18282.69 -16314.33 -16332.87 (Mils)]
+HSD net AM_SCL cannot be converted to ParallelSource type.`ZOOMRECT[-642630000 -690270000 -625042500 -658582500][-16866.93 -18117.32 -16405.31 -17285.63 (Mils)]
+HSD net $4N2894 cannot be converted to ParallelSource type.`ZOOMRECT[-698017800 -637710000 -647790000 -621405090][-18320.68 -16737.80 -17002.36 -16309.84 (Mils)]
+HSD net NRF_TX_MUX3 cannot be converted to ParallelSource type.`ZOOMRECT[-660266700 -663974100 -646878600 -630828600][-17329.83 -17427.14 -16978.44 -16557.18 (Mils)]
+HSD net $6N634 cannot be converted to ParallelSource type.`ZOOMRECT[-662655000 -625687500 -645528300 -619239300][-17392.52 -16422.24 -16943.00 -16253.00 (Mils)]
+HSD net $2N4736 cannot be converted to ParallelSource type.`ZOOMRECT[-641219100 -694496700 -628492500 -683808600][-16829.90 -18228.26 -16495.87 -17947.73 (Mils)]
+HSD net $2N4926 cannot be converted to ParallelSource type.`ZOOMRECT[-644392500 -697387500 -638163600 -693640500][-16913.19 -18304.13 -16749.70 -18205.79 (Mils)]
+HSD net $2N4740 cannot be converted to ParallelSource type.`ZOOMRECT[-622583250 -628741500 -619569299 -619368690][-16340.77 -16502.40 -16261.66 -16256.40 (Mils)]
+HSD net QI_CHG cannot be converted to ParallelSource type.`ZOOMRECT[-641775000 -651987750 -625728600 -647325900][-16844.49 -17112.54 -16423.32 -16990.18 (Mils)]
+HSD net AM_SDA cannot be converted to ParallelSource type.`ZOOMRECT[-649717500 -690270000 -625395000 -662775000][-17052.95 -18117.32 -16414.57 -17395.67 (Mils)]
+HSD net ENSUREPSW_OR cannot be converted to ParallelSource type.`ZOOMRECT[-661661490 -607098345 -653137500 -599512500][-17366.44 -15934.34 -17142.72 -15735.24 (Mils)]
+HSD net 3V_BTNPWR cannot be converted to ParallelSource type.`ZOOMRECT[-659396700 -668726700 -626693325 -634320900][-17307.00 -17551.88 -16448.64 -16648.84 (Mils)]
+PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+Interactive Route: Cannot start routing from (V) HS-GND1 (2), current layer restricted for Net (or Pin Pair): 3V3_AU; 
 Unroute in progress...
 ...Unroute finished.
 Unroute in progress...
 ...Unroute finished.
+-----------------
+Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
 Unroute in progress...
 ...Unroute finished.
+Interactive Route: Cannot start routing from (V) HS-ROUTING2 (10), current layer restricted for Net (or Pin Pair): GPS_RXD; 
+-----------------
+Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+-----------------
+Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+-----------------
+Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 373  Routed 1016 of 1389 (73.1%)  Vias 483  Duration 00:00:05
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 373  Routed 1016 of 1389 (73.1%)  Vias 483  Duration 00:00:05
+-----------------
 Unroute in progress...
 ...Unroute finished.
-Unroute in progress...
-...Unroute finished.
-Unroute in progress...
-...Unroute finished.
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 374  Routed 1015 of 1389 (73.1%)  Vias 480  Duration 00:00:02
+-----------------
+-----------------
+Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
 Unroute in progress...
 ...Unroute finished.
 Unroute in progress...
@@ -77,92 +427,60 @@ Batch Router Statistics
 Pre-routing analysis in progress...
 Pre-routing analysis finished.
 
-Done> Unroutes 384  Routed 1009 of 1393 (72.4%)  Vias 477  Duration 00:00:01
+Done> Unroutes 374  Routed 1015 of 1389 (73.1%)  Vias 483  Duration 00:00:04
 -----------------
------------------
-Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
-PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
-Integrity Test in progress...
-	No database integrity problems found
-... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 387  Routed 1006 of 1393 (72.2%)  Vias 474  Duration 00:00:01
------------------
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 386  Routed 1007 of 1393 (72.3%)  Vias 475  Duration 00:00:01
------------------
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 385  Routed 1008 of 1393 (72.4%)  Vias 476  Duration 00:00:00
------------------
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 384  Routed 1009 of 1393 (72.4%)  Vias 477  Duration 00:00:00
------------------
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
 -----------------
 Batch Router Statistics
 
 Pre-routing analysis in progress...
 Pre-routing analysis finished.
 
-Done> Unroutes 382  Routed 1011 of 1393 (72.6%)  Vias 479  Duration 00:00:01
------------------
------------------
-Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
-PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
-Integrity Test in progress...
-	No database integrity problems found
-... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 382  Routed 1011 of 1393 (72.6%)  Vias 479  Duration 00:00:00
------------------
------------------
-Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
-PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
-Integrity Test in progress...
-	No database integrity problems found
-... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 382  Routed 1011 of 1393 (72.6%)  Vias 480  Duration 00:00:01
+Done> Unroutes 374  Routed 1015 of 1389 (73.1%)  Vias 483  Duration 00:00:04
 -----------------
 Unroute in progress...
 ...Unroute finished.
@@ -177,23 +495,12 @@ Unroute in progress...
 Unroute in progress...
 ...Unroute finished.
 -----------------
-Saving PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
-PCB file saved -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb]
------------------
-Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
-PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
-Integrity Test in progress...
-	No database integrity problems found
-... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
-Unroute in progress...
-...Unroute finished.
------------------
 Batch Router Statistics
 
 Pre-routing analysis in progress...
 Pre-routing analysis finished.
 
-Done> Unroutes 381  Routed 1012 of 1393 (72.6%)  Vias 483  Duration 00:00:01
+Done> Unroutes 374  Routed 1015 of 1389 (73.1%)  Vias 483  Duration 00:00:04
 -----------------
 -----------------
 Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
@@ -207,7 +514,15 @@ Batch Router Statistics
 Pre-routing analysis in progress...
 Pre-routing analysis finished.
 
-Done> Unroutes 381  Routed 1012 of 1393 (72.6%)  Vias 480  Duration 00:00:01
+Done> Unroutes 370  Routed 1019 of 1389 (73.4%)  Vias 491  Duration 00:00:11
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 370  Routed 1019 of 1389 (73.4%)  Vias 491  Duration 00:00:01
 -----------------
 -----------------
 Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
@@ -215,10 +530,273 @@ PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q1
 Integrity Test in progress...
 	No database integrity problems found
 ... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 370  Routed 1019 of 1389 (73.4%)  Vias 491  Duration 00:00:01
+-----------------
+Warning: insufficient space for via.
+-----------------
+Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 369  Routed 1020 of 1389 (73.4%)  Vias 495  Duration 00:00:00
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 368  Routed 1021 of 1389 (73.5%)  Vias 498  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 368  Routed 1021 of 1389 (73.5%)  Vias 498  Duration 00:00:01
+-----------------
+Warning: insufficient space for via.
+Interactive Route: Cannot start routing from (V) HS-GND1 (2), current layer restricted for Net (or Pin Pair): AU_SDCMD; 
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+`<001>
+Trace sharing is disabled for nets AU_SDCMD. This may impact routing completion. PADS Router will not use T junctions while routing these nets. To correct the problem, use the Design Rules dialog box in PADS Layout  or Topology tab of the Design (or Net) Properties dialog box in PADS Router. 
+
+`<000>
+Pre-routing analysis finished.
+
+Done> Unroutes 368  Routed 1021 of 1389 (73.5%)  Vias 496  Duration 00:00:01
+-----------------
+Interactive Route: Cannot start routing from (V) HS-GND1 (2), current layer restricted for Net (or Pin Pair): AU_SDCMD; 
+Unroute in progress...
+...Unroute finished.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Warning: Autocomplete failed.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+Topology errors detected.
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 369  Routed 1020 of 1389 (73.4%)  Vias 498  Duration 00:00:01
+-----------------
 Unroute in progress...
 ...Unroute finished.
 Unroute in progress...
 ...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 369  Routed 1020 of 1389 (73.4%)  Vias 497  Duration 00:00:03
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 368  Routed 1021 of 1389 (73.5%)  Vias 498  Duration 00:00:00
+-----------------
+Unroute in progress...
+...Unroute finished.
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 368  Routed 1021 of 1389 (73.5%)  Vias 499  Duration 00:00:00
+-----------------
+-----------------
+Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
+HSD net EHS6_IGN cannot be converted to ParallelSource type.`ZOOMRECT[-692264550 -637346700 -685076444 -620462311][-18169.67 -16728.26 -17981.01 -16285.10 (Mils)]
+HSD net HGND cannot be converted to ParallelSource type.`ZOOMRECT[-698385000 -698220000 -615375000 -579075000][-18330.31 -18325.98 -16151.57 -15198.82 (Mils)]
+HSD net TC cannot be converted to ParallelSource type.`ZOOMRECT[-671707500 -611465400 -650868300 -597442500][-17630.12 -16048.96 -17083.16 -15680.91 (Mils)]
+HSD net 5V_USB cannot be converted to ParallelSource type.`ZOOMRECT[-689371500 -697050000 -619225650 -639051300][-18093.74 -18295.28 -16252.64 -16773.00 (Mils)]
+HSD net 3V3_USB cannot be converted to ParallelSource type.`ZOOMRECT[-697065000 -687697800 -623400000 -583692007][-18295.67 -18049.81 -16362.20 -15320.00 (Mils)]
+HSD net 5V_USB_RAW cannot be converted to ParallelSource type.`ZOOMRECT[-666768000 -687011250 -625275900 -672562500][-17500.47 -18031.79 -16411.44 -17652.56 (Mils)]
+HSD net 3V3_USB_OR_BTN cannot be converted to ParallelSource type.`ZOOMRECT[-674100000 -696570600 -621576143 -622282500][-17692.91 -18282.69 -16314.33 -16332.87 (Mils)]
+HSD net AM_SCL cannot be converted to ParallelSource type.`ZOOMRECT[-642630000 -690270000 -625042500 -658582500][-16866.93 -18117.32 -16405.31 -17285.63 (Mils)]
+HSD net $4N2894 cannot be converted to ParallelSource type.`ZOOMRECT[-698017800 -637710000 -647790000 -621405090][-18320.68 -16737.80 -17002.36 -16309.84 (Mils)]
+HSD net NRF_TX_MUX3 cannot be converted to ParallelSource type.`ZOOMRECT[-660266700 -663974100 -646878600 -630828600][-17329.83 -17427.14 -16978.44 -16557.18 (Mils)]
+HSD net $6N634 cannot be converted to ParallelSource type.`ZOOMRECT[-662655000 -625687500 -645528300 -619239300][-17392.52 -16422.24 -16943.00 -16253.00 (Mils)]
+HSD net $2N4736 cannot be converted to ParallelSource type.`ZOOMRECT[-641219100 -694496700 -628492500 -683808600][-16829.90 -18228.26 -16495.87 -17947.73 (Mils)]
+HSD net $2N4926 cannot be converted to ParallelSource type.`ZOOMRECT[-644392500 -697387500 -638163600 -693640500][-16913.19 -18304.13 -16749.70 -18205.79 (Mils)]
+HSD net $2N4740 cannot be converted to ParallelSource type.`ZOOMRECT[-622583250 -628741500 -619569299 -619368690][-16340.77 -16502.40 -16261.66 -16256.40 (Mils)]
+HSD net QI_CHG cannot be converted to ParallelSource type.`ZOOMRECT[-641775000 -651987750 -625728600 -647325900][-16844.49 -17112.54 -16423.32 -16990.18 (Mils)]
+HSD net AM_SDA cannot be converted to ParallelSource type.`ZOOMRECT[-649717500 -690270000 -625395000 -662775000][-17052.95 -18117.32 -16414.57 -17395.67 (Mils)]
+HSD net ENSUREPSW_OR cannot be converted to ParallelSource type.`ZOOMRECT[-661661490 -607098345 -653137500 -599512500][-17366.44 -15934.34 -17142.72 -15735.24 (Mils)]
+HSD net 3V_BTNPWR cannot be converted to ParallelSource type.`ZOOMRECT[-659396700 -668726700 -626693325 -634320900][-17307.00 -17551.88 -16448.64 -16648.84 (Mils)]
+PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 368  Routed 1021 of 1389 (73.5%)  Vias 499  Duration 00:00:00
+-----------------
 -----------------
 Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
 PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
@@ -230,73 +808,251 @@ Batch Router Statistics
 
 Pre-routing analysis in progress...
 `<001>
-Pins U11.AD6, U11.AD4 are covered by either board outline, trace(s), keepout(s), text(s), copper(s) or plane area(s). PADS Router will not route unroutes connected to these pins. To correct the problem, use Move commands in PADS Layout or PADS Router. 
+Small (less than 3) maximum via limits are assigned to nets $3N2075 This may impact routing completion. PADS Router will not use more vias than allowed. To correct the problem, use the Routing tab of the Net Properties dialog box. 
 
 `<000>
 Pre-routing analysis finished.
 
-Done> Unroutes 390  Routed 1003 of 1393 (72.0%)  Vias 470  Duration 00:00:01
------------------
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
------------------
-Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
-PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
-Integrity Test in progress...
-	No database integrity problems found
-... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
------------------
-Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
-PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
-Integrity Test in progress...
-	No database integrity problems found
-... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
-Interactive Route: Cannot start routing from (V) HS-GND1 (2), current layer restricted for Net (or Pin Pair): NRF_D+; 
-Interactive Route: Cannot start routing from (V) HS-GND1 (2), current layer restricted for Net (or Pin Pair): NRF_D-; 
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 388  Routed 1005 of 1393 (72.1%)  Vias 472  Duration 00:00:01
+Done> Unroutes 368  Routed 1021 of 1389 (73.5%)  Vias 496  Duration 00:00:00
 -----------------
 -----------------
 Batch Router Statistics
 
 Pre-routing analysis in progress...
+`<001>
+Small (less than 3) maximum via limits are assigned to nets $3N2075 This may impact routing completion. PADS Router will not use more vias than allowed. To correct the problem, use the Routing tab of the Net Properties dialog box. 
+
+`<000>
 Pre-routing analysis finished.
 
-Done> Unroutes 388  Routed 1005 of 1393 (72.1%)  Vias 472  Duration 00:00:01
+Done> Unroutes 368  Routed 1021 of 1389 (73.5%)  Vias 496  Duration 00:00:01
 -----------------
 -----------------
 Batch Router Statistics
 
 Pre-routing analysis in progress...
+`<001>
+Small (less than 3) maximum via limits are assigned to nets $3N2075 This may impact routing completion. PADS Router will not use more vias than allowed. To correct the problem, use the Routing tab of the Net Properties dialog box. 
+
+`<000>
 Pre-routing analysis finished.
 
-Done> Unroutes 388  Routed 1005 of 1393 (72.1%)  Vias 472  Duration 00:00:01
+Done> Unroutes 368  Routed 1021 of 1389 (73.5%)  Vias 496  Duration 00:00:01
 -----------------
-Unprotect in progress...
-...Unprotect finished.
-Unroute in progress...
-...Unroute finished.
-Unroute in progress...
-...Unroute finished.
-Unroute in progress...
-...Unroute finished.
 Protect in progress...
 ...Protect finished.
-Unroute in progress...
-...Unroute finished.
+-----------------
+Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
 -----------------
 Batch Router Statistics
 
 Pre-routing analysis in progress...
 Pre-routing analysis finished.
 
-Done> Unroutes 382  Routed 1011 of 1393 (72.6%)  Vias 480  Duration 00:00:01
+Done> Unroutes 368  Routed 1021 of 1389 (73.5%)  Vias 498  Duration 00:00:01
 -----------------
 -----------------
-Saving PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
-PCB file saved -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb]
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 368  Routed 1021 of 1389 (73.5%)  Vias 498  Duration 00:00:00
+-----------------
+-----------------
+Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 368  Routed 1021 of 1389 (73.5%)  Vias 498  Duration 00:00:00
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 368  Routed 1021 of 1389 (73.5%)  Vias 498  Duration 00:00:00
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 368  Routed 1021 of 1389 (73.5%)  Vias 498  Duration 00:00:00
+-----------------
+`<001>
+Net EHS6_IGN cannot be converted to ParallelSource type.
+
+Net HGND cannot be converted to ParallelSource type.
+
+Net TC cannot be converted to ParallelSource type.
+
+Net 5V_USB cannot be converted to ParallelSource type.
+
+Net 3V3_USB cannot be converted to ParallelSource type.
+
+Net 5V_USB_RAW cannot be converted to ParallelSource type.
+
+Net 3V3_USB_OR_BTN cannot be converted to ParallelSource type.
+
+Net AM_SCL cannot be converted to ParallelSource type.
+
+Net $4N2894 cannot be converted to ParallelSource type.
+
+Net NRF_TX_MUX3 cannot be converted to ParallelSource type.
+
+Net $6N634 cannot be converted to ParallelSource type.
+
+Net $2N4736 cannot be converted to ParallelSource type.
+
+Net $2N4926 cannot be converted to ParallelSource type.
+
+Net $2N4740 cannot be converted to ParallelSource type.
+
+Net QI_CHG cannot be converted to ParallelSource type.
+
+Net AM_SDA cannot be converted to ParallelSource type.
+
+Net ENSUREPSW_OR cannot be converted to ParallelSource type.
+
+Net 3V_BTNPWR cannot be converted to ParallelSource type.
+
+`<002>
+Cannot set Length Minimization mode. See the Status tab for details.
+`<001>
+Net EHS6_IGN cannot be converted to ParallelSource type.
+
+Net HGND cannot be converted to ParallelSource type.
+
+Net TC cannot be converted to ParallelSource type.
+
+Net 5V_USB cannot be converted to ParallelSource type.
+
+Net 3V3_USB cannot be converted to ParallelSource type.
+
+Net 5V_USB_RAW cannot be converted to ParallelSource type.
+
+Net 3V3_USB_OR_BTN cannot be converted to ParallelSource type.
+
+Net AM_SCL cannot be converted to ParallelSource type.
+
+Net $4N2894 cannot be converted to ParallelSource type.
+
+Net NRF_TX_MUX3 cannot be converted to ParallelSource type.
+
+Net $6N634 cannot be converted to ParallelSource type.
+
+Net $2N4736 cannot be converted to ParallelSource type.
+
+Net $2N4926 cannot be converted to ParallelSource type.
+
+Net $2N4740 cannot be converted to ParallelSource type.
+
+Net QI_CHG cannot be converted to ParallelSource type.
+
+Net AM_SDA cannot be converted to ParallelSource type.
+
+Net ENSUREPSW_OR cannot be converted to ParallelSource type.
+
+Net 3V_BTNPWR cannot be converted to ParallelSource type.
+
+`<002>
+Cannot set Length Minimization mode. See the Status tab for details.
+-----------------
+`<000>
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 368  Routed 1021 of 1389 (73.5%)  Vias 498  Duration 00:00:00
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 368  Routed 1021 of 1389 (73.5%)  Vias 498  Duration 00:00:00
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 368  Routed 1021 of 1389 (73.5%)  Vias 498  Duration 00:00:00
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+`<001>
+Pins U32.6 are covered by either board outline, trace(s), keepout(s), text(s), copper(s) or plane area(s). PADS Router will not route unroutes connected to these pins. To correct the problem, use Move commands in PADS Layout or PADS Router. 
+
+`<000>
+Pre-routing analysis finished.
+
+Done> Unroutes 368  Routed 1021 of 1389 (73.5%)  Vias 497  Duration 00:00:01
+-----------------
+Routing report -- `FILE[C:\PADS Projects\RoutingReport.txt][C:\PADS Projects\RoutingReport.txt]
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 367  Routed 1022 of 1389 (73.6%)  Vias 499  Duration 00:00:00
+-----------------
+-----------------
+Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 367  Routed 1022 of 1389 (73.6%)  Vias 499  Duration 00:00:00
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 367  Routed 1022 of 1389 (73.6%)  Vias 499  Duration 00:00:00
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 367  Routed 1022 of 1389 (73.6%)  Vias 499  Duration 00:00:00
+-----------------
+Can't create trace without creating clearance violations.
+-----------------
+Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+Protect in progress...
+...Protect finished.
