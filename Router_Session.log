@@ -5,270 +5,10 @@ PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q1
 Integrity Test in progress...
 	No database integrity problems found
 ... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
-Unroute in progress...
-...Unroute finished.
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 360  Routed 1033 of 1393 (74.2%)  Vias 542  Duration 00:00:01
------------------
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 360  Routed 1033 of 1393 (74.2%)  Vias 545  Duration 00:00:01
------------------
------------------
-Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
-PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
-Integrity Test in progress...
-	No database integrity problems found
-... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 361  Routed 1032 of 1393 (74.1%)  Vias 542  Duration 00:00:04
------------------
------------------
-Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
-PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
-Integrity Test in progress...
-	No database integrity problems found
-... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-`<001>
-The following differential pairs cannot be routed because the ending pins are too close together: NRF_D+<->NRF_D- Traces exiting these ending pins would be too close together and would violate the Gap value. To correct the problem, change the Gap value in the Differential Pair. 
-
-`<000>
-Pre-routing analysis finished.
-
-Done> Unroutes 361  Routed 1032 of 1393 (74.1%)  Vias 542  Duration 00:00:03
------------------
------------------
-Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
-PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
-Integrity Test in progress...
-	No database integrity problems found
-... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 360  Routed 1033 of 1393 (74.2%)  Vias 545  Duration 00:00:00
------------------
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 359  Routed 1034 of 1393 (74.2%)  Vias 548  Duration 00:00:01
------------------
-Unroute in progress...
-...Unroute finished.
-Unroute in progress...
-...Unroute finished.
-Unroute in progress...
-...Unroute finished.
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 359  Routed 1034 of 1393 (74.2%)  Vias 548  Duration 00:00:02
------------------
-Unroute in progress...
-...Unroute finished.
-Unroute in progress...
-...Unroute finished.
------------------
-Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
-PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
-Integrity Test in progress...
-	No database integrity problems found
-... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-`<001>
-The following differential pairs cannot be routed because the ending pins are too close together: NRF_D+<->NRF_D- Traces exiting these ending pins would be too close together and would violate the Gap value. To correct the problem, change the Gap value in the Differential Pair. 
-
-`<000>
-Pre-routing analysis finished.
-
-Done> Unroutes 361  Routed 1032 of 1393 (74.1%)  Vias 542  Duration 00:00:09
------------------
-Unroute in progress...
-...Unroute finished.
-Unroute in progress...
-...Unroute finished.
-Unroute in progress...
-...Unroute finished.
-Unroute in progress...
-...Unroute finished.
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-`<001>
-The following differential pairs cannot be routed because the ending pins are too close together: NRF_D+<->NRF_D- Traces exiting these ending pins would be too close together and would violate the Gap value. To correct the problem, change the Gap value in the Differential Pair. 
-
-`<000>
-Pre-routing analysis finished.
-
-Done> Unroutes 367  Routed 1026 of 1393 (73.7%)  Vias 533  Duration 00:00:09
------------------
------------------
-Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
-PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
-Integrity Test in progress...
-	No database integrity problems found
-... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-`<001>
-The following differential pairs cannot be routed because the ending pins are too close together: NRF_D+<->NRF_D- Traces exiting these ending pins would be too close together and would violate the Gap value. To correct the problem, change the Gap value in the Differential Pair. 
-
-`<000>
-Pre-routing analysis finished.
-
-Done> Unroutes 367  Routed 1026 of 1393 (73.7%)  Vias 533  Duration 00:00:02
------------------
------------------
-Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
-PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
-Integrity Test in progress...
-	No database integrity problems found
-... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 365  Routed 1028 of 1393 (73.8%)  Vias 539  Duration 00:00:01
------------------
------------------
-Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
-PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
-Integrity Test in progress...
-	No database integrity problems found
-... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 367  Routed 1026 of 1393 (73.7%)  Vias 533  Duration 00:00:03
------------------
------------------
-Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
-PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
-Integrity Test in progress...
-	No database integrity problems found
-... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 365  Routed 1028 of 1393 (73.8%)  Vias 539  Duration 00:00:02
------------------
------------------
-Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
-PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
-Integrity Test in progress...
-	No database integrity problems found
-... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 365  Routed 1028 of 1393 (73.8%)  Vias 539  Duration 00:00:02
------------------
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 366  Routed 1027 of 1393 (73.7%)  Vias 536  Duration 00:00:01
------------------
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 365  Routed 1028 of 1393 (73.8%)  Vias 540  Duration 00:00:02
------------------
------------------
-Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
-PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
-Integrity Test in progress...
-	No database integrity problems found
-... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 367  Routed 1026 of 1393 (73.7%)  Vias 533  Duration 00:00:01
------------------
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 367  Routed 1026 of 1393 (73.7%)  Vias 533  Duration 00:00:01
------------------
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 367  Routed 1026 of 1393 (73.7%)  Vias 533  Duration 00:00:02
------------------
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 367  Routed 1026 of 1393 (73.7%)  Vias 533  Duration 00:00:01
------------------
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 367  Routed 1026 of 1393 (73.7%)  Vias 533  Duration 00:00:02
------------------
+Delete in progress...
+...Delete finished.
+Delete in progress...
+...Delete finished.
 Interactive Route: Cannot start routing from (V) HS-GND1 (2), current layer restricted for Net (or Pin Pair): NRF_D+; 
 Interactive Route: Cannot start routing from (V) HS-GND1 (2), current layer restricted for Net (or Pin Pair): NRF_D-; 
 -----------------
@@ -277,129 +17,7 @@ Batch Router Statistics
 Pre-routing analysis in progress...
 Pre-routing analysis finished.
 
-Done> Unroutes 365  Routed 1028 of 1393 (73.8%)  Vias 535  Duration 00:00:01
------------------
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 363  Routed 1030 of 1393 (73.9%)  Vias 541  Duration 00:00:01
------------------
------------------
-Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
-PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
-Integrity Test in progress...
-	No database integrity problems found
-... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 364  Routed 1029 of 1393 (73.9%)  Vias 535  Duration 00:00:01
------------------
------------------
-Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
-PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
-Integrity Test in progress...
-	No database integrity problems found
-... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 365  Routed 1028 of 1393 (73.8%)  Vias 535  Duration 00:00:03
------------------
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 363  Routed 1030 of 1393 (73.9%)  Vias 535  Duration 00:00:00
------------------
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 363  Routed 1030 of 1393 (73.9%)  Vias 535  Duration 00:00:00
------------------
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 363  Routed 1030 of 1393 (73.9%)  Vias 535  Duration 00:00:00
------------------
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 363  Routed 1030 of 1393 (73.9%)  Vias 535  Duration 00:00:00
------------------
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 363  Routed 1030 of 1393 (73.9%)  Vias 535  Duration 00:00:00
------------------
------------------
-Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
-PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
-Integrity Test in progress...
-	No database integrity problems found
-... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 361  Routed 1032 of 1393 (74.1%)  Vias 535  Duration 00:00:00
------------------
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 361  Routed 1032 of 1393 (74.1%)  Vias 535  Duration 00:00:00
------------------
------------------
-Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
-PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
-Integrity Test in progress...
-	No database integrity problems found
-... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
-Unroute in progress...
-...Unroute finished.
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 361  Routed 1032 of 1393 (74.1%)  Vias 535  Duration 00:00:01
------------------
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 361  Routed 1032 of 1393 (74.1%)  Vias 535  Duration 00:00:00
+Done> Unroutes 392  Routed 1001 of 1393 (71.9%)  Vias 472  Duration 00:00:02
 -----------------
 Unroute in progress...
 ...Unroute finished.
@@ -411,8 +29,42 @@ Batch Router Statistics
 Pre-routing analysis in progress...
 Pre-routing analysis finished.
 
-Done> Unroutes 360  Routed 1033 of 1393 (74.2%)  Vias 535  Duration 00:00:01
+Done> Unroutes 392  Routed 1001 of 1393 (71.9%)  Vias 472  Duration 00:00:02
 -----------------
+Protect in progress...
+...Protect finished.
+Unroute in progress...
+...Unroute finished.
+Unprotect in progress...
+...Unprotect finished.
+Unprotect in progress...
+...Unprotect finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
 -----------------
 Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
 PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
@@ -425,46 +77,65 @@ Batch Router Statistics
 Pre-routing analysis in progress...
 Pre-routing analysis finished.
 
-Done> Unroutes 359  Routed 1034 of 1393 (74.2%)  Vias 535  Duration 00:00:01
+Done> Unroutes 384  Routed 1009 of 1393 (72.4%)  Vias 477  Duration 00:00:01
 -----------------
-Interactive Route: Cannot start routing from (V) HS-GND1 (2), current layer restricted for Net (or Pin Pair): $6N3679; 
-Warning: insufficient space for via.
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 360  Routed 1033 of 1393 (74.2%)  Vias 535  Duration 00:00:01
------------------
-Warning: insufficient space for via.
-Warning: insufficient space for via.
 -----------------
 Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
 PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
 Integrity Test in progress...
 	No database integrity problems found
 ... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 359  Routed 1034 of 1393 (74.2%)  Vias 535  Duration 00:00:01
------------------
-Interactive Route: Cannot start routing from (V) HS-GND1 (2), current layer restricted for Net (or Pin Pair): $6N3680; 
-Interactive Route: Cannot start routing from (V) HS-GND1 (2), current layer restricted for Net (or Pin Pair): $6N3679; 
 Warning: Plow failed - insufficient space for plowing operation.
 Warning: Plow failed - insufficient space for plowing operation.
-Unroute in progress...
-...Unroute finished.
-Unroute in progress...
-...Unroute finished.
-Unroute in progress...
-...Unroute finished.
-Unroute in progress...
-...Unroute finished.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 387  Routed 1006 of 1393 (72.2%)  Vias 474  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 386  Routed 1007 of 1393 (72.3%)  Vias 475  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 385  Routed 1008 of 1393 (72.4%)  Vias 476  Duration 00:00:00
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 384  Routed 1009 of 1393 (72.4%)  Vias 477  Duration 00:00:00
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 382  Routed 1011 of 1393 (72.6%)  Vias 479  Duration 00:00:01
+-----------------
 -----------------
 Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
 PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
@@ -477,102 +148,137 @@ Batch Router Statistics
 Pre-routing analysis in progress...
 Pre-routing analysis finished.
 
-Done> Unroutes 361  Routed 1032 of 1393 (74.1%)  Vias 534  Duration 00:00:01
+Done> Unroutes 382  Routed 1011 of 1393 (72.6%)  Vias 479  Duration 00:00:00
 -----------------
-Warning: Plow failed - insufficient space for plowing operation.
-Warning: Plow failed - insufficient space for plowing operation.
-Unroute in progress...
-...Unroute finished.
-Unroute in progress...
-...Unroute finished.
-Unroute in progress...
-...Unroute finished.
-Unroute in progress...
-...Unroute finished.
-Unroute in progress...
-...Unroute finished.
-Unroute in progress...
-...Unroute finished.
-Unroute in progress...
-...Unroute finished.
-Unroute in progress...
-...Unroute finished.
-Unroute in progress...
-...Unroute finished.
-Warning: insufficient space for via.
-Warning: insufficient space for via.
-Unroute in progress...
-...Unroute finished.
 -----------------
 Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
 PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
 Integrity Test in progress...
 	No database integrity problems found
 ... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
-Unroute in progress...
-...Unroute finished.
-Unroute in progress...
-...Unroute finished.
-Interactive Route: Cannot start routing from (V) HS-GND1 (2), current layer restricted for Net (or Pin Pair): GPS_D-; 
-Unroute in progress...
-...Unroute finished.
-Unroute in progress...
-...Unroute finished.
-Unroute in progress...
-...Unroute finished.
-Unroute in progress...
-...Unroute finished.
-Unroute in progress...
-...Unroute finished.
-Unroute in progress...
-...Unroute finished.
-Unroute in progress...
-...Unroute finished.
-Interactive Route: Cannot start routing from (V) HS-GND1 (2), current layer restricted for Net (or Pin Pair): GPS_D+; 
-Unroute in progress...
-...Unroute finished.
-Interactive Route: Cannot start routing from (V) HS-GND1 (2), current layer restricted for Net (or Pin Pair): GPS_D+; 
 -----------------
 Batch Router Statistics
 
 Pre-routing analysis in progress...
 Pre-routing analysis finished.
 
-Done> Unroutes 381  Routed 1012 of 1393 (72.6%)  Vias 498  Duration 00:00:00
------------------
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 381  Routed 1012 of 1393 (72.6%)  Vias 498  Duration 00:00:00
------------------
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 381  Routed 1012 of 1393 (72.6%)  Vias 498  Duration 00:00:00
+Done> Unroutes 382  Routed 1011 of 1393 (72.6%)  Vias 480  Duration 00:00:01
 -----------------
 Unroute in progress...
 ...Unroute finished.
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 381  Routed 1012 of 1393 (72.6%)  Vias 498  Duration 00:00:00
------------------
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
 -----------------
 Saving PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
 PCB file saved -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb]
+-----------------
+Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+Unroute in progress...
+...Unroute finished.
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 381  Routed 1012 of 1393 (72.6%)  Vias 483  Duration 00:00:01
+-----------------
+-----------------
+Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 381  Routed 1012 of 1393 (72.6%)  Vias 480  Duration 00:00:01
+-----------------
+-----------------
+Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
 Unroute in progress...
 ...Unroute finished.
 Unroute in progress...
 ...Unroute finished.
+-----------------
+Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+`<001>
+Pins U11.AD6, U11.AD4 are covered by either board outline, trace(s), keepout(s), text(s), copper(s) or plane area(s). PADS Router will not route unroutes connected to these pins. To correct the problem, use Move commands in PADS Layout or PADS Router. 
+
+`<000>
+Pre-routing analysis finished.
+
+Done> Unroutes 390  Routed 1003 of 1393 (72.0%)  Vias 470  Duration 00:00:01
+-----------------
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+-----------------
+Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+-----------------
+Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+Interactive Route: Cannot start routing from (V) HS-GND1 (2), current layer restricted for Net (or Pin Pair): NRF_D+; 
+Interactive Route: Cannot start routing from (V) HS-GND1 (2), current layer restricted for Net (or Pin Pair): NRF_D-; 
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 388  Routed 1005 of 1393 (72.1%)  Vias 472  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 388  Routed 1005 of 1393 (72.1%)  Vias 472  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 388  Routed 1005 of 1393 (72.1%)  Vias 472  Duration 00:00:01
+-----------------
+Unprotect in progress...
+...Unprotect finished.
 Unroute in progress...
 ...Unroute finished.
 Unroute in progress...
@@ -581,45 +287,16 @@ Unroute in progress...
 ...Unroute finished.
 Protect in progress...
 ...Protect finished.
------------------
-Saving PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
-PCB file saved -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb]
------------------
-Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
-PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
-Integrity Test in progress...
-	No database integrity problems found
-... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
 Unroute in progress...
 ...Unroute finished.
------------------
-Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
-PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
-Integrity Test in progress...
-	No database integrity problems found
-... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
 -----------------
 Batch Router Statistics
 
 Pre-routing analysis in progress...
 Pre-routing analysis finished.
 
-Done> Unroutes 381  Routed 1012 of 1393 (72.6%)  Vias 495  Duration 00:00:00
+Done> Unroutes 382  Routed 1011 of 1393 (72.6%)  Vias 480  Duration 00:00:01
 -----------------
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 377  Routed 1016 of 1393 (72.9%)  Vias 497  Duration 00:00:00
------------------
-Unroute in progress...
-...Unroute finished.
-Unroute in progress...
-...Unroute finished.
-Unroute in progress...
-...Unroute finished.
 -----------------
 Saving PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
 PCB file saved -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb]
