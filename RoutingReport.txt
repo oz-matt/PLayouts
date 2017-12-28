@@ -1,14 +1,14 @@
 PADS Router  9.4, Routing report
 Design: C:\PADS Projects\Q10B-v2.2.3.pcb
 ==============================================================================================
-Tue Dec 19 15:55:27 2017
+Wed Dec 27 11:07:38 2017
 
-Autorouting selected objects C:\PADS Projects\Q10B-v2.2.3.pcb
+Optimizing selected objects C:\PADS Projects\Q10B-v2.2.3.pcb
 ==============================================================================================
-Routed Connections:        1021(+1)
-Vias:                      497(+1)
-Trace length:              5853(+1) Millimeters
+Routed Connections:        1305(+0)
+Vias:                      1048(+0)
+Trace length:              9127(+51) Millimeters
 Test points:               0(+0)
-Accessible nets:           66(+0)
-Duration                   00:00:01
+Accessible nets:           71(+0)
+Duration                   00:00:05
 ==============================================================================================
