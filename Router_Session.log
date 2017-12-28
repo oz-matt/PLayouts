@@ -5,250 +5,6 @@ PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q1
 Integrity Test in progress...
 	No database integrity problems found
 ... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 107  Routed 1291 of 1398 (92.3%)  Vias 1025  Duration 00:00:01
------------------
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 106  Routed 1292 of 1398 (92.4%)  Vias 1026  Duration 00:00:02
------------------
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 106  Routed 1292 of 1398 (92.4%)  Vias 1026  Duration 00:00:01
------------------
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 105  Routed 1293 of 1398 (92.5%)  Vias 1028  Duration 00:00:02
------------------
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 104  Routed 1294 of 1398 (92.6%)  Vias 1030  Duration 00:00:01
------------------
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-`<001>
-Pins D3.2 are covered by either board outline, trace(s), keepout(s), text(s), copper(s) or plane area(s). PADS Router will not route unroutes connected to these pins. To correct the problem, use Move commands in PADS Layout or PADS Router. 
-
-`<000>
-Pre-routing analysis finished.
-
-Done> Unroutes 104  Routed 1294 of 1398 (92.6%)  Vias 1030  Duration 00:00:01
------------------
------------------
-Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
-PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
-Integrity Test in progress...
-	No database integrity problems found
-... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
------------------
-Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
-PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
-Integrity Test in progress...
-	No database integrity problems found
-... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 104  Routed 1294 of 1398 (92.6%)  Vias 1030  Duration 00:00:01
------------------
-Routing report -- `FILE[C:\PADS Projects\RoutingReport.txt][C:\PADS Projects\RoutingReport.txt]
------------------
-Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
-PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
-Integrity Test in progress...
-	No database integrity problems found
-... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 104  Routed 1294 of 1398 (92.6%)  Vias 1030  Duration 00:00:00
------------------
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 104  Routed 1294 of 1398 (92.6%)  Vias 1030  Duration 00:00:03
------------------
-Routing report -- `FILE[C:\PADS Projects\RoutingReport.txt][C:\PADS Projects\RoutingReport.txt]
-Unroute in progress...
-...Unroute finished.
-Unroute in progress...
-...Unroute finished.
-Unroute in progress...
-...Unroute finished.
-Topology errors detected.
-Unroute in progress...
-...Unroute finished.
-Unroute in progress...
-...Unroute finished.
-Unroute in progress...
-...Unroute finished.
-Unroute in progress...
-...Unroute finished.
-Unroute in progress...
-...Unroute finished.
-Unroute in progress...
-...Unroute finished.
-Protect in progress...
-...Protect finished.
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 104  Routed 1294 of 1398 (92.6%)  Vias 1030  Duration 00:00:01
------------------
-Unroute in progress...
-...Unroute finished.
-Protect in progress...
-...Protect finished.
-Protect in progress...
-...Protect finished.
-Protect in progress...
-...Protect finished.
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 104  Routed 1294 of 1398 (92.6%)  Vias 1030  Duration 00:00:02
------------------
------------------
-Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
-PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
-Integrity Test in progress...
-	No database integrity problems found
-... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
-Protect in progress...
-...Protect finished.
-Unprotect in progress...
-...Unprotect finished.
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 104  Routed 1294 of 1398 (92.6%)  Vias 1030  Duration 00:00:02
------------------
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 104  Routed 1294 of 1398 (92.6%)  Vias 1030  Duration 00:00:01
------------------
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 104  Routed 1294 of 1398 (92.6%)  Vias 1030  Duration 00:00:03
------------------
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 104  Routed 1294 of 1398 (92.6%)  Vias 1030  Duration 00:00:02
------------------
-Routing report -- `FILE[C:\PADS Projects\RoutingReport.txt][C:\PADS Projects\RoutingReport.txt]
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 104  Routed 1294 of 1398 (92.6%)  Vias 1030  Duration 00:00:02
------------------
-Unroute in progress...
-...Unroute finished.
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 104  Routed 1294 of 1398 (92.6%)  Vias 1029  Duration 00:00:02
------------------
-Protect in progress...
-...Protect finished.
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 104  Routed 1294 of 1398 (92.6%)  Vias 1029  Duration 00:00:01
------------------
-Protect in progress...
-...Protect finished.
-Protect in progress...
-...Protect finished.
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 104  Routed 1294 of 1398 (92.6%)  Vias 1029  Duration 00:00:02
------------------
-Protect in progress...
-...Protect finished.
-Protect in progress...
-...Protect finished.
------------------
-Batch Router Statistics
-
-Pre-routing analysis in progress...
-Pre-routing analysis finished.
-
-Done> Unroutes 104  Routed 1294 of 1398 (92.6%)  Vias 1029  Duration 00:00:02
------------------
-Protect in progress...
-...Protect finished.
-Protect in progress...
-...Protect finished.
-Protect in progress...
-...Protect finished.
-Protect in progress...
-...Protect finished.
 Protect in progress...
 ...Protect finished.
 Protect in progress...
@@ -263,12 +19,156 @@ Unprotect in progress...
 ...Unprotect finished.
 Protect in progress...
 ...Protect finished.
+-----------------
+Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unprotect in progress...
+...Unprotect finished.
+Unprotect in progress...
+...Unprotect finished.
+Unprotect in progress...
+...Unprotect finished.
+Unprotect in progress...
+...Unprotect finished.
+Unroute in progress...
+...Unroute finished.
+Protect in progress...
+...Protect finished.
+Protect in progress...
+...Protect finished.
+-----------------
+Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
 Unprotect in progress...
 ...Unprotect finished.
 Protect in progress...
 ...Protect finished.
+-----------------
+Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
 Unprotect in progress...
 ...Unprotect finished.
+Unprotect in progress...
+...Unprotect finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+-----------------
+Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+-----------------
+Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+Protect in progress...
+...Protect finished.
+Protect in progress...
+...Protect finished.
+Protect in progress...
+...Protect finished.
+Protect in progress...
+...Protect finished.
+Protect in progress...
+...Protect finished.
+Unprotect in progress...
+...Unprotect finished.
+-----------------
+Loading PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+Unroute in progress...
+...Unroute finished.
+Unprotect in progress...
+...Unprotect finished.
+Unprotect in progress...
+...Unprotect finished.
+Protect in progress...
+...Protect finished.
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 104  Routed 1294 of 1398 (92.6%)  Vias 1063  Duration 00:00:00
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 104  Routed 1294 of 1398 (92.6%)  Vias 1063  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 104  Routed 1294 of 1398 (92.6%)  Vias 1063  Duration 00:00:00
+-----------------
+Unprotect in progress...
+...Unprotect finished.
+Protect in progress...
+...Protect finished.
+Unroute in progress...
+...Unroute finished.
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 104  Routed 1294 of 1398 (92.6%)  Vias 1063  Duration 00:00:00
+-----------------
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unprotect in progress...
+...Unprotect finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Protect in progress...
+...Protect finished.
+Protect in progress...
+...Protect finished.
 -----------------
 Saving PCB file 'C:\PADS Projects\Q10B-v2.2.3.pcb'...
 PCB file saved -- `DESIGN[C:\PADS Projects\Q10B-v2.2.3.pcb][C:\PADS Projects\Q10B-v2.2.3.pcb]
