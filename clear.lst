@@ -1,338 +1,302 @@
 
 
-ERROR LIST REPORT -- Q10B-v2.2.3.pcb -- Sun Dec 24 13:30:02 2017
+ERROR LIST REPORT -- Q10B-v2.2.3.pcb -- Sat Jan 06 14:50:07 2018
 
 
 ----------------------------------------------------
-Error   1 Location 17.6,65.9736 Level 10
+Error   1 Location 13.02272,65.28 Level 10
+Trace Keepout violation error:
+TRACE(10.0764,65.28), KEEPOUT(13.25325,65.45099) overlapping
+----------------------------------------------------
+Error   2 Location 17.6,65.9736 Level 10
 Trace Keepout violation error:
 TRACE(16.82,65.9736), KEEPOUT(17.6,71.2) overlapping
 ----------------------------------------------------
-Error   2 Location 17.6,70.3736 Level 10
+Error   3 Location 17.6,70.3736 Level 10
 Trace Keepout violation error:
 TRACE(17.09,70.3736), KEEPOUT(17.6,71.2) overlapping
 ----------------------------------------------------
-Error   3 Location 18.25,61.89 Level 10
-Trace Keepout violation error:
-TRACE(17.57,61.79), KEEPOUT(18.25,62.62) overlapping
-----------------------------------------------------
 Error   4 Location 18.37153,65.4736 Level 10
 Trace Keepout violation error:
-TRACE(18.37153,64.72), KEEPOUT(17.6,71.2) overlapping
+TRACE(18.37153,64.64008), KEEPOUT(17.6,71.2) overlapping
 ----------------------------------------------------
-Error   5 Location 18.5125,60.9875 Level 10
+Error   5 Location 19.88327,58.59236 Level 10
 Trace Keepout violation error:
-TRACE(19.65,60.54), KEEPOUT(18.3,61.6) overlapping
+TRACE(10.0764,65.28), KEEPOUT(19.88327,58.35086) overlapping
 ----------------------------------------------------
-Error   6 Location 18.5125,61.265 Level 10
+Error   6 Location 21.97153,64.51552 Level 10
 Trace Keepout violation error:
-TRACE(19.65,60.54), KEEPOUT(18.25,62.62) overlapping
+TRACE(21.97153,65.9736), KEEPOUT(21.60697,64.85716) overlapping
 ----------------------------------------------------
-Error   7 Location 18.5125,61.89 Level 10
+Error   7 Location 21.97153,64.7691 Level 10
 Trace Keepout violation error:
-TRACE(18.5125,61.89), KEEPOUT(18.25,62.62) overlapping
+TRACE(21.97153,65.9736), KEEPOUT(21.7596,65.34741) overlapping
 ----------------------------------------------------
-Error   8 Location 18.8,62.39 Level 10
+Error   8 Location 21.97153,65.34741 Level 10
 Trace Keepout violation error:
-TRACE(18.8,62.39), KEEPOUT(18.91465,63.3) overlapping
+TRACE(21.97153,65.9736), KEEPOUT(17.6,71.2) overlapping
 ----------------------------------------------------
-Error   9 Location 18.8449,62.39 Level 10
+Error   9 Location 21.97195,62.33373 Level 10
 Trace Keepout violation error:
-TRACE(18.8,62.39), KEEPOUT(18.25,62.62) overlapping
+TRACE(21.97195,63.7023), KEEPOUT(21.6338,62.65097) overlapping
 ----------------------------------------------------
-Error  10 Location 19.0218,63.06907 Level 10
+Error  10 Location 21.97195,62.58773 Level 10
 Trace Keepout violation error:
-TRACE(18.8,62.39), KEEPOUT(19.6,64.46) overlapping
+TRACE(21.97195,63.7023), KEEPOUT(21.78576,63.54027) overlapping
 ----------------------------------------------------
-Error  11 Location 19.03745,63.41263 Level 10
+Error  11 Location 21.97195,63.4483 Level 10
 Trace Keepout violation error:
-TRACE(19.09604,63.35405), KEEPOUT(19.6,64.46) overlapping
+TRACE(21.97195,63.7023), KEEPOUT(21.60697,64.85716) overlapping
 ----------------------------------------------------
-Error  12 Location 19.0875,61.39 Level 10
+Error  12 Location 21.97195,64.51038 Level 10
 Trace Keepout violation error:
-TRACE(19.0875,61.39), KEEPOUT(18.25,62.62) overlapping
+TRACE(21.97195,64.5151), KEEPOUT(21.60697,64.85716) overlapping
 ----------------------------------------------------
-Error  13 Location 19.0875,61.89 Level 10
+Error  13 Location 21.97402,61.05348 Level 10
 Trace Keepout violation error:
-TRACE(19.0875,61.89), KEEPOUT(18.25,62.62) overlapping
+TRACE(21.97402,61.52093), KEEPOUT(22.81698,60.69845) overlapping
 ----------------------------------------------------
-Error  14 Location 19.61219,63.98737 Level 10
+Error  14 Location 21.97402,61.26693 Level 10
 Trace Keepout violation error:
-TRACE(19.61219,63.98737), KEEPOUT(19.6,64.46) overlapping
+TRACE(21.97402,61.52093), KEEPOUT(21.6338,62.65097) overlapping
 ----------------------------------------------------
-Error  15 Location 19.92416,64.0346 Level 10
+Error  15 Location 21.97402,62.33373 Level 10
 Trace Keepout violation error:
-TRACE(19.61219,63.98737), KEEPOUT(21,64.4) overlapping
+TRACE(21.97402,62.33373), KEEPOUT(21.6338,62.65097) overlapping
 ----------------------------------------------------
-Error  16 Location 20.15,60.14 Level 10
+Error  16 Location 22.14332,64.51038 Level 10
 Trace Keepout violation error:
-TRACE(20.15,60.14), KEEPOUT(19.94,60.29) overlapping
+TRACE(21.97195,64.5151), KEEPOUT(22.14332,64.68709) overlapping
 ----------------------------------------------------
-Error  17 Location 20.78,60.14 Level 10
+Error  17 Location 22.17522,62.33373 Level 10
 Trace Keepout violation error:
-TRACE(20.15,60.14), KEEPOUT(20.78,60.52) overlapping
+TRACE(21.97402,62.33373), KEEPOUT(22.17522,62.49807) overlapping
 ----------------------------------------------------
-Error  18 Location 20.8,60.14 Level 10
+Error  18 Location 22.61978,60.52555 Level 10
 Trace Keepout violation error:
-TRACE(20.15,60.14), KEEPOUT(20.8,60.53) overlapping
+TRACE(21.97402,61.52093), KEEPOUT(24.00293,59.9965) overlapping
 ----------------------------------------------------
-Error  19 Location 20.8,64.16668 Level 10
+Error  19 Location 23.0852,64.51038 Level 10
 Trace Keepout violation error:
-TRACE(19.61219,63.98737), KEEPOUT(20.8,64.6) overlapping
+TRACE(21.97195,64.5151), KEEPOUT(23.0852,64.82663) overlapping
 ----------------------------------------------------
-Error  20 Location 20.94,64.18779 Level 10
+Error  20 Location 23.08526,62.33373 Level 10
 Trace Keepout violation error:
-TRACE(19.61219,63.98737), KEEPOUT(20.94,64.41) overlapping
+TRACE(21.97402,62.33373), KEEPOUT(23.08526,62.71584) overlapping
 ----------------------------------------------------
-Error  21 Location 21.03944,64.20279 Level 10
+Error  21 Location 23.3,60.23805 Level 10
 Trace Keepout violation error:
-TRACE(19.61219,63.98737), KEEPOUT(23.9,64.44) overlapping
+TRACE(23.3,60.81305), KEEPOUT(24.00293,59.9965) overlapping
 ----------------------------------------------------
-Error  22 Location 21.1536,62.86 Level 10
+Error  22 Location 23.3,60.81305 Level 10
 Trace Keepout violation error:
-TRACE(21.1536,62.86), KEEPOUT(20.8,63.24) overlapping
+TRACE(23.3,60.81305), KEEPOUT(24.00293,59.9965) overlapping
 ----------------------------------------------------
-Error  23 Location 21.1536,63.1394 Level 10
+Error  23 Location 23.30167,60.23638 Level 10
 Trace Keepout violation error:
-TRACE(21.1536,62.86), KEEPOUT(20.94,64.41) overlapping
+TRACE(23.30167,60.23638), KEEPOUT(24.00293,59.9965) overlapping
 ----------------------------------------------------
-Error  24 Location 21.1536,63.9406 Level 10
+Error  24 Location 23.78294,60.81305 Level 10
 Trace Keepout violation error:
-TRACE(21.1536,62.86), KEEPOUT(20.8,64.6) overlapping
+TRACE(23.78294,60.81305), KEEPOUT(24.00293,59.9965) overlapping
 ----------------------------------------------------
-Error  25 Location 21.9664,60.14 Level 10
+Error  25 Location 23.78294,60.97555 Level 10
 Trace Keepout violation error:
-TRACE(21.9664,60.14), KEEPOUT(19.94,60.29) overlapping
+TRACE(23.78294,60.81305), KEEPOUT(24.00293,59.9965) overlapping
 ----------------------------------------------------
-Error  26 Location 21.9664,62.86 Level 10
+Error  26 Location 23.8,60.23805 Level 10
 Trace Keepout violation error:
-TRACE(22.02,62.15), KEEPOUT(20.8,63.24) overlapping
+TRACE(23.8,60.23805), KEEPOUT(23.65576,60.41238) overlapping
 ----------------------------------------------------
-Error  27 Location 21.9664,64.22 Level 10
+Error  27 Location 23.925,60.23739 Level 10
 Trace Keepout violation error:
-TRACE(23.5,64.2064), KEEPOUT(23.9,64.44) overlapping
+TRACE(23.8,60.23805), KEEPOUT(24.00293,59.9965) overlapping
 ----------------------------------------------------
-Error  28 Location 21.9714,64.225 Level 10
-Trace Keepout violation error:
-TRACE(21.9664,64.22), KEEPOUT(23.9,64.44) overlapping
-----------------------------------------------------
-Error  29 Location 21.9714,64.44 Level 10
-Trace Keepout violation error:
-TRACE(21.9664,64.22), KEEPOUT(20.8,64.6) overlapping
-----------------------------------------------------
-Error  30 Location 21.9714,64.4994 Level 10
-Trace Keepout violation error:
-TRACE(21.9664,64.22), KEEPOUT(21.76,65.4) overlapping
-----------------------------------------------------
-Error  31 Location 21.97153,65.4 Level 10
-Trace Keepout violation error:
-TRACE(21.9664,64.22), KEEPOUT(17.6,71.2) overlapping
-----------------------------------------------------
-Error  32 Location 22.18,64.22 Level 10
-Trace Keepout violation error:
-TRACE(23.5,64.2064), KEEPOUT(20.8,64.6) overlapping
-----------------------------------------------------
-Error  33 Location 22.2204,60.14 Level 10
-Trace Keepout violation error:
-TRACE(21.9664,60.14), KEEPOUT(20.78,60.52) overlapping
-----------------------------------------------------
-Error  34 Location 22.2204,62.86 Level 10
-Trace Keepout violation error:
-TRACE(21.9664,62.86), KEEPOUT(20.8,63.24) overlapping
-----------------------------------------------------
-Error  35 Location 22.31,60.14 Level 10
-Trace Keepout violation error:
-TRACE(21.9664,60.14), KEEPOUT(20.8,60.53) overlapping
-----------------------------------------------------
-Error  36 Location 22.8,58.84 Level 10
-Trace Keepout violation error:
-TRACE(23.35,58.84), KEEPOUT(22.8,60.44) overlapping
-----------------------------------------------------
-Error  37 Location 22.8,59.49 Level 10
-Trace Keepout violation error:
-TRACE(22.38,59.46), KEEPOUT(22.8,60.44) overlapping
-----------------------------------------------------
-Error  38 Location 22.8,60.14 Level 10
-Trace Keepout violation error:
-TRACE(21.9664,60.14), KEEPOUT(22.8,60.44) overlapping
-----------------------------------------------------
-Error  39 Location 23.1,64.22 Level 10
-Trace Keepout violation error:
-TRACE(23.5,64.2064), KEEPOUT(23.1,64.6) overlapping
-----------------------------------------------------
-Error  40 Location 23.246,63.1396 Level 10
-Trace Keepout violation error:
-TRACE(21.9664,62.86), KEEPOUT(23.1,64.6) overlapping
-----------------------------------------------------
-Error  41 Location 23.97153,70.3736 Level 10
+Error  28 Location 23.97153,70.3736 Level 10
 Trace Keepout violation error:
 TRACE(23.97153,70.3736), KEEPOUT(17.6,71.2) overlapping
 ----------------------------------------------------
-Error  42 Location 25.42992,60.14 Level 10
+Error  29 Location 24.24527,64.44564 Level 10
 Trace Keepout violation error:
-TRACE(25.45,60.14), KEEPOUT(22.8,60.44) overlapping
+TRACE(24.24527,64.44564), KEEPOUT(23.0852,64.82663) overlapping
 ----------------------------------------------------
-Error  43 Location 25.45,58.84 Level 10
+Error  30 Location 24.25103,62.33468 Level 10
 Trace Keepout violation error:
-TRACE(27.28,57.43), KEEPOUT(22.8,60.44) overlapping
+TRACE(24.25103,62.33468), KEEPOUT(23.08526,62.71584) overlapping
 ----------------------------------------------------
-Error  44 Location 25.45,59.49 Level 10
+Error  31 Location 24.26192,59.83669 Level 10
 Trace Keepout violation error:
-TRACE(25.45,59.49), KEEPOUT(22.8,60.44) overlapping
+TRACE(23.31099,59.83669), KEEPOUT(24.26192,60.83003) overlapping
 ----------------------------------------------------
-Error  45 Location 25.9,59.49 Level 10
+Error  32 Location 24.26192,60.23669 Level 10
 Trace Keepout violation error:
-TRACE(25.45,59.49), KEEPOUT(25.9,59.7) overlapping
+TRACE(23.8,60.23805), KEEPOUT(24.26192,60.83003) overlapping
 ----------------------------------------------------
-Error  46 Location 26.34,59.49 Level 10
+Error  33 Location 24.51513,60.63669 Level 10
 Trace Keepout violation error:
-TRACE(25.45,59.49), KEEPOUT(26.34,59.86) overlapping
+TRACE(24.51513,60.63669), KEEPOUT(24.26192,60.83003) overlapping
 ----------------------------------------------------
-Error  47 Location 27.5164,59.49 Level 10
+Error  34 Location 25.01513,59.83669 Level 10
 Trace Keepout violation error:
-TRACE(27.5164,59.49), KEEPOUT(25.9,59.7) overlapping
+TRACE(25.01513,59.83669), KEEPOUT(24.26192,60.83003) overlapping
 ----------------------------------------------------
-Error  48 Location 27.7704,59.49 Level 10
+Error  35 Location 25.01513,60.23669 Level 10
 Trace Keepout violation error:
-TRACE(27.5164,59.49), KEEPOUT(26.34,59.86) overlapping
+TRACE(25.01513,60.23669), KEEPOUT(24.26192,60.83003) overlapping
 ----------------------------------------------------
-Error  49 Location 28.32,59.49 Level 10
+Error  36 Location 25.01513,60.63669 Level 10
 Trace Keepout violation error:
-TRACE(27.5164,59.49), KEEPOUT(28.32,60.04) overlapping
+TRACE(25.01513,60.63669), KEEPOUT(24.26192,60.83003) overlapping
 ----------------------------------------------------
-Error  50 Location 29.04,59.04 Level 10
+Error  37 Location 25.19013,59.83669 Level 10
 Trace Keepout violation error:
-TRACE(29.94,58.37), KEEPOUT(28.32,60.04) overlapping
+TRACE(25.01513,59.83669), KEEPOUT(24.76741,60.0218) overlapping
 ----------------------------------------------------
-Error  51 Location 29.04,59.2025 Level 10
+Error  38 Location 25.58335,59.83669 Level 10
 Trace Keepout violation error:
-TRACE(29.04,59.2025), KEEPOUT(28.32,60.04) overlapping
+TRACE(25.01513,59.83669), KEEPOUT(25.58335,60.18584) overlapping
 ----------------------------------------------------
-Error  52 Location 29.04,59.7775 Level 10
+Error  39 Location 26.72647,59.83345 Level 10
 Trace Keepout violation error:
-TRACE(29.04,59.7775), KEEPOUT(28.32,60.04) overlapping
+TRACE(26.72647,59.83345), KEEPOUT(25.58335,60.18584) overlapping
 ----------------------------------------------------
-Error  53 Location 29.54,59.2 Level 10
+Error  40 Location 26.86651,59.83554 Level 10
 Trace Keepout violation error:
-TRACE(30.45,59.2), KEEPOUT(29.4,59.39) overlapping
+TRACE(26.72647,59.83345), KEEPOUT(26.86651,59.66646) overlapping
 ----------------------------------------------------
-Error  54 Location 29.54,59.7775 Level 10
+Error  41 Location 27.31514,58.53554 Level 10
 Trace Keepout violation error:
-TRACE(29.54,59.7775), KEEPOUT(28.32,60.04) overlapping
+TRACE(10.0764,65.28), KEEPOUT(27.31514,60.15835) overlapping
 ----------------------------------------------------
-Error  55 Location 29.665,59.2 Level 10
+Error  42 Location 27.31514,59.18554 Level 10
 Trace Keepout violation error:
-TRACE(30.45,59.2), KEEPOUT(28.32,60.04) overlapping
+TRACE(26.98959,59.16819), KEEPOUT(27.31514,60.15835) overlapping
 ----------------------------------------------------
-Error  56 Location 30.45,59.2 Level 10
+Error  43 Location 27.31514,59.83554 Level 10
 Trace Keepout violation error:
-TRACE(30.45,59.2), KEEPOUT(29.4,59.39) overlapping
+TRACE(26.72647,59.83345), KEEPOUT(27.31514,60.15835) overlapping
 ----------------------------------------------------
-Error  57 Location -8.357,1.02 Level 10
+Error  44 Location 29.99073,58.33554 Level 10
+Trace Keepout violation error:
+TRACE(29.7161,57.07696), KEEPOUT(27.31514,60.15835) overlapping
+----------------------------------------------------
+Error  45 Location 29.99073,59.18554 Level 10
+Trace Keepout violation error:
+TRACE(29.99073,59.18554), KEEPOUT(27.31514,60.15835) overlapping
+----------------------------------------------------
+Error  46 Location 29.99073,59.83554 Level 10
+Trace Keepout violation error:
+TRACE(29.90391,62.52534), KEEPOUT(27.31514,60.15835) overlapping
+----------------------------------------------------
+Error  47 Location 30.3588,59.18554 Level 10
+Trace Keepout violation error:
+TRACE(29.99073,59.18554), KEEPOUT(30.3588,59.36519) overlapping
+----------------------------------------------------
+Error  48 Location 30.86898,59.18554 Level 10
+Trace Keepout violation error:
+TRACE(29.99073,59.18554), KEEPOUT(30.86898,59.53915) overlapping
+----------------------------------------------------
+Error  49 Location 32.0103,59.18419 Level 10
+Trace Keepout violation error:
+TRACE(32.0103,59.18498), KEEPOUT(30.86898,59.53915) overlapping
+----------------------------------------------------
+Error  50 Location 32.17278,59.18419 Level 10
+Trace Keepout violation error:
+TRACE(32.0103,59.18498), KEEPOUT(32.17278,59.43886) overlapping
+----------------------------------------------------
+Error  51 Location 32.56523,59.18419 Level 10
+Trace Keepout violation error:
+TRACE(32.0103,59.18498), KEEPOUT(32.56523,59.73101) overlapping
+----------------------------------------------------
+Error  52 Location 33.30864,58.88388 Level 10
+Trace Keepout violation error:
+TRACE(33.30864,59.47169), KEEPOUT(32.56523,59.73101) overlapping
+----------------------------------------------------
+Error  53 Location 33.30864,58.89669 Level 10
+Trace Keepout violation error:
+TRACE(33.30864,58.89669), KEEPOUT(32.56523,59.73101) overlapping
+----------------------------------------------------
+Error  54 Location 33.30864,59.47169 Level 10
+Trace Keepout violation error:
+TRACE(33.30864,59.47169), KEEPOUT(32.56523,59.73101) overlapping
+----------------------------------------------------
+Error  55 Location 33.30864,59.63419 Level 10
+Trace Keepout violation error:
+TRACE(32.66871,59.928), KEEPOUT(32.56523,59.73101) overlapping
+----------------------------------------------------
+Error  56 Location 33.30911,58.8834 Level 10
+Trace Keepout violation error:
+TRACE(33.30911,58.8834), KEEPOUT(32.56523,59.73101) overlapping
+----------------------------------------------------
+Error  57 Location 33.30955,58.73419 Level 10
+Trace Keepout violation error:
+TRACE(33.28313,58.08923), KEEPOUT(32.56523,59.73101) overlapping
+----------------------------------------------------
+Error  58 Location 33.80864,58.89669 Level 10
+Trace Keepout violation error:
+TRACE(33.80864,58.89669), KEEPOUT(33.58123,59.15106) overlapping
+----------------------------------------------------
+Error  59 Location 33.80864,58.8973 Level 10
+Trace Keepout violation error:
+TRACE(33.80864,58.89669), KEEPOUT(32.56523,59.73101) overlapping
+----------------------------------------------------
+Error  60 Location -8.357,1.02 Level 10
 Board Outline violation error:
 SW4.1, BOARD(-5.588,-4.572) distance is 0.05, should be >= 0.127
 ----------------------------------------------------
-Error  58 Location -8.357,3.52 Level 10
+Error  61 Location -8.357,3.52 Level 10
 Board Outline violation error:
 SW4.2, BOARD(-5.588,-4.572) distance is 0.05, should be >= 0.127
 ----------------------------------------------------
-Error  59 Location -8.357,6.02 Level 10
+Error  62 Location -8.357,6.02 Level 10
 Board Outline violation error:
 SW4.3, BOARD(-5.588,-4.572) distance is 0.05, should be >= 0.127
 ----------------------------------------------------
-Error  60 Location 3.048,59.813 Level 10
+Error  63 Location 3.048,59.813 Level 10
 Board Outline violation error:
 U5.2, BOARD(-5.588,-4.572) object is placed outside the Board area
 ----------------------------------------------------
-Error  61 Location 3.048,64.133 Level 10
+Error  64 Location 3.048,64.133 Level 10
 Board Outline violation error:
 U5.1, BOARD(-5.588,-4.572) object is placed outside the Board area
 ----------------------------------------------------
-Error  62 Location 3.048,68.453 Level 10
+Error  65 Location 3.048,68.453 Level 10
 Board Outline violation error:
 U5.3, BOARD(-5.588,-4.572) object is placed outside the Board area
 ----------------------------------------------------
-Error  63 Location 19.089,63.32702 Level 10
-Trace Keepout violation error:
-TRACE(19.09604,63.35405), KEEPOUT(18.91465,63.3) overlapping
-----------------------------------------------------
-Error  64 Location 21.1268,63.87 Level 10
-Trace Keepout violation error:
-TRACE(21.1536,62.86), KEEPOUT(21,64.4) overlapping
-----------------------------------------------------
-Error  65 Location 21.1158,63.9753 Level 10
-Trace Keepout violation error:
-TRACE(21.1536,62.86), KEEPOUT(23.9,64.44) overlapping
-----------------------------------------------------
-Error  66 Location 22.2002,64.22 Level 10
-Trace Keepout violation error:
-TRACE(23.5,64.2064), KEEPOUT(21.76,65.4) overlapping
-----------------------------------------------------
-Error  67 Location 24.25498,-6.59992 Level 10
+Error  66 Location 16.05498,-6.59992 Level 10
 Drill spacing violation:
-J5.8, TRACE(24.25498,-6.59992) overlapping
+J5.11, TRACE(16.05498,-6.59992) overlapping
 ----------------------------------------------------
-Error  68 Location 24.25498,-6.52659 Level 10
+Error  67 Location 17.72998,-3.60636 Level 10
 Drill spacing violation:
-J5.8, TRACE(24.25498,-6.59992) overlapping
+J5.7, TRACE(15.20536,-4.25251) overlapping
 ----------------------------------------------------
-Error  69 Location -1.377,24.44445 Level 1
-Trace Keepout violation error:
-TRACE(-1.377,24.44445), KEEPOUT(-2.15,25.2) overlapping
+Error  68 Location 17.72998,-3.51992 Level 10
+Drill spacing violation:
+J5.7, TRACE(17.25498,-3.51992) overlapping
 ----------------------------------------------------
-Error  70 Location 19.43379,64.29379 Level 1
-Trace Keepout violation error:
-TRACE(19.36758,64.36), KEEPOUT(19.6,64.46) overlapping
-----------------------------------------------------
-Error  71 Location 19.48679,64.24079 Level 1
-Trace Keepout violation error:
-TRACE(19.36758,64.36), KEEPOUT(21,64.4) overlapping
-----------------------------------------------------
-Error  72 Location 20.8,63.05 Level 1
-Trace Keepout violation error:
-TRACE(19.36758,64.36), KEEPOUT(20.8,63.24) overlapping
-----------------------------------------------------
-Error  73 Location 20.94,63.05 Level 1
-Trace Keepout violation error:
-TRACE(19.36758,64.36), KEEPOUT(20.94,64.41) overlapping
-----------------------------------------------------
-Error  74 Location 20.94238,64.36 Level 1
-Trace Keepout violation error:
-TRACE(20.94238,64.36), KEEPOUT(23.9,64.44) overlapping
-----------------------------------------------------
-Error  75 Location 21.008,64.36 Level 1
-Trace Keepout violation error:
-TRACE(20.94238,64.36), KEEPOUT(21,64.4) overlapping
-----------------------------------------------------
-Error  76 Location 21.37,64.36 Level 1
-Trace Keepout violation error:
-TRACE(20.94238,64.36), KEEPOUT(20.8,64.6) overlapping
-----------------------------------------------------
-Error  77 Location 21.76,64.36 Level 1
-Trace Keepout violation error:
-TRACE(20.94238,64.36), KEEPOUT(21.76,65.4) overlapping
-----------------------------------------------------
-Error  78 Location 23.1,63.05 Level 1
-Trace Keepout violation error:
-TRACE(19.36758,64.36), KEEPOUT(23.1,64.6) overlapping
-----------------------------------------------------
-Error  79 Location 23.1,64.36 Level 1
-Trace Keepout violation error:
-TRACE(20.94238,64.36), KEEPOUT(23.1,64.6) overlapping
-----------------------------------------------------
-Error  80 Location 43.133,-3.2766 Level 1
-Placement Keepout violation error:
-M1.1, KEEPOUT(42.18781,-3.27) overlapping
-----------------------------------------------------
-Error  81 Location 10.61961,38.95033 Level 1
+Error  69 Location 23.675,59.95612 Level 10
 Distance between pad and track too small:
-R39.2, TRACE(9.77,40.08812) distance is 0.08579, should be >= 0.127
+U6.4, TRACE(23.31099,59.83669) distance is 0.12386, should be >= 0.127
 ----------------------------------------------------
-Error  82 Location 20.94119,64.38 Level 1
-Trace Keepout violation error:
-TRACE(20.94238,64.36), KEEPOUT(20.94,64.41) overlapping
+Error  70 Location 24.25498,-6.59992 Level 10
+Drill spacing violation:
+J5.8, TRACE(21.09248,-6.79992) overlapping
 ----------------------------------------------------
-Error  83 Location 44.8733,12.39 Level 1
+Error  71 Location 24.25498,-6.52659 Level 10
+Drill spacing violation:
+J5.8, TRACE(21.45498,-3.72492) overlapping
+----------------------------------------------------
+Error  72 Location 24.6649,61.18616 Level 10
 Distance between pad and track too small:
-VIA(44.56,12.39), TRACE(22.56998,7.95) distance is 0.1186, should be >= 0.127
+VIA(24.45786,61.39321), TRACE(24.51513,60.63669) distance is 0.115, should be >= 0.127
+----------------------------------------------------
+Error  73 Location 26.71233,60.16371 Level 10
+Distance between pads too small:
+C108.2, VIA(26.71233,60.39238) distance is 0.10173, should be >= 0.127
+----------------------------------------------------
+Error  74 Location 23.3003,59.9965 Level 6
+Trace Keepout violation error:
+TRACE(22.25254,59.30181), KEEPOUT(24.00293,59.9965) overlapping
 ----------------------------------------------------

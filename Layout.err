@@ -1,0 +1,288 @@
+
+Apertures used:-
+No: 10, Width: 0.0254, Hgt/ID:   0, Shape RND 
+No: 11, Width: 0.1, Hgt/ID:   0, Shape RND 
+No: 12, Width: 0.05, Hgt/ID:   0, Shape RND 
+No: 14, Width: 0.2, Hgt/ID:   0, Shape RND 
+No: 16, Width: 0.254, Hgt/ID:   0, Shape RND 
+No: 19, Width: 0.0762, Hgt/ID:   0, Shape RND 
+No: 26, Width: 0.305, Hgt/ID: 0.813, Shape RECT
+No: 27, Width: 0.813, Hgt/ID: 0.305, Shape RECT
+No: 34, Width: 0.6, Hgt/ID:   0, Shape SQR 
+No: 35, Width: 2.6, Hgt/ID: 1.35, Shape RECT
+No: 36, Width: 0.58, Hgt/ID: 1.35, Shape RECT
+No: 37, Width: 1.34, Hgt/ID: 1.35, Shape RECT
+No: 38, Width: 1.84, Hgt/ID: 1.35, Shape RECT
+No: 39, Width: 0.6, Hgt/ID: 1.7, Shape RECT
+No: 40, Width: 1.8, Hgt/ID: 1.35, Shape RECT
+No: 41, Width:   2, Hgt/ID: 1.5, Shape RECT
+No: 42, Width: 0.8, Hgt/ID: 2.5, Shape RECT
+No: 43, Width: 2.5, Hgt/ID: 0.8, Shape RECT
+No: 44, Width: 1.1, Hgt/ID:   0, Shape SQR 
+No: 52, Width: 0.65, Hgt/ID: 0.3, Shape RECT
+No: 53, Width: 1.55, Hgt/ID: 2.48, Shape RECT
+No: 54, Width: 0.5, Hgt/ID:   0, Shape RND 
+No: 58, Width: 0.55, Hgt/ID:   1, Shape RECT
+No: 64, Width: 1.4, Hgt/ID:   0, Shape SQR 
+No: 66, Width: 0.762, Hgt/ID: 0.9652, Shape RECT
+No: 75, Width: 0.9652, Hgt/ID: 0.762, Shape RECT
+No: 77, Width: 1.524, Hgt/ID: 1.27, Shape RECT
+No: 78, Width: 0.45, Hgt/ID: 0.625, Shape RECT
+No: 79, Width: 2.5, Hgt/ID: 1.6, Shape RECT
+No: 80, Width: 1.524, Hgt/ID:   0, Shape RND 
+No: 81, Width: 0.9144, Hgt/ID:   0, Shape SQR 
+No: 82, Width: 0.9144, Hgt/ID: 1.27, Shape RECT
+No: 83, Width: 0.3, Hgt/ID: 0.8, Shape RECT
+No: 84, Width: 0.65, Hgt/ID: 0.35, Shape RECT
+No: 85, Width: 0.65, Hgt/ID: 0.5, Shape RECT
+No: 86, Width: 0.35, Hgt/ID: 0.65, Shape RECT
+No: 87, Width: 0.5, Hgt/ID: 0.65, Shape RECT
+No: 90, Width: 0.6, Hgt/ID: 0.42, Shape RECT
+No: 91, Width: 0.8, Hgt/ID: 0.9, Shape RECT
+No: 92, Width: 0.8, Hgt/ID: 0.3, Shape RECT
+No: 95, Width: 0.3048, Hgt/ID:   0, Shape RND 
+No: 100, Width: 0.1524, Hgt/ID:   0, Shape RND 
+No: 108, Width:   1, Hgt/ID: 1.8, Shape RECT
+No: 112, Width: 0.9, Hgt/ID: 0.6, Shape RECT
+No: 113, Width: 0.6, Hgt/ID: 0.4, Shape RECT
+No: 118, Width: 0.9, Hgt/ID: 0.4, Shape RECT
+No: 119, Width: 0.52, Hgt/ID: 0.3, Shape RECT
+No: 120, Width: 0.3, Hgt/ID: 0.52, Shape RECT
+No: 124, Width: 1.524, Hgt/ID:   0, Shape SQR 
+No: 139, Width: 0.9, Hgt/ID: 0.8, Shape RECT
+No: 149, Width: 1.397, Hgt/ID:   0, Shape RND 
+No: 260, Width: 0.35, Hgt/ID: 0.7, Shape RECT
+No: 261, Width: 1.96, Hgt/ID: 2.4, Shape RECT
+No: 264, Width: 1.27, Hgt/ID: 0.9144, Shape RECT
+No: 270, Width: 0.5588, Hgt/ID: 0.508, Shape RECT
+No: 271, Width: 0.508, Hgt/ID: 0.5588, Shape RECT
+No: 281, Width: 1.55, Hgt/ID: 0.6, Shape RECT
+No: 282, Width: 1.8, Hgt/ID: 1.2, Shape RECT
+No: 283, Width: 0.6, Hgt/ID: 1.55, Shape RECT
+No: 284, Width: 1.2, Hgt/ID: 1.8, Shape RECT
+No: 285, Width: 0.648, Hgt/ID: 0.406, Shape RECT
+No: 286, Width: 0.406, Hgt/ID: 0.648, Shape RECT
+No: 287, Width: 0.37, Hgt/ID: 0.7, Shape RECT
+No: 288, Width: 0.47, Hgt/ID: 0.7, Shape RECT
+No: 289, Width: 0.7874, Hgt/ID:   0, Shape RND 
+No: 290, Width: 2.2, Hgt/ID: 1.05, Shape RECT
+No: 291, Width: 1.05, Hgt/ID:   1, Shape RECT
+No: 292, Width: 0.65, Hgt/ID: 0.7, Shape RECT
+No: 293, Width:   1, Hgt/ID: 0.55, Shape RECT
+No: 294, Width: 1.3, Hgt/ID: 1.26, Shape RECT
+No: 295, Width: 0.5, Hgt/ID: 0.7, Shape RECT
+No: 296, Width: 0.7, Hgt/ID: 0.5, Shape RECT
+No: 297, Width: 3.05, Hgt/ID: 2.05, Shape RECT
+No: 298, Width: 0.6, Hgt/ID:   0, Shape RND 
+No: 299, Width: 0.24, Hgt/ID: 0.6, Shape RECT
+No: 300, Width: 0.6, Hgt/ID: 0.24, Shape RECT
+No: 301, Width: 2.24, Hgt/ID: 2.54, Shape RECT
+No: 302, Width: 0.4, Hgt/ID:   0, Shape RND 
+No: 303, Width:   1, Hgt/ID: 0.4, Shape RECT
+No: 304, Width: 0.3556, Hgt/ID:   0, Shape RND 
+No: 305, Width: 3.15, Hgt/ID:   0, Shape SQR 
+No: 306, Width: 1.1, Hgt/ID:   0, Shape RND 
+No: 307, Width: 0.23, Hgt/ID:   0, Shape RND 
+No: 308, Width: 0.3, Hgt/ID:   0, Shape RND 
+No: 309, Width: 0.8, Hgt/ID:   0, Shape RND 
+No: 310, Width: 0.33, Hgt/ID:   0, Shape RND 
+
+Apertures required:-
+Width: 0.38, Hgt/ID:   0, Shape RND 
+
+
+
+
+
+
+Apertures used:-
+No: 10, Width: 0.0254, Hgt/ID:   0, Shape RND 
+No: 11, Width: 0.1, Hgt/ID:   0, Shape RND 
+No: 12, Width: 0.05, Hgt/ID:   0, Shape RND 
+No: 16, Width: 0.254, Hgt/ID:   0, Shape RND 
+No: 18, Width: 0.1016, Hgt/ID:   0, Shape RND 
+No: 20, Width: 0.5, Hgt/ID:   0, Shape SQR 
+No: 23, Width: 0.71, Hgt/ID: 0.28, Shape RECT
+No: 24, Width: 0.28, Hgt/ID: 0.71, Shape RECT
+No: 25, Width:   1, Hgt/ID:   0, Shape SQR 
+No: 50, Width: 0.2, Hgt/ID: 0.6, Shape RECT
+No: 51, Width: 0.6, Hgt/ID: 0.2, Shape RECT
+No: 53, Width: 1.55, Hgt/ID: 2.48, Shape RECT
+No: 54, Width: 0.5, Hgt/ID:   0, Shape RND 
+No: 56, Width:   1, Hgt/ID: 0.3, Shape RECT
+No: 57, Width: 0.3, Hgt/ID:   1, Shape RECT
+No: 58, Width: 0.55, Hgt/ID:   1, Shape RECT
+No: 66, Width: 0.762, Hgt/ID: 0.9652, Shape RECT
+No: 75, Width: 0.9652, Hgt/ID: 0.762, Shape RECT
+No: 76, Width: 1.27, Hgt/ID: 1.524, Shape RECT
+No: 77, Width: 1.524, Hgt/ID: 1.27, Shape RECT
+No: 80, Width: 1.524, Hgt/ID:   0, Shape RND 
+No: 81, Width: 0.9144, Hgt/ID:   0, Shape SQR 
+No: 82, Width: 0.9144, Hgt/ID: 1.27, Shape RECT
+No: 86, Width: 0.35, Hgt/ID: 0.65, Shape RECT
+No: 87, Width: 0.5, Hgt/ID: 0.65, Shape RECT
+No: 91, Width: 0.8, Hgt/ID: 0.9, Shape RECT
+No: 92, Width: 0.8, Hgt/ID: 0.3, Shape RECT
+No: 93, Width: 0.01, Hgt/ID:   0, Shape RND 
+No: 95, Width: 0.3048, Hgt/ID:   0, Shape RND 
+No: 100, Width: 0.1524, Hgt/ID:   0, Shape RND 
+No: 116, Width: 0.25, Hgt/ID: 0.325, Shape RECT
+No: 118, Width: 0.9, Hgt/ID: 0.4, Shape RECT
+No: 123, Width: 5.08, Hgt/ID: 2.29, Shape RECT
+No: 124, Width: 1.524, Hgt/ID:   0, Shape SQR 
+No: 129, Width: 0.3, Hgt/ID: 0.4, Shape RECT
+No: 130, Width: 0.4, Hgt/ID: 0.3, Shape RECT
+No: 131, Width: 0.4, Hgt/ID: 1.75, Shape RECT
+No: 132, Width: 1.375, Hgt/ID: 2.5, Shape RECT
+No: 133, Width: 0.22, Hgt/ID: 0.56, Shape RECT
+No: 134, Width: 0.22, Hgt/ID: 0.42, Shape RECT
+No: 135, Width: 0.35, Hgt/ID: 0.25, Shape RECT
+No: 139, Width: 0.9, Hgt/ID: 0.8, Shape RECT
+No: 140, Width: 1.5, Hgt/ID:   0, Shape SQR 
+No: 142, Width: 1.2, Hgt/ID: 1.5, Shape RECT
+No: 149, Width: 1.397, Hgt/ID:   0, Shape RND 
+No: 264, Width: 1.27, Hgt/ID: 0.9144, Shape RECT
+No: 270, Width: 0.5588, Hgt/ID: 0.508, Shape RECT
+No: 271, Width: 0.508, Hgt/ID: 0.5588, Shape RECT
+No: 280, Width: 0.16, Hgt/ID:   0, Shape RND 
+No: 285, Width: 0.648, Hgt/ID: 0.406, Shape RECT
+No: 286, Width: 0.406, Hgt/ID: 0.648, Shape RECT
+No: 287, Width: 0.37, Hgt/ID: 0.7, Shape RECT
+No: 288, Width: 0.47, Hgt/ID: 0.7, Shape RECT
+No: 293, Width:   1, Hgt/ID: 0.55, Shape RECT
+No: 297, Width: 3.05, Hgt/ID: 2.05, Shape RECT
+No: 298, Width: 0.6, Hgt/ID:   0, Shape RND 
+No: 302, Width: 0.4, Hgt/ID:   0, Shape RND 
+No: 304, Width: 0.3556, Hgt/ID:   0, Shape RND 
+No: 306, Width: 1.1, Hgt/ID:   0, Shape RND 
+No: 307, Width: 0.23, Hgt/ID:   0, Shape RND 
+No: 309, Width: 0.8, Hgt/ID:   0, Shape RND 
+No: 311, Width: 0.89, Hgt/ID:   0, Shape RND 
+No: 312, Width: 0.75, Hgt/ID: 0.3, Shape RECT
+No: 313, Width: 1.143, Hgt/ID: 1.651, Shape RECT
+No: 314, Width: 2.9972, Hgt/ID: 1.651, Shape RECT
+No: 315, Width: 0.42, Hgt/ID: 0.6, Shape RECT
+No: 316, Width: 1.6, Hgt/ID: 1.2, Shape RECT
+No: 317, Width: 1.05, Hgt/ID: 1.4, Shape RECT
+No: 318, Width: 0.5, Hgt/ID: 1.1, Shape RECT
+No: 319, Width: 0.35, Hgt/ID: 1.6, Shape RECT
+No: 320, Width: 0.28, Hgt/ID: 0.75, Shape RECT
+No: 321, Width: 0.4, Hgt/ID: 1.9, Shape RECT
+No: 322, Width: 0.27432, Hgt/ID:   0, Shape RND 
+No: 323, Width: 3.1, Hgt/ID: 3.7, Shape RECT
+No: 324, Width: 0.15, Hgt/ID: 0.4, Shape RECT
+No: 326, Width: 0.22, Hgt/ID:   0, Shape RND 
+No: 327, Width: 0.39, Hgt/ID:   0, Shape RND 
+No: 328, Width: 0.9, Hgt/ID:   0, Shape RND 
+No: 373, Width: 0.38, Hgt/ID:   0, Shape RND 
+
+Apertures required:-
+Width: 0.762, Hgt/ID: 1.143, Shape RECT
+
+
+
+
+
+
+Apertures used:-
+No: 10, Width: 0.0254, Hgt/ID:   0, Shape RND 
+No: 11, Width: 0.1, Hgt/ID:   0, Shape RND 
+No: 12, Width: 0.05, Hgt/ID:   0, Shape RND 
+No: 16, Width: 0.254, Hgt/ID:   0, Shape RND 
+No: 18, Width: 0.1016, Hgt/ID:   0, Shape RND 
+No: 93, Width: 0.01, Hgt/ID:   0, Shape RND 
+No: 147, Width: 0.754, Hgt/ID:   0, Shape SQR 
+No: 150, Width: 0.964, Hgt/ID: 0.534, Shape RECT
+No: 151, Width: 0.534, Hgt/ID: 0.964, Shape RECT
+No: 152, Width: 1.254, Hgt/ID:   0, Shape SQR 
+No: 177, Width: 0.454, Hgt/ID: 0.854, Shape RECT
+No: 178, Width: 0.854, Hgt/ID: 0.454, Shape RECT
+No: 180, Width: 1.804, Hgt/ID: 2.734, Shape RECT
+No: 181, Width: 0.754, Hgt/ID:   0, Shape RND 
+No: 183, Width: 1.254, Hgt/ID: 0.554, Shape RECT
+No: 184, Width: 0.554, Hgt/ID: 1.254, Shape RECT
+No: 185, Width: 0.804, Hgt/ID: 1.254, Shape RECT
+No: 191, Width: 1.016, Hgt/ID: 1.2192, Shape RECT
+No: 200, Width: 1.2192, Hgt/ID: 1.016, Shape RECT
+No: 201, Width: 1.524, Hgt/ID: 1.778, Shape RECT
+No: 202, Width: 1.778, Hgt/ID: 1.524, Shape RECT
+No: 205, Width: 1.778, Hgt/ID:   0, Shape RND 
+No: 206, Width: 1.1684, Hgt/ID:   0, Shape SQR 
+No: 207, Width: 1.1684, Hgt/ID: 1.524, Shape RECT
+No: 211, Width: 0.604, Hgt/ID: 0.904, Shape RECT
+No: 212, Width: 0.754, Hgt/ID: 0.904, Shape RECT
+No: 216, Width: 1.054, Hgt/ID: 1.154, Shape RECT
+No: 217, Width: 1.054, Hgt/ID: 0.554, Shape RECT
+No: 229, Width: 0.504, Hgt/ID: 0.579, Shape RECT
+No: 231, Width: 1.154, Hgt/ID: 0.654, Shape RECT
+No: 236, Width: 5.334, Hgt/ID: 2.544, Shape RECT
+No: 239, Width: 1.778, Hgt/ID:   0, Shape SQR 
+No: 244, Width: 0.554, Hgt/ID: 0.654, Shape RECT
+No: 245, Width: 0.654, Hgt/ID: 0.554, Shape RECT
+No: 246, Width: 0.654, Hgt/ID: 2.004, Shape RECT
+No: 247, Width: 1.629, Hgt/ID: 2.754, Shape RECT
+No: 248, Width: 0.474, Hgt/ID: 0.814, Shape RECT
+No: 249, Width: 0.474, Hgt/ID: 0.674, Shape RECT
+No: 250, Width: 0.604, Hgt/ID: 0.504, Shape RECT
+No: 254, Width: 1.154, Hgt/ID: 1.054, Shape RECT
+No: 255, Width: 1.754, Hgt/ID:   0, Shape SQR 
+No: 257, Width: 1.454, Hgt/ID: 1.754, Shape RECT
+No: 268, Width: 1.524, Hgt/ID: 1.1684, Shape RECT
+No: 274, Width: 0.8128, Hgt/ID: 0.762, Shape RECT
+No: 275, Width: 0.762, Hgt/ID: 0.8128, Shape RECT
+No: 280, Width: 0.16, Hgt/ID:   0, Shape RND 
+No: 333, Width: 0.902, Hgt/ID: 0.66, Shape RECT
+No: 334, Width: 0.66, Hgt/ID: 0.902, Shape RECT
+No: 335, Width: 0.624, Hgt/ID: 0.954, Shape RECT
+No: 336, Width: 0.724, Hgt/ID: 0.954, Shape RECT
+No: 341, Width: 1.254, Hgt/ID: 0.804, Shape RECT
+No: 345, Width: 3.304, Hgt/ID: 2.304, Shape RECT
+No: 346, Width: 0.854, Hgt/ID:   0, Shape RND 
+No: 350, Width: 0.654, Hgt/ID:   0, Shape RND 
+No: 352, Width: 0.6096, Hgt/ID:   0, Shape RND 
+No: 354, Width: 1.354, Hgt/ID:   0, Shape RND 
+No: 355, Width: 1.144, Hgt/ID:   0, Shape RND 
+No: 356, Width: 1.004, Hgt/ID: 0.554, Shape RECT
+No: 357, Width: 1.397, Hgt/ID: 1.905, Shape RECT
+No: 358, Width: 3.2512, Hgt/ID: 1.905, Shape RECT
+No: 359, Width: 0.674, Hgt/ID: 0.854, Shape RECT
+No: 360, Width: 1.854, Hgt/ID: 1.454, Shape RECT
+No: 361, Width: 1.304, Hgt/ID: 1.654, Shape RECT
+No: 362, Width: 0.754, Hgt/ID: 1.354, Shape RECT
+No: 363, Width: 0.604, Hgt/ID: 1.854, Shape RECT
+No: 364, Width: 0.534, Hgt/ID: 1.004, Shape RECT
+No: 365, Width: 0.654, Hgt/ID: 2.154, Shape RECT
+No: 366, Width: 0.52832, Hgt/ID:   0, Shape RND 
+No: 367, Width: 3.354, Hgt/ID: 3.954, Shape RECT
+No: 368, Width: 0.404, Hgt/ID: 0.654, Shape RECT
+
+Apertures required:-
+Width: 1.016, Hgt/ID: 1.397, Shape RECT
+
+
+
+
+
+
+
+         Drill Symbol Report
+=====================================
+ Size  Length  Qty    Symbol   Plated
+====== ====== ===== ========== ======
+2.3114            3 +           YES
+  0.38            6 x           YES
+0.9906            3 Rectangle   NO
+2.3749            4 Diamond     NO
+   0.7            4 Hour Glass  YES
+   0.4            6 Bow Tie     YES
+  0.65   1.05     2 +A          NO
+   0.7    1.3     2 +B          NO
+   0.2            9 +C          YES
+ 0.127         1189 +D          YES
+  0.65            7 +E          YES
+0.9398            2 +F          YES
+
+
+
+
+

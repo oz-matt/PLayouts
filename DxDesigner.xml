@@ -3,8 +3,8 @@
   <DxDesigner>
     <SETTINGS>
       <key name="TIPOFTHEDAYTIMESTAMP" value="Tue Sep 12 19:20:23 2017"/>
-      <key name="TIPOFTHEDAYFILEPOS" value="1867"/>
-      <key name="MRU_SETTINGS" value="Borders and Zones"/>
+      <key name="TIPOFTHEDAYFILEPOS" value="3493"/>
+      <key name="MRU_SETTINGS" value="Nets"/>
       <key name="GRID_HR" value="25400"/>
       <key name="NAV_COMP_SORT_ORDER_BY" value="5"/>
       <key name="SHEETSIZE" value="0"/>
@@ -12,8 +12,8 @@
       <key name="UNIQUE_LABEL" value="1"/>
       <key name="DEFSHEET" value="1"/>
       <key name="MRU_PROJECTS">
-        <value>C:\EyeProject\Eye\Eye.prj</value>
         <value>C:\Work\Pads&amp;DXD\Inverter\Inverter.prj</value>
+        <value>C:\EyeProject\Eye\Eye.prj</value>
         <value>C:\Users\TARS\Downloads\Imcorp.prj</value>
         <value>C:\EyeProject\Aqua Programmer\Aqua Programmer\Aqua Programmer\Aqua Programmer.prj</value>
         <value>C:\Users\TARS\Downloads\Aqua Programmer.prj</value>
@@ -100,9 +100,9 @@
           <KeyName>DxDatabook</KeyName>
         </KeyInfo>
         <CipherData>
-          <CipherValue>WwYSD72UnYm1TEc4oUBCrewxzXAzckZSFcFb5ihEQj2UyjGMsHIxPGHMpngobObv
-qUpg9i32tNUMGVh02lkRl9GqQtXPGEm/L46CcMYXFCg0S0TibDpolJtAeOrRrkfq
-iR+BdPrU7fGTL+wHU9jY8VzQqWey2w6tSWFbXqR3SWi1teYjTf2zMevgdOda77r2</CipherValue>
+          <CipherValue>rM2DkgeMHgwPeJmunKlxHb28XCF6HLfYYZQQbxNSbLbq+3u5SrVuUpXR2E3mylv+
+oNYJuFrS2uwIrjmRfo9CMtyAkseQUxFzZOznF5eOvEh1NImBC2nuM0KNMVzBxXXX
+ZyzzWU6HO5goYOSPUVotzbn8C4B6qMcJUgbFp6ws4eY5sI1xZsWYnPJhNlso1T+9</CipherValue>
         </CipherData>
       </EncryptedData>
     </USERDATA>
