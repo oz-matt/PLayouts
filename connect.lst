@@ -1,6 +1,6 @@
 
 
-CONTINUITY ERRORS REPORT -- Q10B-v2.2.3.pcb -- Sat Jan 06 14:50:07 2018
+CONTINUITY ERRORS REPORT -- Q10B-v2.2.6.pcb -- Tue Jan 09 22:24:58 2018
 
 
 
@@ -139,79 +139,97 @@ Isolated subnets for: HGND
  HATCH OUTLINE(35.1049,52.75485 L10)
 
 *** subnet # 45
- HATCH OUTLINE(4.89414,4.7744 L10)
-
-*** subnet # 46
  HATCH OUTLINE(12.70697,59.75134 L10)
 
-*** subnet # 47
+*** subnet # 46
  HATCH OUTLINE(29.67252,57.48339 L10)
 
-*** subnet # 48
+*** subnet # 47
  HATCH OUTLINE(37.83554,44.78143 L10)
 
-*** subnet # 49
+*** subnet # 48
  HATCH OUTLINE(40.68676,63.11551 L10)
 
-*** subnet # 50
+*** subnet # 49
  HATCH OUTLINE(40.68257,65.03332 L10)
 
-*** subnet # 51
+*** subnet # 50
  HATCH OUTLINE(41.87179,48.93189 L10)
 
-*** subnet # 52
+*** subnet # 51
  HATCH OUTLINE(41.87179,49.62321 L10)
 
-*** subnet # 53
+*** subnet # 52
  HATCH OUTLINE(9.56425,48.38007 L10)
 
-*** subnet # 54
+*** subnet # 53
  HATCH OUTLINE(24.65931,28.04514 L10)
 
-*** subnet # 55
+*** subnet # 54
  HATCH OUTLINE(31.0859,34.51219 L10)
 
-*** subnet # 56
+*** subnet # 55
  HATCH OUTLINE(33.11912,36.3578 L10)
 
-*** subnet # 57
+*** subnet # 56
  HATCH OUTLINE(35.21812,48.71975 L10)
 
-*** subnet # 58
+*** subnet # 57
  HATCH OUTLINE(35.2305,49.58321 L10)
 
-*** subnet # 59
+*** subnet # 58
  HATCH OUTLINE(32.97317,45.84318 L10)
 
-*** subnet # 60
+*** subnet # 59
  HATCH OUTLINE(-3.72879,1.86357 L10)
 
-*** subnet # 61
+*** subnet # 60
  HATCH OUTLINE(1.27305,0.62357 L10)
 
-*** subnet # 62
+*** subnet # 61
  HATCH OUTLINE(0.77446,2.19171 L10)
 
-*** subnet # 63
+*** subnet # 62
  HATCH OUTLINE(-0.75209,5.40531 L10)
 
-*** subnet # 64
+*** subnet # 63
  HATCH OUTLINE(44.24923,-6.79678 L10)
 
-*** subnet # 65
+*** subnet # 64
  HATCH OUTLINE(27.23893,59.40946 L10)
 
-*** subnet # 66
+*** subnet # 65
  HATCH OUTLINE(30.37699,11.65518 L10)
 
-*** subnet # 67
+*** subnet # 66
  HATCH OUTLINE(35.61514,6.26827 L10)
 
-*** subnet # 68
+*** subnet # 67
  HATCH OUTLINE(38.96069,9.01595 L10)
 
-*** subnet # 69
+*** subnet # 68
  HATCH OUTLINE(40.68676,62.46551 L10)
+
+*** subnet # 69
+ HATCH OUTLINE(38.69261,22.71841 L10)
+
+*** subnet # 70
+ HATCH OUTLINE(39.47539,24.4422 L10)
+
+*** subnet # 71
+ HATCH OUTLINE(44.92462,60.99576 L10)
+
+*** subnet # 72
+ HATCH OUTLINE(-1.90452,6.75022 L10)
+
+*** subnet # 73
+ HATCH OUTLINE(5.23702,9.59817 L10)
+
+*** subnet # 74
+ HATCH OUTLINE(6.87315,56.36821 L10)
+
+*** subnet # 75
+ HATCH OUTLINE(13.03312,59.1814 L10)
 
 
 Isolated subnets for: 3V3_USB
