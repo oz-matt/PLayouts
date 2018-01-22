@@ -1,3 +1,3 @@
-PADS Router. Database Integrity Test results for <C:\PADS Projects\Layout_Switch_18_01_09_19_40_02.pcb>
+PADS Router. Database Integrity Test results for <C:\PADS Projects\dino-ppb-v1.1.0.pcb>
 
 No database integrity problems found.

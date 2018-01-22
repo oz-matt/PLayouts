@@ -1,92 +1,638 @@
 `<000>
 -----------------
-Loading PCB file 'C:\PADS Projects\Layout_Switch_18_01_09_19_40_02.pcb'...
-PCB file loaded -- `DESIGN[C:\PADS Projects\Layout_Switch_18_01_09_19_40_02.pcb][C:\PADS Projects\Layout_Switch_18_01_09_19_40_02.pcb] -- version 9.4.0
+Loading PCB file 'C:\PADS Projects\dino-ppb-v1.0.0.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\dino-ppb-v1.0.0.pcb][C:\PADS Projects\dino-ppb-v1.0.0.pcb] -- version 9.4.0
 Integrity Test in progress...
 	No database integrity problems found
 ... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
-Unprotect in progress...
-...Unprotect finished.
-Unprotect in progress...
-...Unprotect finished.
-Unroute in progress...
-...Unroute finished.
-Unprotect in progress...
-...Unprotect finished.
-Unroute in progress...
-...Unroute finished.
-Unprotect in progress...
-...Unprotect finished.
-Unroute in progress...
-...Unroute finished.
-Unprotect in progress...
-...Unprotect finished.
-Unroute in progress...
-...Unroute finished.
-Unprotect in progress...
-...Unprotect finished.
-Unroute in progress...
-...Unroute finished.
-Unprotect in progress...
-...Unprotect finished.
-Unroute in progress...
-...Unroute finished.
-Unprotect in progress...
-...Unprotect finished.
-Unprotect in progress...
-...Unprotect finished.
-Unprotect in progress...
-...Unprotect finished.
+Interactive Route: Cannot start routing from (V) Bottom (4), current layer restricted for Net (or Pin Pair): $1N374; 
 -----------------
-Loading PCB file 'C:\PADS Projects\Layout_Switch_18_01_09_19_40_02.pcb'...
-PCB file loaded -- `DESIGN[C:\PADS Projects\Layout_Switch_18_01_09_19_40_02.pcb][C:\PADS Projects\Layout_Switch_18_01_09_19_40_02.pcb] -- version 9.4.0
+Loading PCB file 'C:\PADS Projects\dino-ppb-v1.0.0.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\dino-ppb-v1.0.0.pcb][C:\PADS Projects\dino-ppb-v1.0.0.pcb] -- version 9.4.0
 Integrity Test in progress...
 	No database integrity problems found
 ... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
-Unprotect in progress...
-...Unprotect finished.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Unroute in progress...
+...Unroute finished.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Can't start routing from unused pin.
+Can't start routing from unused pin.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
 -----------------
-Loading PCB file 'C:\PADS Projects\Layout_Switch_18_01_09_19_40_02.pcb'...
-PCB file loaded -- `DESIGN[C:\PADS Projects\Layout_Switch_18_01_09_19_40_02.pcb][C:\PADS Projects\Layout_Switch_18_01_09_19_40_02.pcb] -- version 9.4.0
+Loading PCB file 'C:\PADS Projects\dino-ppb-v1.0.0.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\dino-ppb-v1.0.0.pcb][C:\PADS Projects\dino-ppb-v1.0.0.pcb] -- version 9.4.0
 Integrity Test in progress...
 	No database integrity problems found
 ... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
-Unprotect in progress...
-...Unprotect finished.
-Unprotect in progress...
-...Unprotect finished.
 -----------------
-Loading PCB file 'C:\PADS Projects\Layout_Switch_18_01_09_19_40_02.pcb'...
-PCB file loaded -- `DESIGN[C:\PADS Projects\Layout_Switch_18_01_09_19_40_02.pcb][C:\PADS Projects\Layout_Switch_18_01_09_19_40_02.pcb] -- version 9.4.0
+Saving PCB file 'C:\PADS Projects\dino-ppb-v1.0.0.pcb'...
+PCB file saved -- `DESIGN[C:\PADS Projects\dino-ppb-v1.0.0.pcb][C:\PADS Projects\dino-ppb-v1.0.0.pcb]
+-----------------
+Loading PCB file 'C:\PADS Projects\dino-ppb-v1.0.0.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\dino-ppb-v1.0.0.pcb][C:\PADS Projects\dino-ppb-v1.0.0.pcb] -- version 9.4.0
 Integrity Test in progress...
 	No database integrity problems found
 ... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Delete in progress...
+...Delete finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Can't create trace without creating clearance violations.
+-----------------
+Saving PCB file 'C:\PADS Projects\dino-ppb-v1.0.0.pcb'...
+PCB file saved -- `DESIGN[C:\PADS Projects\dino-ppb-v1.0.0.pcb][C:\PADS Projects\dino-ppb-v1.0.0.pcb]
+-----------------
+Loading PCB file 'C:\PADS Projects\dino-ppb-v1.0.0.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\dino-ppb-v1.0.0.pcb][C:\PADS Projects\dino-ppb-v1.0.0.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Can't create trace without creating clearance violations.
+-----------------
+Loading PCB file 'C:\PADS Projects\dino-ppb-v1.0.0.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\dino-ppb-v1.0.0.pcb][C:\PADS Projects\dino-ppb-v1.0.0.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+Can't start routing from unused pin.
+Unroute in progress...
+...Unroute finished.
+Can't create trace without creating clearance violations.
+Changing trace width failed.
+-----------------
+Loading PCB file 'C:\PADS Projects\dino-ppb-v1.0.0.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\dino-ppb-v1.0.0.pcb][C:\PADS Projects\dino-ppb-v1.0.0.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+-----------------
+Loading PCB file 'C:\PADS Projects\dino-ppb-v1.0.0.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\dino-ppb-v1.0.0.pcb][C:\PADS Projects\dino-ppb-v1.0.0.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+-----------------
+Loading PCB file 'C:\PADS Projects\dino-ppb-v1.0.0.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\dino-ppb-v1.0.0.pcb][C:\PADS Projects\dino-ppb-v1.0.0.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+Unprotect in progress...
+...Unprotect finished.
+Unroute in progress...
+...Unroute finished.
 Unroute in progress...
 ...Unroute finished.
 Unroute in progress...
 ...Unroute finished.
 Warning: Plow failed - insufficient space for plowing operation.
-Unprotect in progress...
-...Unprotect finished.
-Unprotect in progress...
-...Unprotect finished.
------------------
-Loading PCB file 'C:\PADS Projects\Layout_Switch_18_01_09_19_40_02.pcb'...
-PCB file loaded -- `DESIGN[C:\PADS Projects\Layout_Switch_18_01_09_19_40_02.pcb][C:\PADS Projects\Layout_Switch_18_01_09_19_40_02.pcb] -- version 9.4.0
-Integrity Test in progress...
-	No database integrity problems found
-... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
-Unprotect in progress...
-...Unprotect finished.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
 Unroute in progress...
 ...Unroute finished.
-Unprotect in progress...
-...Unprotect finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Warning: insufficient space for via.
+Warning: insufficient space for via.
+Warning: insufficient space for via.
+Warning: insufficient space for via.
+Warning: insufficient space for via.
+Warning: insufficient space for via.
+Warning: insufficient space for via.
+Warning: insufficient space for via.
+Warning: insufficient space for via.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Unroute in progress...
+...Unroute finished.
 -----------------
-Loading PCB file 'C:\PADS Projects\Layout_Switch_18_01_09_19_40_02.pcb'...
-PCB file loaded -- `DESIGN[C:\PADS Projects\Layout_Switch_18_01_09_19_40_02.pcb][C:\PADS Projects\Layout_Switch_18_01_09_19_40_02.pcb] -- version 9.4.0
+Saving PCB file 'C:\PADS Projects\dino-ppb-v1.1.0.pcb'...
+PCB file saved -- `DESIGN[C:\PADS Projects\dino-ppb-v1.1.0.pcb][C:\PADS Projects\dino-ppb-v1.1.0.pcb]
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+-----------------
+Loading PCB file 'C:\PADS Projects\dino-ppb-v1.1.0.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\dino-ppb-v1.1.0.pcb][C:\PADS Projects\dino-ppb-v1.1.0.pcb] -- version 9.4.0
 Integrity Test in progress...
 	No database integrity problems found
 ... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
-Unprotect in progress...
-...Unprotect finished.
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 30  Routed 200 of 230 (87.0%)  Vias 120  Duration 00:00:00
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 29  Routed 201 of 230 (87.4%)  Vias 120  Duration 00:00:00
+-----------------
+-----------------
+Loading PCB file 'C:\PADS Projects\dino-ppb-v1.1.0.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\dino-ppb-v1.1.0.pcb][C:\PADS Projects\dino-ppb-v1.1.0.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+-----------------
+Loading PCB file 'C:\PADS Projects\dino-ppb-v1.1.0.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\dino-ppb-v1.1.0.pcb][C:\PADS Projects\dino-ppb-v1.1.0.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 29  Routed 201 of 230 (87.4%)  Vias 120  Duration 00:00:00
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 28  Routed 202 of 230 (87.8%)  Vias 121  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 27  Routed 203 of 230 (88.3%)  Vias 123  Duration 00:00:00
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 25  Routed 205 of 230 (89.1%)  Vias 126  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 25  Routed 205 of 230 (89.1%)  Vias 125  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 24  Routed 206 of 230 (89.6%)  Vias 125  Duration 00:00:00
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 23  Routed 207 of 230 (90.0%)  Vias 127  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 19  Routed 211 of 230 (91.7%)  Vias 129  Duration 00:00:00
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 17  Routed 213 of 230 (92.6%)  Vias 135  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 16  Routed 214 of 230 (93.0%)  Vias 135  Duration 00:00:00
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 15  Routed 215 of 230 (93.5%)  Vias 136  Duration 00:00:01
+-----------------
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 13  Routed 217 of 230 (94.3%)  Vias 136  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 12  Routed 218 of 230 (94.8%)  Vias 137  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 11  Routed 219 of 230 (95.2%)  Vias 141  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 10  Routed 220 of 230 (95.7%)  Vias 141  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 9  Routed 221 of 230 (96.1%)  Vias 141  Duration 00:00:00
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 8  Routed 222 of 230 (96.5%)  Vias 142  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 7  Routed 223 of 230 (97.0%)  Vias 143  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 5  Routed 225 of 230 (97.8%)  Vias 147  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 4  Routed 226 of 230 (98.3%)  Vias 149  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 3  Routed 227 of 230 (98.7%)  Vias 149  Duration 00:00:01
+-----------------
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 2  Routed 228 of 230 (99.1%)  Vias 149  Duration 00:00:01
+-----------------
+-----------------
+Loading PCB file 'C:\PADS Projects\dino-ppb-v1.1.0.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\dino-ppb-v1.1.0.pcb][C:\PADS Projects\dino-ppb-v1.1.0.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+Unroute in progress...
+...Unroute finished.
+-----------------
+Batch Router Statistics
+
+Pre-routing analysis in progress...
+Pre-routing analysis finished.
+
+Done> Unroutes 2  Routed 228 of 230 (99.1%)  Vias 150  Duration 00:00:00
+-----------------
+Delete in progress...
+...Delete finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+-----------------
+Loading PCB file 'C:\PADS Projects\dino-ppb-v1.1.0.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\dino-ppb-v1.1.0.pcb][C:\PADS Projects\dino-ppb-v1.1.0.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+-----------------
+Loading PCB file 'C:\PADS Projects\dino-ppb-v1.1.0.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\dino-ppb-v1.1.0.pcb][C:\PADS Projects\dino-ppb-v1.1.0.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+Delete in progress...
+...Delete finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+-----------------
+Loading PCB file 'C:\PADS Projects\dino-ppb-v1.1.0.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\dino-ppb-v1.1.0.pcb][C:\PADS Projects\dino-ppb-v1.1.0.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+-----------------
+Loading PCB file 'C:\PADS Projects\dino-ppb-v1.1.0.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\dino-ppb-v1.1.0.pcb][C:\PADS Projects\dino-ppb-v1.1.0.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+Trace width 8 is out of range ] 0, 6.35].
+-----------------
+Loading PCB file 'C:\PADS Projects\dino-ppb-v1.1.0.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\dino-ppb-v1.1.0.pcb][C:\PADS Projects\dino-ppb-v1.1.0.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Can't create trace without creating clearance violations.
+Can't create trace without creating clearance violations.
+Can't create trace without creating clearance violations.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+-----------------
+Loading PCB file 'C:\PADS Projects\dino-ppb-v1.1.0.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\dino-ppb-v1.1.0.pcb][C:\PADS Projects\dino-ppb-v1.1.0.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Unroute in progress...
+...Unroute finished.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+Warning: Plow failed - insufficient space for plowing operation.
+-----------------
+Loading PCB file 'C:\PADS Projects\dino-ppb-v1.1.0.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\dino-ppb-v1.1.0.pcb][C:\PADS Projects\dino-ppb-v1.1.0.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+-----------------
+Loading PCB file 'C:\PADS Projects\dino-ppb-v1.1.0.pcb'...
+PCB file loaded -- `DESIGN[C:\PADS Projects\dino-ppb-v1.1.0.pcb][C:\PADS Projects\dino-ppb-v1.1.0.pcb] -- version 9.4.0
+Integrity Test in progress...
+	No database integrity problems found
+... Integrity test report saved -- `FILE[C:\PADS Projects\TestIntegrity.txt][C:\PADS Projects\TestIntegrity.txt]
+Delete in progress...
+...Delete finished.
+Unroute in progress...
+...Unroute finished.
